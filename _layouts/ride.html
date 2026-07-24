@@ -1,0 +1,80 @@
+{% include header.html %}
+<article class="h-entry flow">
+  <h1 class="p-name post-title">{% include post_icon.html type=page.type %} {{ page.title }}</h1>
+
+  <div class="e-content entry flow">
+
+    {{ content }}
+
+    {% if page.zwift_url  %}
+      <p>&raquo; <a href="{{ page.zwift_url }}">View on Zwift &rarr;</a></p>
+    {% endif %}
+  </div>
+
+  {% if page.id %}
+  <p class="meta">
+    // Written by: <a href="{{ site.owner.url }}">{{ site.owner.name }}</a><br/>
+    // Published: <time class="dt-published"
+      datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with
+    {{ page.content | number_of_words }} words. {%
+    webmention_count page.url %} mentions.
+  </p>
+  <p>
+
+  </p>
+
+  <p class="webmentions">
+    <a class="u-url hidden" href="{{ page.url | absolute_url }}" hidden="from-humans"></a>
+    {% webmentions page.url %}
+  </p>
+
+  {% if page.syndicate == true %}
+  <p class="meta">
+    <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
+  </p>
+  {% endif %}
+
+
+  <p class="visually-hidden p-category" hidden="from-humans">{{ page.type }}</p>
+
+  {% endif %}
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  {% if page.last_modified_at %}
+  "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+  {% endif %}
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.owner.name }}",
+    "url": "{{ site.owner.url }}",
+    "image": "{{ site.owner.avatar }}",
+    "jobTitle": "{{ site.owner.jobTitle }}",
+    "sameAs": [
+      {% for link in site.owner.sameAs %}
+      "{{ link }}"{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ site.organization.name }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.organization.logo }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+</script>
+</article>
+
+{% include footer.html %}

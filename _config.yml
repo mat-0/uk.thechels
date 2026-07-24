@@ -44,6 +44,10 @@ collections:
     output: true
     sort_by: class
     permalink: ./projects/:title
+  rides:
+    output: true
+    sort_by: date
+    permalink: ./rides/:title
   bookmarks:
     output: true
     sort_by: date
@@ -135,6 +139,8 @@ navigation_data:
     title: "Podcasts"
   - link: "/blogroll"
     title: "Blogroll"
+  - link: "/rides"
+    title: "Rides"
   - link: "/slogans"
     title: "Slogans"
   - link: "/films"
