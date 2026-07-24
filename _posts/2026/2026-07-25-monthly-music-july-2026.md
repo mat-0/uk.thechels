@@ -1,12 +1,10 @@
 ---
-
 layout: post
 date: 2026-07-25
 title: Monthly Mixtape - Jul 2026
 type: mixtape
 syndicate: true
 show: true
-
 ---
 
 What I've been listening to this month.
