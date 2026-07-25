@@ -6,7 +6,6 @@ cited: Wikipedia
 link: https://en.wikipedia.org/wiki/Fredkin%27s_paradox
 seo: "Fredkin's paradox on equally attractive options and decision-making"
 type: til
-
 ---
 
 > Fredkin's paradox reads "The more equally attractive two alternatives seem, the harder it can be to choose between them—no matter that, to the same degree, the choice can only matter less." Thus, a decision-making agent might spend the most time on the least important decisions.
