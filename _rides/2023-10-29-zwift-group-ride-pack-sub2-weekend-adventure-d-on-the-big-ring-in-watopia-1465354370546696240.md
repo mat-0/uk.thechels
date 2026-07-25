@@ -1,6 +1,6 @@
 ---
 layout: ride
-title: "Zwift - Group Ride: PACK SUB2 Weekend Adventure (D) on The Big Ring in Watopia"
+title: "Zwift - Group Ride: PACK SUB2 Weekend Adventure on The Big Ring in Watopia"
 date: 2023-10-29 15:14
 zwift_id: 1465354370546696240
 zwift_url: https://zwift.com/uk/activity/1465354370546696240
