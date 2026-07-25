@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2026-07-26 00:20
-title: "TIL - Fredkin's paradox"
+title: "TIL - Fredkin's Paradox"
 cited: Wikipedia
 link: https://en.wikipedia.org/wiki/Fredkin%27s_paradox
 seo: "Fredkin's paradox on equally attractive options and decision-making"
