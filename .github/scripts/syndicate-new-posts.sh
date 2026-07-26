@@ -101,7 +101,10 @@ syndicate_to_rss_chat() {
     return 0
   fi
 
-  description="<p>$(json_escape "$title")</p><p><a href=\"$(json_escape "$source_url")\">${source_url}</a></p>"
+  local description_html
+  description_html="<p>${title}</p><p><a href=\"${source_url}\">${source_url}</a></p>"
+  description="$(json_escape "$description_html")"
+
   jsontext="{\"description\":\"${description}\",\"title\":\"$(json_escape "$title")\"}"
 
   status_code=$(curl -sS -o /tmp/rsschat_response -w "%{http_code}" \
