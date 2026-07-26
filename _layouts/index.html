@@ -3,7 +3,10 @@
 
 {{ content }}
 
+{% assign rides = site.rides %}
 {% assign posts = site.posts | where_exp: "post", "post.show != false" %}
+{% assign posts = posts | concat: rides %}
+{% assign posts = posts | sort: "date" | reverse %}
 
 <p class="marker"><b>{{ posts | size }}</b> total posts.</p>
 <div id="blog-archives" class="flow">

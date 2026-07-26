@@ -19,6 +19,7 @@ permalink: /feed
     <email>{{ site.owner.email }}</email>
     <uri>{{ site.owner.uri }}/</uri>
   </author>
+{%- assign rides = site.rides -%}
 {%- assign posts = site.posts -%}
 {%- assign films = "" | split: "" -%}
 {%- for film in site.data.films -%}
@@ -28,8 +29,8 @@ permalink: /feed
   {%- endif -%}
 {%- endfor -%}
 {%- assign posts = posts | concat: films -%}
+{%- assign posts = posts | concat: rides -%}
 {%- assign posts = posts | sort: "date" | reverse -%}
-
 {% for post in posts %}
     {%- if post.imdb %}
     {% assign film_link = "https://thechels.uk/films#" | append: post.imdb %}

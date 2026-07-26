@@ -7,7 +7,7 @@ seo: Subscribe to various JSON, RSS, and Data feeds
 
 A number of RSS feeds are available. All feeds are Atom/XML unless otherwise specified.
 
-- [Main Feed](/feed.xml) - All firehose feed ({{ site.posts | size }} posts).
+- [Main Feed](/feed.xml) - All firehose feed ({{ site.posts | concat: site.rides | size }} posts).
 - [Main feed as JSON](/feed.json) - All firehose feed.
 
 By type:
@@ -19,6 +19,7 @@ By type:
 - [Links only](/links.xml) - Linked/quote posts only.
 - [Posts only](/posts.xml) - Posts only.
 - [Releases only](/releases.xml) - Release posts only.
+- [Rides only](/rides.xml) - Rides posts only.
 - [RSS only](/rss.xml) - Secret RSS posts only.
 - [Socials only](/socials.xml) - Social posts only.
 - [TIL only](/til.xml) - TIL posts only.

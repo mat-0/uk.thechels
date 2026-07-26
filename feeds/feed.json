@@ -16,7 +16,11 @@ layout: empty
       "email": "{{ site.owner.email }}"
   },
     "items": [
-      {% for post in site.posts %}
+      {%- assign rides = site.rides -%}
+      {%- assign posts = site.posts -%}
+      {%- assign posts = posts | concat: rides -%}
+      {%- assign posts = posts | sort: "date" | reverse -%}
+      {% for post in posts %}
       {
         "id": "{{ post.url | escape }}",
         "url": "{{ site.url | append: post.url | escape }}",
