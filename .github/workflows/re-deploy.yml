@@ -96,6 +96,7 @@ jobs:
         with:
             before_sha: ${{ inputs.before_sha }}
             current_sha: ${{ inputs.current_sha }}
+        secrets: inherit
 
     purge-cache:
         needs: deploy
