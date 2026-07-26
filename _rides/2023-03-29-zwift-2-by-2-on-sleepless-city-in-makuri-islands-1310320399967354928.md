@@ -1,6 +1,6 @@
 ---
 layout: ride
-title: "2 by 2 on sleepless city in Makuri Islands"
+title: "Zwift - 2 by 2 on sleepless city in Makuri Islands"
 date: 2023-03-29 17:29
 zwift_id: 1310320399967354928
 zwift_url: https://zwift.com/uk/activity/1310320399967354928

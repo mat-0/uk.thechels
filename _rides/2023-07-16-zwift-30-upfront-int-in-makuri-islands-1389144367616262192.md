@@ -1,6 +1,6 @@
 ---
 layout: ride
-title: "30 - upfront (int) in Makuri Islands"
+title: "Zwift - 30 - upfront (int) in Makuri Islands"
 date: 2023-07-16 11:38
 zwift_id: 1389144367616262192
 zwift_url: https://zwift.com/uk/activity/1389144367616262192

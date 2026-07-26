@@ -1,6 +1,6 @@
 ---
 layout: ride
-title: "PPR: Tick Tock in Watopia with Taylor"
+title: "Zwift - PPR: Tick Tock in Watopia with Taylor"
 date: 2023-01-23 21:07
 zwift_id: 1263319542113763360
 zwift_url: https://zwift.com/uk/activity/1263319542113763360

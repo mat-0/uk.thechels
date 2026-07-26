@@ -1,6 +1,6 @@
 ---
 layout: ride
-title: "Volcano Laps on Volcano Circuit in Watopia"
+title: "Zwift - Volcano Laps on Volcano Circuit in Watopia"
 date: 2023-08-19 19:08
 zwift_id: 1414013258859315200
 zwift_url: https://zwift.com/uk/activity/1414013258859315200

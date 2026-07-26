@@ -1,6 +1,6 @@
 ---
 layout: ride
-title: "PPR: Turf N Surf in Makuri Islands with Bernie"
+title: "Zwift -PPR: Turf N Surf in Makuri Islands with Bernie"
 date: 2022-12-11 13:14
 zwift_id: 1231916236229591056
 zwift_url: https://zwift.com/uk/activity/1231916236229591056

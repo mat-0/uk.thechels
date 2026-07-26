@@ -1,6 +1,6 @@
 ---
 layout: ride
-title: "PPR: Island Hopper in Makuri Islands with Taylor"
+title: "Zwift - PPR: Island Hopper in Makuri Islands with Taylor"
 date: 2023-01-02 15:10
 zwift_id: 1247919698419384352
 zwift_url: https://zwift.com/uk/activity/1247919698419384352
