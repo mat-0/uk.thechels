@@ -141,7 +141,7 @@
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT1392190
   rating: 8
-  title: 'Mad Max: Fury Road'
+  title: "Mad Max: Fury Road"
   year: 2015
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT1684233
@@ -191,7 +191,7 @@
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT3321300
   rating: 8
-  title: 'Spooks: The Greater Good'
+  title: "Spooks: The Greater Good"
   year: 2015
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT1428538
@@ -221,7 +221,7 @@
 - date: 2005-01-01 00:00:00+00:00
   imdb: TT0370263
   rating: 7
-  title: 'Avp: Alien Vs Predator'
+  title: "Avp: Alien Vs Predator"
   year: 2004
 - date: 1993-01-01 00:00:00+00:00
   imdb: TT0103644
@@ -291,7 +291,7 @@
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT2226417
   rating: 7
-  title: 'Insidious: Chapter II'
+  title: "Insidious: Chapter II"
   year: 2013
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT2034139
@@ -341,7 +341,7 @@
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT1270798
   rating: 6
-  title: 'X Men: First Class'
+  title: "X Men: First Class"
   year: 2011
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0381061
@@ -466,7 +466,7 @@
 - date: 2010-01-01 00:00:00+00:00
   imdb: TT0865907
   rating: 3
-  title: 'In To The Blue 2: The Reef'
+  title: "In To The Blue 2: The Reef"
   year: 2009
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0378109
@@ -516,7 +516,7 @@
 - date: 2013-01-01 00:00:00+00:00
   imdb: TT1611224
   rating: 5
-  title: 'Abraham Lincoln: Vampire Hunter'
+  title: "Abraham Lincoln: Vampire Hunter"
   year: 2012
 - date: 2013-01-01 00:00:00+00:00
   imdb: TT1386703
@@ -581,7 +581,7 @@
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT1229238
   rating: 2
-  title: 'Mission Impossible: Ghost Protocol'
+  title: "Mission Impossible: Ghost Protocol"
   year: 2011
 - date: 2013-01-01 00:00:00+00:00
   imdb: TT0848228
@@ -686,7 +686,7 @@
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0930083
   rating: 9
-  title: 'Noroi: The Curse'
+  title: "Noroi: The Curse"
   year: 2005
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT1486185
@@ -716,7 +716,7 @@
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT0458339
   rating: 4
-  title: 'Captain America: The First Avenger'
+  title: "Captain America: The First Avenger"
   year: 2011
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT1727358
@@ -861,7 +861,7 @@
 - date: 1996-01-01 00:00:00+00:00
   imdb: TT0258960
   rating: 4
-  title: 'Shinjuku Kuroshakai: Chaina Mafia Senso'
+  title: "Shinjuku Kuroshakai: Chaina Mafia Senso"
   year: 1995
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT1499658
@@ -881,12 +881,12 @@
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT0912597
   rating: 5
-  title: 'Death Note: L Change The World'
+  title: "Death Note: L Change The World"
   year: 2008
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0810827
   rating: 6
-  title: 'Death Note: The Last Name'
+  title: "Death Note: The Last Name"
   year: 2006
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0758742
@@ -903,7 +903,8 @@
   rating: 5
   title: Hall Pass
   year: 2011
-- Title: Daehakno-Yeseo Maechoon-Hadaka Tomaksalhae Danghan Yeogosaeng Ajik Daehakno-Ye
+- Title:
+    Daehakno-Yeseo Maechoon-Hadaka Tomaksalhae Danghan Yeogosaeng Ajik Daehakno-Ye
     Issda
   date: 2001-01-01 00:00:00+00:00
   imdb: TT0280140
@@ -982,7 +983,7 @@
 - date: 2011-01-01 00:00:00+00:00
   imdb: TT1027718
   rating: 3
-  title: 'Wall Street: Money Never Sleeps'
+  title: "Wall Street: Money Never Sleeps"
   year: 2010
 - date: 2008-01-01 00:00:00+00:00
   imdb: TT0473356
@@ -1252,7 +1253,7 @@
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0396171
   rating: 7
-  title: 'Perfume: ... Murderer'
+  title: "Perfume: ... Murderer"
   year: 2006
 - date: 2010-01-01 00:00:00+00:00
   imdb: TT0433362
@@ -1262,7 +1263,7 @@
 - date: 2004-01-01 00:00:00+00:00
   imdb: TT0325703
   rating: 2
-  title: 'Lara Croft Tomb Raider: The Cradle Of Life'
+  title: "Lara Croft Tomb Raider: The Cradle Of Life"
   year: 2003
 - date: 1985-01-01 00:00:00+00:00
   imdb: TT0088011
@@ -1347,7 +1348,7 @@
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT0443701
   rating: 5
-  title: 'The X Files: I Want To Believe'
+  title: "The X Files: I Want To Believe"
   year: 2008
 - date: 2008-01-01 00:00:00+00:00
   imdb: TT0804555
@@ -1412,7 +1413,7 @@
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0398913
   rating: 7
-  title: 'Doa: Dead Or Alive'
+  title: "Doa: Dead Or Alive"
   year: 2006
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0384286
@@ -1502,7 +1503,7 @@
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0455135
   rating: 7
-  title: 'The Eye III (Ten: Infinity)'
+  title: "The Eye III (Ten: Infinity)"
   year: 2005
 - date: 2005-01-01 00:00:00+00:00
   imdb: TT0405061
@@ -1582,7 +1583,7 @@
 - date: 2004-01-01 00:00:00+00:00
   imdb: TT0167260
   rating: 4
-  title: 'Lotr: The Return Of The King'
+  title: "Lotr: The Return Of The King"
   year: 2003
 - date: 2008-01-01 00:00:00+00:00
   imdb: TT0804461
@@ -1602,7 +1603,7 @@
 - date: 2003-01-01 00:00:00+00:00
   imdb: TT0167261
   rating: 5
-  title: 'Lotr: The Two Towers'
+  title: "Lotr: The Two Towers"
   year: 2002
 - date: 1999-01-01 00:00:00+00:00
   imdb: TT0120148
@@ -1612,7 +1613,7 @@
 - date: 2002-01-01 00:00:00+00:00
   imdb: TT0120737
   rating: 5
-  title: 'Lotr: The Fellowship Of The Ring'
+  title: "Lotr: The Fellowship Of The Ring"
   year: 2001
 - date: 2000-01-01 00:00:00+00:00
   imdb: TT0141369
@@ -1817,7 +1818,7 @@
 - date: 2010-01-01 00:00:00+00:00
   imdb: TT1079444
   rating: 4
-  title: 'Dead Like Me: Life After Death'
+  title: "Dead Like Me: Life After Death"
   year: 2009
 - date: 2004-01-01 00:00:00+00:00
   imdb: TT0338337
@@ -1842,7 +1843,7 @@
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0363771
   rating: 6
-  title: 'The Tales Of Narnia: The Lion The Witch And The Wardrobe'
+  title: "The Tales Of Narnia: The Lion The Witch And The Wardrobe"
   year: 2005
 - date: 1986-01-01 00:00:00+00:00
   imdb: TT0089530
@@ -2112,7 +2113,7 @@
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0416449
   rating: 6
-  title: '300'
+  title: "300"
   year: 2006
 - date: 1987-01-01 00:00:00+00:00
   imdb: TT0092086
@@ -2422,7 +2423,7 @@
 - date: 1993-01-01 00:00:00+00:00
   imdb: TT0104431
   rating: 2
-  title: 'Home Alone ii : Lost In New York'
+  title: "Home Alone ii : Lost In New York"
   year: 1992
 - date: 1998-01-01 00:00:00+00:00
   imdb: TT0119303
@@ -2542,102 +2543,102 @@
 - date: 2003-01-01 00:00:00+00:00
   imdb: TT0246460
   rating: 4
-  title: 'James Bond: Die Another Day'
+  title: "James Bond: Die Another Day"
   year: 2002
 - date: 1998-01-01 00:00:00+00:00
   imdb: TT0120347
   rating: 4
-  title: 'James Bond: Tomorrow Never Dies'
+  title: "James Bond: Tomorrow Never Dies"
   year: 1997
 - date: 1990-01-01 00:00:00+00:00
   imdb: TT0097742
   rating: 4
-  title: 'James Bond: Licence To Kill'
+  title: "James Bond: Licence To Kill"
   year: 1989
 - date: 1986-01-01 00:00:00+00:00
   imdb: TT0090264
   rating: 4
-  title: 'James Bond: A View To A Kill'
+  title: "James Bond: A View To A Kill"
   year: 1985
 - date: 1978-01-01 00:00:00+00:00
   imdb: TT0076752
   rating: 4
-  title: 'James Bond: The Spy Who Loved Me'
+  title: "James Bond: The Spy Who Loved Me"
   year: 1977
 - date: 1970-01-01 00:00:00+00:00
   imdb: TT0064757
   rating: 4
-  title: 'James Bond: On Her Majestys Secret Service'
+  title: "James Bond: On Her Majestys Secret Service"
   year: 1969
 - date: 1963-01-01 00:00:00+00:00
   imdb: TT0055928
   rating: 4
-  title: 'James Bond: Dr No'
+  title: "James Bond: Dr No"
   year: 1962
 - date: 1984-01-01 00:00:00+00:00
   imdb: TT0086034
   rating: 4
-  title: 'James Bond: Octopussy'
+  title: "James Bond: Octopussy"
   year: 1983
 - date: 1982-01-01 00:00:00+00:00
   imdb: TT0082398
   rating: 4
-  title: 'James Bond: For Your Eyes Only'
+  title: "James Bond: For Your Eyes Only"
   year: 1981
 - date: 1980-01-01 00:00:00+00:00
   imdb: TT0079574
   rating: 4
-  title: 'James Bond: Moonraker'
+  title: "James Bond: Moonraker"
   year: 1979
 - date: 1974-01-01 00:00:00+00:00
   imdb: TT0070328
   rating: 4
-  title: 'James Bond: Live And Let Die'
+  title: "James Bond: Live And Let Die"
   year: 1973
 - date: 1968-01-01 00:00:00+00:00
   imdb: TT0062512
   rating: 4
-  title: 'James Bond: You Only Live Twice'
+  title: "James Bond: You Only Live Twice"
   year: 1967
 - date: 1996-01-01 00:00:00+00:00
   imdb: TT0113189
   rating: 6
-  title: 'James Bond: Goldeneye'
+  title: "James Bond: Goldeneye"
   year: 1995
 - date: 1965-01-01 00:00:00+00:00
   imdb: TT0058150
   rating: 4
-  title: 'James Bond: Goldfinger'
+  title: "James Bond: Goldfinger"
   year: 1964
 - date: 1966-01-01 00:00:00+00:00
   imdb: TT0059800
   rating: 4
-  title: 'James Bond: Thunderball'
+  title: "James Bond: Thunderball"
   year: 1965
 - date: 1988-01-01 00:00:00+00:00
   imdb: TT0093428
   rating: 4
-  title: 'James Bond: Living Daylights'
+  title: "James Bond: Living Daylights"
   year: 1987
 - date: 2000-01-01 00:00:00+00:00
   imdb: TT0143145
   rating: 6
-  title: 'James Bond: The World Is Not Enough'
+  title: "James Bond: The World Is Not Enough"
   year: 1999
 - date: 1972-01-01 00:00:00+00:00
   imdb: TT0066995
   rating: 4
-  title: 'James Bond: Diamonds Are Forever'
+  title: "James Bond: Diamonds Are Forever"
   year: 1971
 - date: 1975-01-01 00:00:00+00:00
   imdb: TT0071807
   rating: 6
-  title: 'James Bond: Man With The Golden Gun'
+  title: "James Bond: Man With The Golden Gun"
   year: 1974
 - date: 1964-01-01 00:00:00+00:00
   imdb: TT0057076
   rating: 4
-  title: 'James Bond: From Russia With Love'
+  title: "James Bond: From Russia With Love"
   year: 1963
 - date: 1976-01-01 00:00:00+00:00
   imdb: TT0073195
@@ -2837,7 +2838,7 @@
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT0478087
   rating: 9
-  title: '21'
+  title: "21"
   year: 2008
 - date: 1999-01-01 00:00:00+00:00
   imdb: TT0120669
@@ -2852,7 +2853,7 @@
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0385690
   rating: 5
-  title: 'Family Guy: Stewie Griffin The Untold Story'
+  title: "Family Guy: Stewie Griffin The Untold Story"
   year: 2005
 - date: 1998-01-01 00:00:00+00:00
   imdb: TT0119094
@@ -3087,7 +3088,7 @@
 - date: 2005-01-01 00:00:00+00:00
   imdb: TT0317198
   rating: 5
-  title: 'Bridget Jones: Edge Of Reason'
+  title: "Bridget Jones: Edge Of Reason"
   year: 2004
 - date: 2002-01-01 00:00:00+00:00
   imdb: TT0243155
@@ -3317,7 +3318,7 @@
 - date: 2008-01-01 00:00:00+00:00
   imdb: TT0974959
   rating: 3
-  title: 'American Pie: Beta House'
+  title: "American Pie: Beta House"
   year: 2007
 - date: 2002-01-01 00:00:00+00:00
   imdb: TT0252866
@@ -3417,7 +3418,7 @@
 - date: 2008-01-01 00:00:00+00:00
   imdb: TT0432021
   rating: 6
-  title: 'Resident Evil: Extinction'
+  title: "Resident Evil: Extinction"
   year: 2007
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT1082868
@@ -3602,7 +3603,7 @@
 - date: 2004-01-01 00:00:00+00:00
   imdb: TT0325980
   rating: 7
-  title: 'Pirates Of The Caribbean: The Curse Of The Black Pearl'
+  title: "Pirates Of The Caribbean: The Curse Of The Black Pearl"
   year: 2003
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0365830
@@ -3647,7 +3648,7 @@
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT0499448
   rating: 5
-  title: 'The Tales Of Narnia: Prince Caspian'
+  title: "The Tales Of Narnia: Prince Caspian"
   year: 2008
 - date: 2000-01-01 00:00:00+00:00
   imdb: TT0134119
@@ -3742,7 +3743,7 @@
 - date: 1995-01-01 00:00:00+00:00
   imdb: TT0109520
   rating: 5
-  title: 'D2: The Mighty Ducks'
+  title: "D2: The Mighty Ducks"
   year: 1994
 - date: 1993-01-01 00:00:00+00:00
   imdb: TT0104868
@@ -4067,7 +4068,7 @@
 - date: 2000-01-01 00:00:00+00:00
   imdb: TT0120915
   rating: 3
-  title: 'Star Wars: The Phantom Menace'
+  title: "Star Wars: The Phantom Menace"
   year: 1999
 - date: 2005-01-01 00:00:00+00:00
   imdb: TT0345950
@@ -4302,7 +4303,7 @@
 - date: 1992-01-01 00:00:00+00:00
   imdb: TT0102798
   rating: 5
-  title: 'Robin Hood: Prince Of Thieves'
+  title: "Robin Hood: Prince Of Thieves"
   year: 1991
 - date: 2003-01-01 00:00:00+00:00
   imdb: TT0257044
@@ -4422,12 +4423,12 @@
 - date: 2008-01-01 00:00:00+00:00
   imdb: TT0449088
   rating: 5
-  title: 'Pirates Of The Caribbean: At Worlds End'
+  title: "Pirates Of The Caribbean: At Worlds End"
   year: 2007
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0383574
   rating: 7
-  title: 'Pirates Of The Caribbean: Dead Mans Chest'
+  title: "Pirates Of The Caribbean: Dead Mans Chest"
   year: 2006
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT0409345
@@ -4447,7 +4448,7 @@
 - date: 2010-01-01 00:00:00+00:00
   imdb: TT0458525
   rating: 4
-  title: 'X-Men Origins: Wolverine'
+  title: "X-Men Origins: Wolverine"
   year: 2009
 - date: 2010-01-01 00:00:00+00:00
   imdb: TT0806203
@@ -4532,7 +4533,7 @@
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT2679042
   rating: 5
-  title: 'Hitman: Agent 47'
+  title: "Hitman: Agent 47"
   year: 2015
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT2938956
@@ -4562,7 +4563,7 @@
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT4046784
   rating: 4
-  title: 'Maze Runner: The Scorch Trials'
+  title: "Maze Runner: The Scorch Trials"
   year: 2015
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT1790864
@@ -4577,12 +4578,12 @@
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT1951264
   rating: 5
-  title: 'The Hunger Games: Catching Fire'
+  title: "The Hunger Games: Catching Fire"
   year: 2013
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT1951265
   rating: 6
-  title: 'The Hunger Games: Mockingjay - Part 1'
+  title: "The Hunger Games: Mockingjay - Part 1"
   year: 2014
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT3235888
@@ -4602,12 +4603,12 @@
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT1951266
   rating: 7
-  title: 'The Hunger Games: Mockingjay - Part 2'
+  title: "The Hunger Games: Mockingjay - Part 2"
   year: 2015
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT2614684
   rating: 9
-  title: '71'
+  title: "71"
   year: 2014
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT0479997
@@ -4803,2508 +4804,2508 @@
   imdb: TT22863968
   rating: 2
   title: Something in the Water
-  year: '2024'
+  year: "2024"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT13375076
   rating: 3
   title: The Pope's Exorcist
-  year: '2023'
+  year: "2023"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT3876910
   rating: 3
   title: Dangerous
-  year: '2021'
+  year: "2021"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT3371366
   rating: 3
-  title: 'Transformers: The Last Knight'
-  year: '2017'
+  title: "Transformers: The Last Knight"
+  year: "2017"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT5431890
   rating: 3
   title: Official Secrets
-  year: '2019'
+  year: "2019"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT7720142
   rating: 3
   title: Assassin Club
-  year: '2023'
+  year: "2023"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT5822564
   rating: 3
   title: The Kitchen
-  year: '2019'
+  year: "2019"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT28349451
   rating: 3
   title: The Shadow Strays
-  year: '2024'
+  year: "2024"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT12261776
   rating: 3
-  title: '65'
-  year: '2023'
+  title: "65"
+  year: "2023"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT2088003
   rating: 3
   title: Big Game
-  year: '2014'
+  year: "2014"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT21382296
   rating: 3
   title: Carry-On
-  year: '2024'
+  year: "2024"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT5758778
   rating: 3
   title: Skyscraper
-  year: '2018'
+  year: "2018"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT5442430
   rating: 3
   title: Life
-  year: '2017'
+  year: "2017"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT9669176
   rating: 3
-  title: 'Accident Man: Hitman''s Holiday'
-  year: '2022'
+  title: "Accident Man: Hitman's Holiday"
+  year: "2022"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT8106534
   rating: 3
   title: 6 Underground
-  year: '2019'
+  year: "2019"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT2802144
   rating: 3
-  title: 'Kingsman: The Secret Service'
-  year: '2014'
+  title: "Kingsman: The Secret Service"
+  year: "2014"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6133466
   rating: 3
   title: The First Purge
-  year: '2018'
+  year: "2018"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT11827628
   rating: 3
   title: Memory
-  year: '2022'
+  year: "2022"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT5884796
   rating: 3
   title: Plane
-  year: '2023'
+  year: "2023"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT11301886
   rating: 3
   title: Rebel Ridge
-  year: '2024'
+  year: "2024"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT12747748
   rating: 3
   title: Leave the World Behind
-  year: '2023'
+  year: "2023"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT1124037
   rating: 3
   title: Free State of Jones
-  year: '2016'
+  year: "2016"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT12610390
   rating: 3
   title: The Union
-  year: '2024'
+  year: "2024"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT2400463
   rating: 3
   title: The Invitation
-  year: '2015'
+  year: "2015"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT1649418
   rating: 3
   title: The Gray Man
-  year: '2022'
+  year: "2022"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT0829150
   rating: 3
   title: Dracula Untold
-  year: '2014'
+  year: "2014"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT3083016
   rating: 3
-  title: 'Beverly Hills Cop: Axel F'
-  year: '2024'
+  title: "Beverly Hills Cop: Axel F"
+  year: "2024"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT13452446
   rating: 3
   title: Damsel
-  year: '2024'
+  year: "2024"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT3758814
   rating: 3
   title: The Ice Road
-  year: '2021'
+  year: "2021"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT5834874
   rating: 3
   title: Trigger Warning
-  year: '2024'
+  year: "2024"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT23289160
   rating: 3
   title: Godzilla Minus One
-  year: '2023'
+  year: "2023"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT0816711
   rating: 3
   title: World War Z
-  year: '2013'
+  year: "2013"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT13964390
   rating: 3
   title: Under Paris
-  year: '2024'
+  year: "2024"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT10323676
   rating: 3
   title: The Contractor
-  year: '2022'
+  year: "2022"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT14856980
   rating: 3
   title: Atlas
-  year: '2024'
+  year: "2024"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT12593682
   rating: 3
   title: Bullet Train
-  year: '2022'
+  year: "2022"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT15782690
   rating: 3
   title: In the Land of Saints and Sinners
-  year: '2023'
+  year: "2023"
 - date: 1954-01-01 00:00:00+00:00
   imdb: TT0046268
   rating: 3
   title: The Wages of Fear
-  year: '1953'
+  year: "1953"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT3731562
   rating: 3
-  title: 'Kong: Skull Island'
-  year: '2017'
+  title: "Kong: Skull Island"
+  year: "2017"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT15255876
   rating: 3
   title: Emily the Criminal
-  year: '2022'
+  year: "2022"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT6535880
   rating: 3
   title: Haunt
-  year: '2019'
+  year: "2019"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT4076980
   rating: 3
   title: The Throwaways
-  year: '2015'
+  year: "2015"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT5734576
   rating: 3
   title: The Possession of Hannah Grace
-  year: '2018'
+  year: "2018"
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0457513
   rating: 3
   title: Scoop
-  year: '2006'
+  year: "2006"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT6823368
   rating: 3
   title: Glass
-  year: '2019'
+  year: "2019"
 - date: 1993-01-01 00:00:00+00:00
   imdb: TT0104237
   rating: 3
   title: Damage
-  year: '1992'
+  year: "1992"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT15745084
   rating: 3
   title: V for Vengeance
-  year: '2022'
+  year: "2022"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT14371878
   rating: 3
   title: Lift
-  year: '2024'
+  year: "2024"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT22688572
   rating: 3
-  title: 'Boudica: Queen of War'
-  year: '2023'
+  title: "Boudica: Queen of War"
+  year: "2023"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT5108870
   rating: 3
   title: Morbius
-  year: '2022'
+  year: "2022"
 - date: 1990-01-01 00:00:00+00:00
   imdb: TT0096754
   rating: 3
   title: The Abyss
-  year: '1989'
+  year: "1989"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT16277242
   rating: 3
   title: Society of the Snow
-  year: '2023'
+  year: "2023"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT1464335
   rating: 3
   title: Uncharted
-  year: '2022'
+  year: "2022"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT9271672
   rating: 3
   title: Prey for the Devil
-  year: '2022'
+  year: "2022"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT24083908
   rating: 3
   title: The Black Book
-  year: '2023'
+  year: "2023"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT2381941
   rating: 3
   title: Focus
-  year: '2015'
+  year: "2015"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT6334354
   rating: 3
   title: The Suicide Squad
-  year: '2021'
+  year: "2021"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT0293429
   rating: 3
   title: Mortal Kombat
-  year: '2021'
+  year: "2021"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT1136617
   rating: 3
   title: The Killer
-  year: '2023'
+  year: "2023"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT8356942
   rating: 3
   title: The 355
-  year: '2022'
+  year: "2022"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT10638522
   rating: 3
   title: Talk to Me
-  year: '2022'
+  year: "2022"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT5719748
   rating: 3
   title: Cold Pursuit
-  year: '2019'
+  year: "2019"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT16427938
   rating: 3
   title: Overhaul
-  year: '2023'
+  year: "2023"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT7069210
   rating: 3
-  title: 'The Conjuring: The Devil Made Me Do It'
-  year: '2021'
+  title: "The Conjuring: The Devil Made Me Do It"
+  year: "2021"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT6654210
   rating: 3
   title: Infinite
-  year: '2021'
+  year: "2021"
 - date: 2002-01-01 00:00:00+00:00
   imdb: TT0283875
   rating: 3
   title: Ambush
-  year: '2001'
+  year: "2001"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT6723592
   rating: 3
   title: Tenet
-  year: '2020'
+  year: "2020"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT13603966
   rating: 3
   title: Heart of Stone
-  year: '2023'
+  year: "2023"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT10648146
   rating: 3
   title: The Haunting of Margam Castle
-  year: '2020'
+  year: "2020"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT13266998
   rating: 3
   title: Bull
-  year: '2021'
+  year: "2021"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT6879446
   rating: 3
   title: Hidden Strike
-  year: '2023'
+  year: "2023"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT1590193
   rating: 3
   title: The Commuter
-  year: '2018'
+  year: "2018"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT3083008
   rating: 3
   title: The Program
-  year: '2015'
+  year: "2015"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT14465706
   rating: 3
-  title: 'Lost Bullet 2: Back for More'
-  year: '2022'
+  title: "Lost Bullet 2: Back for More"
+  year: "2022"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT11116912
   rating: 3
   title: Troll
-  year: '2022'
+  year: "2022"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT3155298
   rating: 3
-  title: 'Luther: The Fallen Sun'
-  year: '2023'
+  title: "Luther: The Fallen Sun"
+  year: "2023"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT10314450
   rating: 3
   title: Becky
-  year: '2020'
+  year: "2020"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT14307536
   rating: 3
   title: A Jazzman's Blues
-  year: '2022'
+  year: "2022"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT28363337
   rating: 3
-  title: 'Damn You Hollywood: Extraction 2/Flamin Hot (2023)'
-  year: '2023'
+  title: "Damn You Hollywood: Extraction 2/Flamin Hot (2023)"
+  year: "2023"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT11212572
   rating: 3
   title: Nocebo
-  year: '2022'
+  year: "2022"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT11493006
   rating: 3
   title: Mako
-  year: '2021'
+  year: "2021"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT5433138
   rating: 3
-  title: 'F9: The Fast Saga'
-  year: '2021'
+  title: "F9: The Fast Saga"
+  year: "2021"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT13429362
   rating: 3
   title: In the Earth
-  year: '2021'
+  year: "2021"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT4824302
   rating: 3
   title: Mother's Day
-  year: '2016'
+  year: "2016"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT6968614
   rating: 3
   title: The Mother
-  year: '2023'
+  year: "2023"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT9698480
   rating: 3
   title: The Stranger
-  year: '2020'
+  year: "2020"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT6475714
   rating: 3
   title: Monster Hunter
-  year: '2020'
+  year: "2020"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT7888964
   rating: 3
   title: Nobody
-  year: '2021'
+  year: "2021"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT15767808
   rating: 3
-  title: 'The Last Kingdom: Seven Kings Must Die'
-  year: '2023'
+  title: "The Last Kingdom: Seven Kings Must Die"
+  year: "2023"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT9737876
   rating: 3
-  title: 'Narvik: Hitler''s First Defeat'
-  year: '2022'
+  title: "Narvik: Hitler's First Defeat"
+  year: "2022"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT9016974
   rating: 3
   title: Synchronic
-  year: '2019'
+  year: "2019"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT21933110
   rating: 3
   title: Old People
-  year: '2022'
+  year: "2022"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT23343786
   rating: 3
   title: Lesson Plan
-  year: '2022'
+  year: "2022"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT22352848
   rating: 3
   title: Jung_E
-  year: '2023'
+  year: "2023"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT5315210
   rating: 3
   title: Lou
-  year: '2022'
+  year: "2022"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT18082758
   rating: 3
   title: The Takeover
-  year: '2022'
+  year: "2022"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT8883486
   rating: 3
   title: Medieval
-  year: '2022'
+  year: "2022"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT13051810
   rating: 3
   title: Viking Wolf
-  year: '2022'
+  year: "2022"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT9419056
   rating: 3
   title: The Unholy
-  year: '2021'
+  year: "2021"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT13019594
   rating: 3
   title: Ten Dollar Death Trip
-  year: '2020'
+  year: "2020"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7558302
   rating: 3
   title: Lying and Stealing
-  year: '2019'
+  year: "2019"
 - date: 1985-01-01 00:00:00+00:00
   imdb: TT0087538
   rating: 3
   title: The Karate Kid
-  year: '1984'
+  year: "1984"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT9820352
   rating: 3
   title: Villain
-  year: '2020'
+  year: "2020"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT3547306
   rating: 3
   title: Cut Throat City
-  year: '2020'
+  year: "2020"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT4616014
   rating: 3
-  title: 'Jarhead 3: The Siege'
-  year: '2016'
+  title: "Jarhead 3: The Siege"
+  year: "2016"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT13314558
   rating: 3
   title: Day Shift
-  year: '2022'
+  year: "2022"
 - date: 2011-01-01 00:00:00+00:00
   imdb: TT1625032
   rating: 3
   title: An Act of Valour
-  year: '2010'
+  year: "2010"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT9731386
   rating: 3
   title: Rogue Agent
-  year: '2022'
+  year: "2022"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT6834916
   rating: 3
   title: Legacy of Lies
-  year: '2020'
+  year: "2020"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT6882604
   rating: 3
   title: Archive
-  year: '2020'
+  year: "2020"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT14412366
   rating: 3
   title: A Day to Die
-  year: '2022'
+  year: "2022"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT3707104
   rating: 3
   title: Mine
-  year: '2016'
+  year: "2016"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT14174940
   rating: 3
   title: Interceptor
-  year: '2022'
+  year: "2022"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT1860353
   rating: 3
   title: Turbo
-  year: '2013'
+  year: "2013"
 - date: 1979-01-01 00:00:00+00:00
   imdb: TT0078087
   rating: 3
   title: Piranha
-  year: '1978'
+  year: "1978"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT8035464
   rating: 3
   title: Target Number One
-  year: '2023'
+  year: "2023"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT5563334
   rating: 3
   title: The Good Liar
-  year: '2019'
+  year: "2019"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT7149730
   rating: 3
   title: The Silencing
-  year: '2020'
+  year: "2020"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT7456312
   rating: 3
   title: The Last Thing He Wanted
-  year: '2020'
+  year: "2020"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT12141112
   rating: 3
   title: Metal Lords
-  year: '2022'
+  year: "2022"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7286456
   rating: 3
   title: Joker
-  year: '2019'
+  year: "2019"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT14915608
   rating: 3
   title: Captain Nova
-  year: '2021'
+  year: "2021"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT10515864
   rating: 3
   title: Furioza
-  year: '2021'
+  year: "2021"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT6708668
   rating: 3
   title: Black Crab
-  year: '2022'
+  year: "2022"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT15298578
   rating: 3
   title: Nightride
-  year: '2021'
+  year: "2021"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT2463208
   rating: 3
   title: The Adam Project
-  year: '2022'
+  year: "2022"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7942736
   rating: 3
   title: Spider in the Web
-  year: '2019'
+  year: "2019"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT2975578
   rating: 3
-  title: 'The Purge: Anarchy'
-  year: '2014'
+  title: "The Purge: Anarchy"
+  year: "2014"
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT1498569
   rating: 3
   title: Restless
-  year: '2011'
+  year: "2011"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT5241578
   rating: 3
   title: Hard Target 2
-  year: '2016'
+  year: "2016"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT12335692
   rating: 3
   title: Last Man Down
-  year: '2021'
+  year: "2021"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT6196936
   rating: 3
   title: The Kill Team
-  year: '2019'
+  year: "2019"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT1708135
   rating: 3
   title: 13 Minutes
-  year: '2015'
+  year: "2015"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT13978306
   rating: 3
   title: Brazen
-  year: '2022'
+  year: "2022"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT9288692
   rating: 3
   title: Werewolves Within
-  year: '2021'
+  year: "2021"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT13029044
   rating: 3
   title: Mother/Android
-  year: '2021'
+  year: "2021"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT1596363
   rating: 3
   title: The Big Short
-  year: '2015'
+  year: "2015"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT10039344
   rating: 3
   title: Countdown
-  year: '2019'
+  year: "2019"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT11286314
   rating: 3
   title: Don't Look Up
-  year: '2021'
+  year: "2021"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT8179024
   rating: 3
   title: Body Cam
-  year: '2020'
+  year: "2020"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT1502397
   rating: 3
   title: Bad Boys for Life
-  year: '2020'
+  year: "2020"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT3652964
   rating: 3
-  title: 'ID2: Shadwell Army'
-  year: '2016'
+  title: "ID2: Shadwell Army"
+  year: "2016"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT7991608
   rating: 3
   title: Red Notice
-  year: '2021'
+  year: "2021"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT9305634
   rating: 3
   title: Surge
-  year: '2020'
+  year: "2020"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT13024674
   rating: 3
   title: Army of Thieves
-  year: '2021'
+  year: "2021"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT1634106
   rating: 3
   title: Bloodshot
-  year: '2020'
+  year: "2020"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT10763820
   rating: 3
   title: Night Teeth
-  year: '2021'
+  year: "2021"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT0448115
   rating: 3
   title: Shazam!
-  year: '2019'
+  year: "2019"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT9421570
   rating: 3
   title: The Guilty
-  year: '2021'
+  year: "2021"
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT0758774
   rating: 3
   title: Body of Lies
-  year: '2008'
+  year: "2008"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT2145829
   rating: 3
   title: Robot Overlords
-  year: '2014'
+  year: "2014"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT1025100
   rating: 3
   title: Gemini Man
-  year: '2019'
+  year: "2019"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7390646
   rating: 3
   title: Black and Blue
-  year: '2019'
+  year: "2019"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT8000908
   rating: 3
   title: Robert the Bruce
-  year: '2019'
+  year: "2019"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT7737528
   rating: 3
   title: Kate
-  year: '2021'
+  year: "2021"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7711764
   rating: 3
   title: Pentagram
-  year: '2019'
+  year: "2019"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT9677100
   rating: 3
   title: Soul Reaper
-  year: '2019'
+  year: "2019"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT1043726
   rating: 3
   title: The Legend of Hercules
-  year: '2014'
+  year: "2014"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT8009744
   rating: 3
   title: Worth
-  year: '2020'
+  year: "2020"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT16225640
   rating: 3
   title: The Hitman's Apprentice
-  year: '2021'
+  year: "2021"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT6378710
   rating: 3
   title: Villains
-  year: '2019'
+  year: "2019"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT2312718
   rating: 3
   title: Homefront
-  year: '2013'
+  year: "2013"
 - date: 1980-01-01 00:00:00+00:00
   imdb: TT0079319
   rating: 3
   title: Hurricane
-  year: '1979'
+  year: "1979"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT9013182
   rating: 3
   title: I Am All Girls
-  year: '2021'
+  year: "2021"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT10731768
   rating: 3
   title: Sweet Girl
-  year: '2021'
+  year: "2021"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT4581576
   rating: 3
   title: Aftermath
-  year: '2017'
+  year: "2017"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT6803212
   rating: 3
   title: Don't Let Go
-  year: '2019'
+  year: "2019"
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT1297919
   rating: 3
   title: Blitz
-  year: '2011'
+  year: "2011"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT2572632
   rating: 3
   title: Vendetta
-  year: '2013'
+  year: "2013"
 - date: 1979-01-01 00:00:00+00:00
   imdb: TT0078350
   rating: 3
   title: The Swarm
-  year: '1978'
+  year: "1978"
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0402910
   rating: 3
   title: Chaos
-  year: '2005'
+  year: "2005"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7374926
   rating: 3
   title: Proxima
-  year: '2019'
+  year: "2019"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT1091191
   rating: 3
   title: Lone Survivor
-  year: '2013'
+  year: "2013"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT8364368
   rating: 3
   title: Crawl
-  year: '2019'
+  year: "2019"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT5351458
   rating: 3
   title: The Hatton Garden Job
-  year: '2017'
+  year: "2017"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT6402468
   rating: 3
   title: Blood Red Sky
-  year: '2021'
+  year: "2021"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT1253863
   rating: 3
-  title: '300: Rise of an Empire'
-  year: '2014'
+  title: "300: Rise of an Empire"
+  year: "2014"
 - date: 2008-01-01 00:00:00+00:00
   imdb: TT0211933
   rating: 3
   title: Awake
-  year: '2007'
+  year: "2007"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT7601480
   rating: 3
-  title: 'Major Grom: Plague Doctor'
-  year: '2021'
+  title: "Major Grom: Plague Doctor"
+  year: "2021"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT1477834
   rating: 3
   title: Aquaman
-  year: '2018'
+  year: "2018"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT2119404
   rating: 3
   title: Code Red
-  year: '2013'
+  year: "2013"
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT0892899
   rating: 3
   title: Outpost
-  year: '2008'
+  year: "2008"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT7646322
   rating: 3
   title: The Devil Below
-  year: '2021'
+  year: "2021"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT3501112
   rating: 3
   title: Security
-  year: '2017'
+  year: "2017"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT1535109
   rating: 3
   title: Captain Phillips
-  year: '2013'
+  year: "2013"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT9624766
   rating: 3
   title: Jiu Jitsu
-  year: '2020'
+  year: "2020"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT6341832
   rating: 3
   title: Oxygen
-  year: '2021'
+  year: "2021"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT0993840
   rating: 3
   title: Army of the Dead
-  year: '2021'
+  year: "2021"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT2283336
   rating: 3
-  title: 'Men in Black: International'
-  year: '2019'
+  title: "Men in Black: International"
+  year: "2019"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7752126
   rating: 3
   title: Brightburn
-  year: '2019'
+  year: "2019"
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT1059786
   rating: 3
   title: Eagle Eye
-  year: '2008'
+  year: "2008"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT2325518
   rating: 3
   title: Beneath
-  year: '2013'
+  year: "2013"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT4209788
   rating: 3
   title: Molly's Game
-  year: '2017'
+  year: "2017"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT9387250
   rating: 3
   title: Skylines
-  year: '2020'
+  year: "2020"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT3110958
   rating: 3
   title: Now You See Me 2
-  year: '2016'
+  year: "2016"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT5941692
   rating: 3
   title: Miss Bala
-  year: '2019'
+  year: "2019"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT11905962
   rating: 3
   title: Sputnik
-  year: '2020'
+  year: "2020"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT4779682
   rating: 3
   title: The Meg
-  year: '2018'
+  year: "2018"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT2005374
   rating: 3
   title: The Frozen Ground
-  year: '2013'
+  year: "2013"
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT1001549
   rating: 3
   title: Selfless
-  year: '2008'
+  year: "2008"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT2854926
   rating: 3
   title: Tag
-  year: '2018'
+  year: "2018"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT7978672
   rating: 3
-  title: 'Black Water: Abyss'
-  year: '2020'
+  title: "Black Water: Abyss"
+  year: "2020"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT11656172
   rating: 3
   title: Hard Kill
-  year: '2020'
+  year: "2020"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT4701182
   rating: 3
   title: Bumblebee
-  year: '2018'
+  year: "2018"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT10456740
   rating: 3
   title: Lost Bullet
-  year: '2020'
+  year: "2020"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT11697484
   rating: 3
   title: The 2nd
-  year: '2020'
+  year: "2020"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT8784956
   rating: 3
   title: Ava
-  year: '2020'
+  year: "2020"
 - date: 2011-01-01 00:00:00+00:00
   imdb: TT1135084
   rating: 3
   title: Takers
-  year: '2010'
+  year: "2010"
 - date: 2007-01-01 00:00:00+00:00
   imdb: TT0409182
   rating: 3
   title: Poseidon
-  year: '2006'
+  year: "2006"
 - date: 2013-01-01 00:00:00+00:00
   imdb: TT0857190
   rating: 3
   title: The Sweeney
-  year: '2012'
+  year: "2012"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT9252468
   rating: 3
   title: Mosul
-  year: '2019'
+  year: "2019"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT14407336
   rating: 3
   title: The Beast
-  year: '2023'
+  year: "2023"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT1571234
   rating: 3
   title: Mortal Engines
-  year: '2018'
+  year: "2018"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT3986820
   rating: 3
   title: The Endless
-  year: '2017'
+  year: "2017"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT1464763
   rating: 3
   title: Mute
-  year: '2018'
+  year: "2018"
 - imdb: TT3006802
   rating: 3
   title: Outlander
-  year: '2014'
+  year: "2014"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT1677720
   rating: 3
   title: Ready Player One
-  year: '2018'
+  year: "2018"
 - date: 2011-01-01 00:00:00+00:00
   imdb: TT0955308
   rating: 3
   title: Robin Hood
-  year: '2010'
+  year: "2010"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT6508228
   rating: 3
   title: Ghosts of War
-  year: '2020'
+  year: "2020"
 - date: 2010-01-01 00:00:00+00:00
   imdb: TT1186367
   rating: 3
   title: Ninja Assassin
-  year: '2009'
+  year: "2009"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT1617661
   rating: 3
   title: Jupiter Ascending
-  year: '2015'
+  year: "2015"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT5266668
   rating: 3
   title: Rogue Warfare
-  year: '2019'
+  year: "2019"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6802308
   rating: 3
   title: The 15:17 to Paris
-  year: '2018'
+  year: "2018"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT1070874
   rating: 3
   title: The Trial of the Chicago 7
-  year: '2020'
+  year: "2020"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT4530422
   rating: 3
   title: Overlord
-  year: '2018'
+  year: "2018"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT7923220
   rating: 3
   title: Inheritance
-  year: '2020'
+  year: "2020"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6211976
   rating: 3
   title: A Vigilante
-  year: '2018'
+  year: "2018"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT1413492
   rating: 3
   title: 12 Strong
-  year: '2018'
+  year: "2018"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT7052244
   rating: 3
-  title: 'Robin Hood: The Rebellion'
-  year: '2018'
+  title: "Robin Hood: The Rebellion"
+  year: "2018"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT8836988
   rating: 3
   title: Avengement
-  year: '2019'
+  year: "2019"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT2290553
   rating: 3
-  title: 'Northmen: A Viking Saga'
-  year: '2014'
+  title: "Northmen: A Viking Saga"
+  year: "2014"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6850820
   rating: 3
   title: Peppermint
-  year: '2018'
+  year: "2018"
 - date: 2000-01-01 00:00:00+00:00
   imdb: TT0162710
   rating: 3
   title: Trick
-  year: '1999'
+  year: "1999"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT1272878
   rating: 3
   title: 2 Guns
-  year: '2013'
+  year: "2013"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT7556122
   rating: 3
   title: The Old Guard
-  year: '2020'
+  year: "2020"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT3766354
   rating: 3
   title: The Equalizer 2
-  year: '2018'
+  year: "2018"
 - date: 1997-01-01 00:00:00+00:00
   imdb: TT0113313
   rating: 3
   title: Hollow Point
-  year: '1996'
+  year: "1996"
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT1847731
   rating: 3
   title: Tomboy
-  year: '2011'
+  year: "2011"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT10613550
   rating: 3
   title: Fittest in Dubai
-  year: '2019'
+  year: "2019"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT6259380
   rating: 3
   title: Code 8
-  year: '2019'
+  year: "2019"
 - date: 1971-01-01 00:00:00+00:00
   imdb: TT0065491
   rating: 3
   title: Mark of the Devil
-  year: '1970'
+  year: "1970"
 - date: 2004-01-01 00:00:00+00:00
   imdb: TT0266465
   rating: 3
   title: A Man Apart
-  year: '2003'
+  year: "2003"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT0455944
   rating: 3
   title: The Equalizer
-  year: '2014'
+  year: "2014"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT1121096
   rating: 3
   title: Seventh Son
-  year: '2014'
+  year: "2014"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6421110
   rating: 3
   title: Proud Mary
-  year: '2018'
+  year: "2018"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT11388406
   rating: 3
   title: Horse Girl
-  year: '2020'
+  year: "2020"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT4555426
   rating: 3
   title: Darkest Hour
-  year: '2017'
+  year: "2017"
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0419706
   rating: 3
   title: Doom
-  year: '2005'
+  year: "2005"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6774786
   rating: 3
   title: Occupation
-  year: '2018'
+  year: "2018"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT4444956
   rating: 3
   title: Once Upon a Time in London
-  year: '2019'
+  year: "2019"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT1972591
   rating: 3
-  title: 'King Arthur: Legend of the Sword'
-  year: '2017'
+  title: "King Arthur: Legend of the Sword"
+  year: "2017"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7984766
   rating: 3
   title: The King
-  year: '2019'
+  year: "2019"
 - date: 1991-01-01 00:00:00+00:00
   imdb: TT0099582
   rating: 3
   title: Flatliners
-  year: '1990'
+  year: "1990"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT7455754
   rating: 3
   title: The Game Changers
-  year: '2018'
+  year: "2018"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT1846589
   rating: 3
   title: Hunter Killer
-  year: '2018'
+  year: "2018"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT2717822
   rating: 3
   title: Blackhat
-  year: '2015'
+  year: "2015"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT2140479
   rating: 3
   title: The Accountant
-  year: '2016'
+  year: "2016"
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0379786
   rating: 3
   title: Serenity
-  year: '2005'
+  year: "2005"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT6203570
   rating: 3
   title: Mountain
-  year: '2017'
+  year: "2017"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT3201640
   rating: 3
   title: Extinction
-  year: '2018'
+  year: "2018"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT1648190
   rating: 3
   title: The Dark Tower
-  year: '2017'
+  year: "2017"
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0382992
   rating: 3
   title: Stealth
-  year: '2005'
+  year: "2005"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT2406566
   rating: 3
   title: Atomic Blonde
-  year: '2017'
+  year: "2017"
 - date: 2013-01-01 00:00:00+00:00
   imdb: TT1234719
   rating: 3
   title: Red Dawn
-  year: '2012'
+  year: "2012"
 - date: 2001-01-01 00:00:00+00:00
   imdb: TT0162650
   rating: 3
   title: Shaft
-  year: '2000'
+  year: "2000"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT1034385
   rating: 3
   title: Cold Skin
-  year: '2017'
+  year: "2017"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT4998772
   rating: 3
   title: Bedeviled
-  year: '2016'
+  year: "2016"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT2304953
   rating: 3
   title: Reasonable Doubt
-  year: '2014'
+  year: "2014"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT4695012
   rating: 3
   title: It Comes at Night
-  year: '2017'
+  year: "2017"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT2548396
   rating: 3
   title: The Cloverfield Paradox
-  year: '2018'
+  year: "2018"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT3890160
   rating: 3
   title: Baby Driver
-  year: '2017'
+  year: "2017"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT4765240
   rating: 3
   title: Astral
-  year: '2018'
+  year: "2018"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT3722614
   rating: 3
   title: Revolt
-  year: '2017'
+  year: "2017"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT9046574
   rating: 3
-  title: 'ReMastered: Devil at the Crossroads'
-  year: '2019'
+  title: "ReMastered: Devil at the Crossroads"
+  year: "2019"
 - date: 2014-01-01 00:00:00+00:00
   imdb: TT1706620
   rating: 3
   title: Snowpiercer
-  year: '2013'
+  year: "2013"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6671850
   rating: 3
   title: Two Graves
-  year: '2018'
+  year: "2018"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6134274
   rating: 3
   title: Solis
-  year: '2018'
+  year: "2018"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT1536537
   rating: 3
   title: What Happened to Monday
-  year: '2017'
+  year: "2017"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT3208026
   rating: 3
   title: Black '47
-  year: '2018'
+  year: "2018"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT2401097
   rating: 3
   title: Tracers
-  year: '2015'
+  year: "2015"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7315484
   rating: 3
   title: The Silence
-  year: '2019'
+  year: "2019"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT5638642
   rating: 3
   title: The Ritual
-  year: '2017'
+  year: "2017"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6012244
   rating: 3
   title: All the Devil's Men
-  year: '2018'
+  year: "2018"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT1488606
   rating: 3
   title: Triple Frontier
-  year: '2019'
+  year: "2019"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT2184233
   rating: 3
   title: 1 Mile to You
-  year: '2017'
+  year: "2017"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT5464234
   rating: 3
   title: Kill Switch
-  year: '2017'
+  year: "2017"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT5640450
   rating: 3
   title: ARQ
-  year: '2016'
+  year: "2016"
 - date: 1999-01-01 00:00:00+00:00
   imdb: TT0165297
   rating: 3
   title: Genesis
-  year: '1998'
+  year: "1998"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT3963816
   rating: 3
   title: Marauders
-  year: '2016'
+  year: "2016"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT2034800
   rating: 3
   title: The Great Wall
-  year: '2016'
+  year: "2016"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT2094766
   rating: 3
   title: Assassin's Creed
-  year: '2016'
+  year: "2016"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT4976192
   rating: 3
-  title: '211'
-  year: '2018'
+  title: "211"
+  year: "2018"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT3256226
   rating: 3
   title: IO
-  year: '2019'
+  year: "2019"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT1072748
   rating: 3
   title: Winchester
-  year: '2018'
+  year: "2018"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT1712192
   rating: 3
   title: Message from the King
-  year: '2016'
+  year: "2016"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT5788136
   rating: 3
   title: The Institute
-  year: '2017'
+  year: "2017"
 - date: 2012-01-01 00:00:00+00:00
   imdb: TT1656192
   rating: 3
   title: Special Forces
-  year: '2011'
+  year: "2011"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT1365519
   rating: 3
   title: Tomb Raider
-  year: '2018'
+  year: "2018"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT5723286
   rating: 3
   title: Wheelman
-  year: '2017'
+  year: "2017"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT6143568
   rating: 3
   title: The Humanity Bureau
-  year: '2017'
+  year: "2017"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT6214928
   rating: 3
-  title: '1922'
-  year: '2017'
+  title: "1922"
+  year: "2017"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT2493486
   rating: 3
   title: Last Knights
-  year: '2015'
+  year: "2015"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT3567666
   rating: 3
   title: Stratton
-  year: '2017'
+  year: "2017"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT3597108
   rating: 3
   title: Plan Z
-  year: '2016'
+  year: "2016"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT1355644
   rating: 3
   title: Passengers
-  year: '2016'
+  year: "2016"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT4796122
   rating: 3
   title: Satanic
-  year: '2016'
+  year: "2016"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT4361050
   rating: 3
-  title: 'Ouija: Origin of Evil'
-  year: '2016'
+  title: "Ouija: Origin of Evil"
+  year: "2016"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT2377322
   rating: 3
   title: Deliver Us from Evil
-  year: '2014'
+  year: "2014"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT4287320
   rating: 3
   title: The Circle
-  year: '2017'
+  year: "2017"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT5867226
   rating: 3
   title: Silencer
-  year: '2018'
+  year: "2018"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT3393786
   rating: 3
-  title: 'Jack Reacher: Never Go Back'
-  year: '2016'
+  title: "Jack Reacher: Never Go Back"
+  year: "2016"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT3171832
   rating: 3
   title: iBoy
-  year: '2017'
+  year: "2017"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT1961175
   rating: 3
   title: American Assassin
-  year: '2017'
+  year: "2017"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT4357394
   rating: 3
   title: Tau
-  year: '2018'
+  year: "2018"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT3922798
   rating: 3
   title: The Siege of Jadotville
-  year: '2016'
+  year: "2016"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6679794
   rating: 3
   title: Outlaw King
-  year: '2018'
+  year: "2018"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT2798920
   rating: 3
   title: Annihilation
-  year: '2018'
+  year: "2018"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT2386237
   rating: 3
   title: Malevolent
-  year: '2018'
+  year: "2018"
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT1074191
   rating: 3
   title: The Betrayed
-  year: '2008'
+  year: "2008"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6217306
   rating: 3
   title: Apostle
-  year: '2018'
+  year: "2018"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT1724970
   rating: 3
   title: Beyond Skyline
-  year: '2017'
+  year: "2017"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT5022702
   rating: 3
   title: Hush
-  year: '2016'
+  year: "2016"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT2106651
   rating: 3
   title: Spectral
-  year: '2016'
+  year: "2016"
 - date: 2010-01-01 00:00:00+00:00
   imdb: TT1187064
   rating: 3
   title: Triangle
-  year: '2009'
+  year: "2009"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT5057140
   rating: 3
   title: Hold the Dark
-  year: '2018'
+  year: "2018"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT5246700
   rating: 3
   title: How It Ends
-  year: '2018'
+  year: "2018"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT5592878
   rating: 3
   title: Errementari
-  year: '2017'
+  year: "2017"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT10342730
   rating: 3
   title: Spiral
-  year: '2021'
+  year: "2021"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT1959563
   rating: 3
   title: The Hitman's Bodyguard
-  year: '2017'
+  year: "2017"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT7631320
   rating: 4
   title: Aura
-  year: '2018'
+  year: "2018"
 - date: 2022-01-01 00:00:00+00:00
   imdb: TT9907782
   rating: 4
   title: The Cursed
-  year: '2021'
+  year: "2021"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT5613018
   rating: 2
   title: DarkGame
-  year: '2024'
+  year: "2024"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT18300732
   rating: 10
   title: Duchess
-  year: '2024'
+  year: "2024"
 - date: 2004-01-01 00:00:00+00:00
   imdb: TT0258816
   rating: 10
   title: The Reckoning
-  year: '2003'
+  year: "2003"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT13468602
   rating: 10
   title: The Lair
-  year: '2022'
+  year: "2022"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT3780208
   rating: 10
   title: Dark Signal
-  year: '2016'
+  year: "2016"
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0435625
   rating: 10
   title: The Descent
-  year: '2005'
+  year: "2005"
 - date: 2010-01-01 00:00:00+00:00
   imdb: TT1073105
   rating: 10
-  title: 'The Descent: Part 2'
-  year: '2009'
+  title: "The Descent: Part 2"
+  year: "2009"
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT1132626
   rating: 6
   title: Saw V
-  year: '2008'
+  year: "2008"
 - date: 2009-01-01 00:00:00+00:00
   imdb: TT0827181
   rating: 10
   title: Hide
-  year: '2008'
+  year: "2008"
 - date: 2017-01-01 00:00:00+00:00
   imdb: TT1860357
   rating: 7
   title: Deepwater Horizon
-  year: '2016'
+  year: "2016"
 - date: 2023-01-01 00:00:00+00:00
   imdb: TT14846026
   rating: 5
   title: Sisu
-  year: '2022'
+  year: "2022"
 - date: 2025-07-16 00:00:00+00:00
   imdb: TT7766378
   rating: 4
   title: The Electric State
-  year: '2025'
+  year: "2025"
 - date: 2015-01-01 00:00:00+00:00
   imdb: TT2481496
   rating: 3
   title: Mercy
-  year: '2014'
+  year: "2014"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT28088909
   rating: 3
   title: Transformers - Rise of the Beasts
-  year: '2023'
+  year: "2023"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT6189022
   rating: 5
   title: Angel Has Fallen
-  year: '2019'
+  year: "2019"
 - date: 1978-01-01 00:00:00+00:00
   imdb: TT0159815
   rating: 3
   title: The Minecraft Movie
-  year: '1977'
+  year: "1977"
 - date: 2025-07-16 00:00:00+00:00
   imdb: TT21191806
   rating: 2
   title: Back in Action
-  year: '2025'
+  year: "2025"
 - date: 2011-01-01 00:00:00+00:00
   imdb: TT1320304
   rating: 1
-  title: '30 Days of Night: Dark Days'
-  year: '2010'
+  title: "30 Days of Night: Dark Days"
+  year: "2010"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT28487871
   rating: 1
-  title: 'Sniper: G.R.I.T. - Global Response & Intelligence Team'
-  year: '2023'
+  title: "Sniper: G.R.I.T. - Global Response & Intelligence Team"
+  year: "2023"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT13405778
   rating: 4
-  title: 'Insidious: The Red Door'
-  year: '2023'
+  title: "Insidious: The Red Door"
+  year: "2023"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT3741700
   rating: 4
-  title: 'Godzilla: King of the Monsters'
-  year: '2019'
+  title: "Godzilla: King of the Monsters"
+  year: "2019"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT4560436
   rating: 6
   title: Mile 22
-  year: '2018'
+  year: "2018"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT3291150
   rating: 4
   title: The Expendables 4
-  year: '2023'
+  year: "2023"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT7832848
   rating: 6
-  title: 'Inside Man: Most Wanted'
-  year: '2019'
+  title: "Inside Man: Most Wanted"
+  year: "2019"
 - date: 2006-01-01 00:00:00+00:00
   imdb: TT0285175
   rating: 6
   title: Havoc
-  year: '2005'
+  year: "2005"
 - date: 2025-07-16 00:00:00+00:00
   imdb: TT30876483
   rating: 4
   title: Exterritorial
-  year: '2025'
+  year: "2025"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT21807222
   rating: 8
   title: Saw X
-  year: '2023'
+  year: "2023"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT28535747
   rating: 3
-  title: 'Mission Impossible: Dead Reckoning Part One (2023)'
-  year: '2023'
+  title: "Mission Impossible: Dead Reckoning Part One (2023)"
+  year: "2023"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT4495098
   rating: 4
   title: Gran Turismo
-  year: '2023'
+  year: "2023"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT5294518
   rating: 6
   title: Eli
-  year: '2019'
+  year: "2019"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT14998742
   rating: 4
-  title: 'Rebel Moon - Part One: A Child of Fire'
-  year: '2023'
+  title: "Rebel Moon - Part One: A Child of Fire"
+  year: "2023"
 - date: 2025-01-01 00:00:00+00:00
   imdb: TT23137904
   rating: 4
-  title: 'Rebel Moon - Part Two: The Scargiver'
-  year: '2024'
+  title: "Rebel Moon - Part Two: The Scargiver"
+  year: "2024"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT11456054
   rating: 6
   title: Run Hide Fight
-  year: '2020'
+  year: "2020"
 - date: 2025-07-16 00:00:00+00:00
   imdb: TT32550101
   rating: 8
   title: Straw
-  year: '2025'
+  year: "2025"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT6772950
   rating: 6
   title: Truth or Dare
-  year: '2018'
+  year: "2018"
 - date: 2021-01-01 00:00:00+00:00
   imdb: TT1838556
   rating: 6
   title: Honest Thief
-  year: '2020'
+  year: "2020"
 - date: 2005-01-01 00:00:00+00:00
   imdb: TT0204313
   rating: 4
-  title: 'Exorcist: The Beginning'
-  year: '2004'
+  title: "Exorcist: The Beginning"
+  year: "2004"
 - date: 2003-01-01 00:00:00+00:00
   imdb: TT0181689
   rating: 6
   title: Minority Report
-  year: '2002'
+  year: "2002"
 - date: 2025-07-16 00:00:00+00:00
   imdb: TT14961624
   rating: 5
   title: The Old Guard 2
-  year: '2025'
+  year: "2025"
 - date: 2024-01-01 00:00:00+00:00
   imdb: TT17024450
   rating: 3
   title: The Equalizer 3
-  year: '2023'
+  year: "2023"
 - date: 2025-07-16 00:00:00+00:00
   imdb: TT31806049
   rating: 7
   title: Brick
-  year: '2025'
+  year: "2025"
 - date: 2016-01-01 00:00:00+00:00
   imdb: TT3118452
   rating: 7
   title: Circle
-  year: '2015'
+  year: "2015"
 - date: 2018-01-01 00:00:00+00:00
   imdb: TT5308322
   rating: 5
   title: Happy Death Day
-  year: '2017'
+  year: "2017"
 - date: 2020-01-01 00:00:00+00:00
   imdb: TT8155288
   rating: 4
   title: Happy Death Day 2U
-  year: '2019'
+  year: "2019"
 - date: 2019-01-01 00:00:00+00:00
   imdb: TT5726086
   rating: 5
-  title: 'Insidious: The Last Key'
-  year: '2018'
+  title: "Insidious: The Last Key"
+  year: "2018"
 - date: 2025-07-17 00:00:00+00:00
   imdb: TT13103732
   rating: 4
   title: The Offering
-  year: '2022'
+  year: "2022"
 - date: 2025-07-19 00:00:00+00:00
   imdb: TT15398776
   rating: 5
   title: Oppenheimer
-  year: '2023'
+  year: "2023"
 - date: 2025-08-01 00:00:00+00:00
   imdb: TT0162222
   rating: 5
   title: Cast Away
-  year: '2000'
+  year: "2000"
 - date: 2025-08-01 00:00:00+00:00
   imdb: TT0995039
   rating: 3
   title: Ghost Town
-  year: '2008'
+  year: "2008"
 - date: 2025-08-02 00:00:00+00:00
   imdb: TT6218358
   rating: 4
   title: Calibre
-  year: '2018'
+  year: "2018"
 - date: 2025-08-02 00:00:00+00:00
   imdb: TT14865406
   rating: 1
   title: Deep Fear
-  year: '2023'
+  year: "2023"
 - date: 2025-08-02 00:00:00+00:00
   imdb: TT1259574
   rating: 4
-  title: 'Red Riding: The Year of Our Lord 1974'
-  year: '2009'
+  title: "Red Riding: The Year of Our Lord 1974"
+  year: "2009"
 - date: 2025-08-02 00:00:00+00:00
   imdb: TT31868189
   rating: 2
   title: Happy Gilmore 2
-  year: '2025'
+  year: "2025"
 - date: 2025-08-02 00:00:00+00:00
   imdb: TT1260581
   rating: 4
-  title: 'Red Riding: The Year of Our Lord 1980'
-  year: '2009'
+  title: "Red Riding: The Year of Our Lord 1980"
+  year: "2009"
 - date: 2025-08-02 00:00:00+00:00
   imdb: TT1259573
   rating: 4
-  title: 'Red Riding: The Year of Our Lord 1983'
-  year: '2009'
+  title: "Red Riding: The Year of Our Lord 1983"
+  year: "2009"
 - date: 2025-08-03 00:00:00+00:00
   imdb: TT12311620
   rating: 3
   title: Breaking
-  year: '2022'
+  year: "2022"
 - date: 2025-08-03 00:00:00+00:00
   imdb: TT0251160
   rating: 3
   title: John Q
-  year: '2002'
+  year: "2002"
 - date: 2025-08-08 00:00:00+00:00
   imdb: TT0097165
   rating: 4
   title: Dead Poets Society
-  year: '1989'
+  year: "1989"
 - date: 2025-08-10 00:00:00+00:00
   imdb: TT12921446
   rating: 4
-  title: 'The Exorcist: Believer'
-  year: '2023'
+  title: "The Exorcist: Believer"
+  year: "2023"
 - date: 2025-08-24 00:00:00+00:00
   imdb: TT1389072
   rating: 2
   title: Downsizing
-  year: '2017'
+  year: "2017"
 - date: 2025-08-24 00:00:00+00:00
   imdb: TT0152930
   rating: 1
   title: Taxi
-  year: '1998'
+  year: "1998"
 - date: 2025-08-24 00:00:00+00:00
   imdb: TT31567422
   rating: 1
   title: Night Always Comes
-  year: '2025'
+  year: "2025"
 - date: 2025-09-07 00:00:00+00:00
   imdb: TT1448754
   rating: 3
   title: Thanksgiving
-  year: '2023'
+  year: "2023"
 - date: 2025-09-07 00:00:00+00:00
   imdb: TT4589218
   rating: 3
   title: Five Nights at Freddy's
-  year: '2023'
+  year: "2023"
 - date: 2025-09-07 00:00:00+00:00
   imdb: TT12001534
   rating: 4
   title: The Thursday Murder Club
-  year: '2025'
+  year: "2025"
 - date: 2025-09-07 00:00:00+00:00
   imdb: TT15789472
   rating: 3
   title: Nowhere
-  year: '2023'
+  year: "2023"
 - date: 2025-09-07 00:00:00+00:00
   imdb: TT11138512
   rating: 4
   title: The Northman
-  year: '2022'
+  year: "2022"
 - date: 2025-09-07 00:00:00+00:00
   imdb: TT4196566
   rating: 3
   title: The Deliverance
-  year: '2024'
+  year: "2024"
 - date: 2025-09-07 00:00:00+00:00
   imdb: TT33452974
   rating: 4
   title: Bullet Train Explosion
-  year: '2025'
+  year: "2025"
 - date: 2025-09-14 00:00:00+00:00
   imdb: TT0118615
   rating: 3
   title: Anaconda
-  year: '1997'
+  year: "1997"
 - date: 2025-09-14 00:00:00+00:00
   imdb: TT0407304
   rating: 1
   title: War of the Worlds
-  year: '2005'
+  year: "2005"
 - date: 2025-09-14 00:00:00+00:00
   imdb: TT0093894
   rating: 3
   title: The Running Man
-  year: '1987'
+  year: "1987"
 - date: 2025-09-14 00:00:00+00:00
   imdb: TT0282687
   rating: 2
   title: Life or Something Like It
-  year: '2002'
+  year: "2002"
 - date: 2025-09-14 00:00:00+00:00
   imdb: TT14857528
   rating: 2
   title: Time Cut
-  year: '2024'
+  year: "2024"
 - date: 2025-10-12 00:00:00+00:00
   imdb: TT3717804
   rating: 5
   title: England Is Mine
-  year: '2017'
+  year: "2017"
 - date: 2025-10-23 00:00:00+00:00
   imdb: TT1130884
   rating: 8
   title: Shutter Island
-  year: '2010'
+  year: "2010"
 - date: 2025-10-23 00:00:00+00:00
   imdb: TT1843866
   rating: 6
-  title: 'Captain America: The Winter Soldier'
-  year: '2014'
+  title: "Captain America: The Winter Soldier"
+  year: "2014"
 - date: 2025-10-23 00:00:00+00:00
   imdb: TT4154796
   rating: 4
-  title: 'Avengers: Endgame'
-  year: '2019'
+  title: "Avengers: Endgame"
+  year: "2019"
 - date: 2025-10-23 00:00:00+00:00
   imdb: TT0993846
   rating: 7
   title: The Wolf of Wall Street
-  year: '2013'
+  year: "2013"
 - date: 2025-10-23 00:00:00+00:00
   imdb: TT1375666
   rating: 9
   title: Inception
-  year: '2010'
+  year: "2010"
 - date: 2025-10-23 00:00:00+00:00
   imdb: TT2321549
   rating: 5
   title: The Babadook
-  year: '2014'
+  year: "2014"
 - date: 2025-10-23 00:00:00+00:00
   imdb: TT1285016
   rating: 6
   title: The Social Network
-  year: '2010'
+  year: "2010"
 - date: 2025-10-23 00:00:00+00:00
   imdb: TT1457767
   rating: 6
   title: The Conjuring
-  year: '2013'
+  year: "2013"
 - date: 2025-10-23 00:00:00+00:00
   imdb: TT3065204
   rating: 6
   title: The Conjuring 2
-  year: '2016'
+  year: "2016"
 - date: 2025-12-15 00:00:00+00:00
   imdb: TT16311594
   rating: 9
-  title: 'F1: The Movie'
-  year: '2025'
+  title: "F1: The Movie"
+  year: "2025"
 - date: 2025-12-15 00:00:00+00:00
   imdb: TT29232158
   rating: 4
   title: Troll 2
-  year: '2025'
+  year: "2025"
 - date: 2025-12-15 00:00:00+00:00
   imdb: TT11057302
   rating: 3
   title: Madame Web
-  year: '2024'
+  year: "2024"
 - date: 2025-12-15 00:00:00+00:00
   imdb: TT1137450
   rating: 4
   title: Death Wish
-  year: '2018'
+  year: "2018"
 - date: 2025-12-31 00:00:00+00:00
   imdb: TT0117913
   rating: 7
   title: A Time to Kill
-  year: '1996'
+  year: "1996"
 - date: 2025-12-31 00:00:00+00:00
   imdb: TT31450182
   rating: 5
   title: Amber Alert
-  year: '2024'
+  year: "2024"
 - date: 2026-01-21 00:00:00+00:00
   imdb: TT32642706
   rating: 7
   title: The Rip
-  year: '2026'
+  year: "2026"
 - date: 2026-01-25 00:00:00+00:00
   imdb: TT1312221
   rating: 8
   title: Frankenstein
-  year: '2025'
+  year: "2025"
 - date: 2026-02-20 00:00:00+00:00
   imdb: TT1959490
   rating: 3
   title: Noah
-  year: '2014'
+  year: "2014"
 - date: 2026-02-20 00:00:00+00:00
   imdb: TT14088510
   rating: 2
   title: Tarot
-  year: '2024'
+  year: "2024"
 - date: 2026-02-23 00:00:00+00:00
   imdb: TT2714380
   rating: 3
   title: The Remaining
-  year: '2014'
+  year: "2014"
 - date: 2026-03-08 00:00:00+00:00
   imdb: TT13655120
   rating: 3
   title: I.S.S
-  year: '2023'
+  year: "2023"
 - date: 2026-03-08 00:00:00+00:00
   imdb: TT1001520
   rating: 6
   title: The Last Voyage of the Demeter
-  year: '2023'
+  year: "2023"
 - date: 2026-03-15 00:00:00+00:00
   imdb: TT15940132
   rating: 3
   title: War Machine
-  year: '2025'
+  year: "2025"
 - date: 2026-03-21 00:00:00+00:00
   imdb: TT6014472
   rating: 2
-  title: 'S.W.A.T.: Under Siege'
-  year: '2017'
+  title: "S.W.A.T.: Under Siege"
+  year: "2017"
 - date: 2026-03-21 00:00:00+00:00
   imdb: TT27489557
   rating: 3
   title: Abigail
-  year: '2024'
+  year: "2024"
 - date: 2026-03-25 00:00:00+00:00
   imdb: TT1684562
   rating: 5
   title: The Fall Guy
-  year: '2024'
+  year: "2024"
 - date: 2026-04-11 00:00:00+00:00
   imdb: tt33712667
   rating: 1
   title: A Line of Fire
-  year: '2025'
+  year: "2025"
 - date: 2026-04-12 00:00:00+00:00
   imdb: tt9224104
   rating: 2
-  title: 'Meg 2: The Trench'
-  year: '2023'
+  title: "Meg 2: The Trench"
+  year: "2023"
 - date: 2026-04-14 00:00:00+00:00
   imdb: tt32362890
   rating: 3
   title: Beneath the Storm
-  year: '2025'
+  year: "2025"
 - date: 2026-04-18 00:00:00+00:00
   imdb: tt9362930
   rating: 4
   title: Blue Beetle
-  year: '2023'
+  year: "2023"
 - date: 2026-04-18 00:00:00+00:00
   imdb: tt0439572
   rating: 2
   title: The Flash
-  year: '2023'
+  year: "2023"
 - date: 2026-04-18 00:00:00+00:00
   imdb: tt10151854
   rating: 3
   title: Shazam! Fury of the Gods
-  year: '2023'
+  year: "2023"
 - date: 2026-04-21 00:00:00+00:00
   imdb: tt2935510
   rating: 4
   title: Ad Astra
-  year: '2019'
+  year: "2019"
 - date: 2026-05-07 00:00:00+00:00
   imdb: tt0297284
   rating: 4
   title: Mindhunters
-  year: '2004'
+  year: "2004"
 - date: 2026-05-09 00:00:00+00:00
   imdb: tt16431404
   rating: 6
   title: Apex
-  year: '2026'
+  year: "2026"
 - date: 2026-05-13 00:00:00+00:00
   imdb: tt0372784
   rating: 7
   title: Batman Begins
-  year: '2005'
+  year: "2005"
 - date: 2026-05-13 00:00:00+00:00
   imdb: tt0468569
   rating: 7
   title: The Dark Knight
-  year: '2008'
+  year: "2008"
 - date: 2026-05-13 00:00:00+00:00
   imdb: tt1345836
   rating: 6
   title: The Dark Knight Rises
-  year: '2012'
+  year: "2012"
 - date: 2026-05-13 00:00:00+00:00
   imdb: tt2106361
   rating: 3
   title: Into the Storm
-  year: '2014'
+  year: "2014"
 - date: 2026-05-16 00:00:00+00:00
   imdb: tt1267297
   rating: 3
   title: Hercules
-  year: '2014'
+  year: "2014"
 - date: 2026-05-21 00:00:00+00:00
   imdb: tt8080204
   rating: 5
   title: Hypnotic
-  year: '2023'
+  year: "2023"
 - date: 2026-05-22 00:00:00+00:00
   imdb: tt1911644
   rating: 6
   title: The Call
-  year: '2013'
+  year: "2013"
 - date: 2026-05-23 00:00:00+00:00
   imdb: tt15574124
   rating: 4
-  title: 'Peaky Blinders: The Immortal Man'
-  year: '2026'
+  title: "Peaky Blinders: The Immortal Man"
+  year: "2026"
 - date: 2026-05-25 00:00:00+00:00
   imdb: tt1121948
   rating: 5
   title: The Killer
-  year: '2024'
+  year: "2024"
 - date: 2026-05-25 00:00:00+00:00
   imdb: tt0369339
   rating: 6
   title: Collateral
-  year: '2004'
+  year: "2004"
 - date: 2026-05-25 00:00:00+00:00
   imdb: tt35330717
   rating: 4
   title: The Orphans
-  year: '2025'
+  year: "2025"
 - date: 2026-05-26 00:00:00+00:00
   imdb: tt4919268
   rating: 5
-  title: 'Bad Boys: Ride or Die'
-  year: '2024'
+  title: "Bad Boys: Ride or Die"
+  year: "2024"
 - date: 2026-05-27 00:00:00+00:00
   imdb: tt11729298
   rating: 5
   title: American Underdog
-  year: '2021'
+  year: "2021"
 - date: 2026-05-28 00:00:00+00:00
   imdb: tt9853500
   rating: 6
   title: Bandit
-  year: '2022'
+  year: "2022"
 - date: 2026-05-28 00:00:00+00:00
   imdb: tt0948470
   rating: 5
   title: The Amazing Spider-Man
-  year: '2012'
+  year: "2012"
 - date: 2026-05-28 00:00:00+00:00
   imdb: tt1872181
   rating: 5
   title: The Amazing Spider-Man 2
-  year: '2014'
+  year: "2014"
 - date: 2026-05-29 00:00:00+00:00
   imdb: tt0164052
   rating: 2
   title: Hollow Man
-  year: '2000'
+  year: "2000"
 - date: 2026-05-31 00:00:00+00:00
   imdb: tt0469916
   rating: 4
   title: Hollow Man II
-  year: '2006'
+  year: "2006"
 - date: 2026-05-31 00:00:00+00:00
   imdb: tt3263904
   rating: 4
   title: Sully
-  year: '2016'
+  year: "2016"
 - date: 2026-05-31 00:00:00+00:00
   imdb: tt0120768
   rating: 6
   title: The Negotiator
-  year: '1998'
+  year: "1998"
 - date: 2026-05-31 00:00:00+00:00
   imdb: tt1136617
   rating: 6
   title: The Killer
-  year: '2023'
+  year: "2023"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt0348150
   rating: 4
   title: Superman Returns
-  year: '2006'
+  year: "2006"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt2119532
   rating: 4
   title: Hacksaw Ridge
-  year: '2016'
+  year: "2016"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt10451914
   rating: 4
   title: Outside the Wire
-  year: '2021'
+  year: "2021"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt2057392
   rating: 6
   title: Eye in the Sky
-  year: '2015'
+  year: "2015"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt0119567
   rating: 5
-  title: 'The Lost World: Jurassic Park'
-  year: '1997'
+  title: "The Lost World: Jurassic Park"
+  year: "1997"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt0107290
   rating: 6
   title: Jurassic Park
-  year: '1993'
+  year: "1993"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt8041270
   rating: 4
-  title: 'Jurassic World: Dominion'
-  year: '2022'
+  title: "Jurassic World: Dominion"
+  year: "2022"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt31036941
   rating: 4
-  title: 'Jurassic World: Rebirth'
-  year: '2025'
+  title: "Jurassic World: Rebirth"
+  year: "2025"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt0803096
   rating: 2
   title: Warcraft
-  year: '2016'
+  year: "2016"
 - date: 2026-06-01 00:00:00+00:00
   imdb: tt0112384
   rating: 5
   title: Apollo 13
-  year: '1995'
+  year: "1995"
 - date: 2026-06-02 00:00:00+00:00
   imdb: tt3076658
   rating: 5
   title: Creed
-  year: '2015'
+  year: "2015"
 - date: 2026-06-03 00:00:00+00:00
   imdb: tt6343314
   rating: 4
   title: Creed II
-  year: '2018'
+  year: "2018"
 - date: 2026-06-03 00:00:00+00:00
   imdb: tt11145118
   rating: 4
   title: Creed III
-  year: '2023'
+  year: "2023"
 - date: 2026-06-03 00:00:00+00:00
   imdb: tt4881806
   rating: 4
-  title: 'Jurassic World: Fallen Kingdom'
-  year: '2018'
+  title: "Jurassic World: Fallen Kingdom"
+  year: "2018"
 - date: 2026-06-03 00:00:00+00:00
   imdb: tt0163025
   rating: 4
   title: Jurassic Park III
-  year: '2001'
+  year: "2001"
 - date: 2026-06-05 00:00:00+00:00
   imdb: tt0108002
   rating: 3
   title: Rudy
-  year: '1993'
+  year: "1993"
 - date: 2026-06-08 00:00:00+00:00
   imdb: tt8228288
   rating: 5
   title: The Platform
-  year: '2019'
+  year: "2019"
 - date: 2026-06-08 00:00:00+00:00
   imdb: tt0942385
   rating: 6
   title: Tropic Thunder
-  year: '2008'
+  year: "2008"
 - date: 2026-06-11 00:00:00+00:00
   imdb: tt0903624
   rating: 4
-  title: 'The Hobbit: An Unexpected Journey'
-  year: '2012'
+  title: "The Hobbit: An Unexpected Journey"
+  year: "2012"
 - date: 2026-06-12 00:00:00+00:00
   imdb: tt1170358
   rating: 4
-  title: 'The Hobbit: The Desolation of Smaug'
-  year: '2013'
+  title: "The Hobbit: The Desolation of Smaug"
+  year: "2013"
 - date: 2026-06-28 00:00:00+00:00
   imdb: tt27729779
   rating: 4
   title: The Platform 2
-  year: '2024'
+  year: "2024"
 - date: 2026-07-04 00:00:00+00:00
   imdb: tt5834262
   rating: 4
   title: Hotel Artemis
-  year: '2018'
+  year: "2018"
 - date: 2026-07-07 00:00:00+00:00
   imdb: tt1013752
   rating: 4
   title: Fast & Furious
-  year: '2009'
+  year: "2009"
 - date: 2026-07-07 00:00:00+00:00
   imdb: tt1596343
   rating: 4
   title: Fast Five
-  year: '2011'
+  year: "2011"
 - date: 2026-07-07 00:00:00+00:00
   imdb: tt1905041
   rating: 4
   title: Fast & Furious 6
-  year: '2013'
+  year: "2013"
 - date: 2026-07-07 00:00:00+00:00
   imdb: tt2820852
   rating: 4
   title: Furious 7
-  year: '2015'
+  year: "2015"
 - date: 2026-07-07 00:00:00+00:00
   imdb: tt4630562
   rating: 4
   title: The Fate of the Furious
-  year: '2017'
+  year: "2017"
 - date: 2026-07-07 00:00:00+00:00
   imdb: tt5433138
   rating: 4
-  title: 'F9: The Fast Saga'
-  year: '2021'
+  title: "F9: The Fast Saga"
+  year: "2021"
 - date: 2026-07-07 00:00:00+00:00
   imdb: tt5433140
   rating: 4
   title: Fast X
-  year: '2023'
+  year: "2023"
 - date: 2026-07-07 00:00:00+00:00
   imdb: tt24733090
   rating: 4
-  title: 'Fast & Furious Presents: Hobbs & Shaw (2019)'
-  year: '2019'
+  title: "Fast & Furious Presents: Hobbs & Shaw (2019)"
+  year: "2019"
 - date: 2026-07-07 00:00:00+00:00
   imdb: tt0770828
   rating: 4
   title: Man of Steel
-  year: '2013'
+  year: "2013"
 - date: 2026-07-08 00:00:00+00:00
   imdb: tt2975590
   rating: 5
-  title: 'Batman v Superman: Dawn of Justice'
-  year: '2016'
+  title: "Batman v Superman: Dawn of Justice"
+  year: "2016"
 - date: 2026-07-09 00:00:00+00:00
   imdb: tt2310332
   rating: 4
-  title: 'The Hobbit: The Battle of the Five Armies'
-  year: '2014'
+  title: "The Hobbit: The Battle of the Five Armies"
+  year: "2014"
 - date: 2026-07-10 00:00:00+00:00
   imdb: tt1250777
   rating: 3
   title: Kick-Ass
-  year: '2010'
+  year: "2010"
 - date: 2026-07-10 00:00:00+00:00
   imdb: tt1650554
   rating: 3
   title: Kick-Ass 2
-  year: '2013'
+  year: "2013"
 - date: 2026-07-10 00:00:00+00:00
   imdb: tt26744645
   rating: 10
   title: Compulsion
-  year: '2024'
+  year: "2024"
 - date: 2026-07-13 00:00:00+00:00
   imdb: tt2932536
   rating: 3
   title: 47 Meters Down
-  year: '2017'
+  year: "2017"
 - date: 2026-07-13 00:00:00+00:00
   imdb: tt15198608
   rating: 4
   title: Prey
-  year: '2021'
+  year: "2021"
 - date: 2026-07-19 00:00:00+00:00
   imdb: tt0441773
   rating: 4
   title: Kung Fu Panda
-  year: '2008'
+  year: "2008"
 - date: 2026-07-27 00:00:00+00:00
   imdb: tt14138650
   rating: 7
   title: The Pale Blue Eye
-  year: '2022'
+  year: "2022"
