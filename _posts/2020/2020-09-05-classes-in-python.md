@@ -19,7 +19,7 @@ Next we will create a method called `draw` [see line 13]
 
 Note the use of turtle here, which is a package, that can be used for drawing items. At the top of the file we'll include the package
 
-And thats our class, before we get in to running some code to actually draw our shapes, lets make the `Polygon` class a super class and inherit it from a specific shape `Square`
+And that's our class, before we get in to running some code to actually draw our shapes, lets make the `Polygon` class a super class and inherit it from a specific shape `Square`
 
 Notice the polygon in brackets and the use of `super()` which essentially says initiate the parent class [see line 24]. We pass in the `4` and the name `square` the rest of the values are the default values from within the super class.
 
@@ -27,7 +27,7 @@ We add to the `square` class [see line 28] another method to draw, which inherit
 
 So to draw a polygon and a square we can use the following snippet
 
-<script src="https://gist.github.com/Mat-0/60265fed4f9a6fbe77ee7315df9d92b5.js"></script>
+<script src="https://gist.github.com/thechelsuk/60265fed4f9a6fbe77ee7315df9d92b5.js"></script>
 
 The `turtle.done()` call on line 38 keeps the drawn item on screen like how `console.read()` would do the same in C#.
 
