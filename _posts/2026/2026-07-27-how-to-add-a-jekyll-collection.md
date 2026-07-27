@@ -22,13 +22,16 @@ permalink: ./rides/:title
 In order to make the most of a new collection, I add a count of items in my directory template which shows a count of all the types and data objects in the site.
 
 ```liquid
+{% raw %}
 {{ site.rides | size }}.
+{% endraw %}
 ```
 
 I also need to add the collection to the sitemap, so the new pages get picked up by search engines.
 
 ```xml
 <!-- rides -->
+{% raw %}
 {% assign links = site.rides %}
 {% for link in links %}
 <url>
@@ -39,12 +42,14 @@ I also need to add the collection to the sitemap, so the new pages get picked up
 <priority>0.8</priority>
 {% endif %}
 </url>
-{% endfor %}
+[% endfor %]
+{% endraw %}
 ```
 
 I also create an xml file for the RSS Feed, and if appropriate add the collection to the main page so it appears in the 'firehose'
 
 ```xml
+{% raw %}
 ---
 layout: empty
 permalink: /rides.xml
@@ -86,11 +91,13 @@ permalink: /rides.xml
     </entry>
 {% endfor %}
 </feed>
+{% endraw %}
 ```
 
 And the json equivalent feed
 
 ```json
+{% raw %}
 "items": [
     {%- assign rides = site.rides -%}
     {%- assign posts = site.posts -%}
@@ -112,15 +119,18 @@ And the json equivalent feed
     }{% unless forloop.last %},{% endunless %}
     {% endfor %}
     ]
+{% endraw %}
 ```
 
 And finally, to make sure the collection appears in the main page, I add it to the main feed code which makes use of the `concat` filter to merge the two collections together, and then sort them by date.
 
 ```liquid
+{% raw %}
 {% assign rides = site.rides %}
 {% assign posts = site.posts | where_exp: "post", "post.show != false" %}
 {% assign posts = posts | concat: rides %}
 {% assign posts = posts | sort: "date" | reverse %}
+{% endraw %}
 ```
 
 This ensures the content appears where it should.
