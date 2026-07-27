@@ -7,39 +7,40 @@
     {{ content }}
 
     {% if page.link and page.cited %}
-      <p>&raquo; <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
+    <p>&raquo; <a href="{{ page.link }}">{{page.cited}} &rarr;</a></p>
     {% elsif page.cited %}
-      <p>&raquo; {{page.cited}}</p>
+    <p>&raquo; {{page.cited}}</p>
     {% elsif page.i_url %}
-        <p>&raquo; <a href="{{ page.i_url }}" class="u-{{page.i_type}}">{{page.i_url}} &rarr;</a></p>
+    <p>&raquo; <a href="{{ page.i_url }}" class="u-{{page.i_type}}">{{page.i_url}} &rarr;</a></p>
     {% elsif page.i_type == 'note' %}
-        <p>&raquo; <a href="{{ page.url }}" class="u-{{page.i_type}}">permalink</a></p>
+    <p>&raquo; <a href="{{ page.url }}" class="u-{{page.i_type}}">permalink</a></p>
     {% endif %}
 
 
-  {% if page.class == 'indie' %}
-  <p class="meta">
-    <a class="u-syndication" href="https://news.indieweb.org/en" hidden="from-humans">Also posted on IndieNews</a>
-  </p>
-  {% endif %}
+    {% if page.class == 'indie' %}
+    <p class="meta">
+      <a class="u-syndication" href="https://news.indieweb.org/en" hidden="from-humans">Also posted on IndieNews</a>
+    </p>
+    {% endif %}
   </div>
 
   {% if page.id %}
   <p class="meta">
-    // Written by: <a href="{{ site.owner.url }}">{{ site.owner.name }}</a><br/>
-    // Published: <time class="dt-published"
-      datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with
-    {{ page.content | number_of_words }} words. {%
-    webmention_count page.url %} mentions.
-  </p>
-  <p>
-
+    {% include post_meta.html %}
   </p>
 
-  <p class="webmentions">
-    <a class="u-url hidden" href="{{ page.url | absolute_url }}" hidden="from-humans"></a>
+  {%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}
+  {%- assign wm_count = wm_count | strip | plus: 0 -%}
+  {%- if wm_count > 0 -%}
+  <div class="webmentions">
     {% webmentions page.url %}
-  </p>
+  </div>
+  {%- endif -%}
+
+  <div class="replies">
+    {% include post_replies.html %}
+  </div>
+
 
   {% if page.syndicate == true %}
   <p class="meta">
@@ -53,7 +54,7 @@
   {% endif %}
 
 
-<script type="application/ld+json">
+  <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",

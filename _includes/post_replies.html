@@ -1,0 +1,29 @@
+{%- assign url_parts = page.url | split: "/" | where_exp: "part", "part != ''" -%}
+{%- assign reply_slug = url_parts | join: "-" -%}
+{%- assign replies = site.data.replies[reply_slug] -%}
+
+{%- if replies and replies.size > 0 -%}
+<div class="webmentions replies">
+    <ol class="webmentions__list">
+        {%- for reply in replies -%}
+        <li class="webmentions__item">
+            <article class="webmention--no-photo">
+                <div class="webmention__author">
+                    {%- if reply.author_url -%}
+                    <a href="{{ reply.author_url | escape }}">{{ reply.author | escape }}</a>
+                    {%- else -%}
+                    {{ reply.author | escape }}
+                    {%- endif -%}
+                </div>
+                <div class="webmention__content">{{ reply.html }}</div>
+                <div class="webmention__meta">
+                    <time
+                        datetime="{{ reply.pub_date | date_to_xmlschema }}">{{ reply.pub_date | date: "%-d %B %Y" }}</time>
+                    {% if reply.guid %} | <a href="{{ reply.guid | escape }}">Permalink</a>{%- endif -%}
+                </div>
+            </article>
+        </li>
+        {%- endfor -%}
+    </ol>
+</div>
+{%- endif -%}

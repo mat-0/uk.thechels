@@ -41,6 +41,7 @@ jobs:
               run: |
                   python fetch_videos.py
                   python fetch_releases.py
+                  python fetch_replies.py
               working-directory: ./_python
 
             - name: Commit updated YAML files

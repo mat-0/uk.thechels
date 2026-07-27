@@ -19,3 +19,4 @@ pillow>=12.3.0
 ruamel.yaml
 markdownify
 pip-audit
+bleach

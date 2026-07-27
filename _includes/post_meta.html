@@ -1,0 +1,14 @@
+Written by: <a href="{{ site.owner.url }}">{{ site.owner.name }}</a><br />
+Published: <time class="dt-published"
+    datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time>, with
+{{ page.content | number_of_words }} words,
+{%- capture webmention_count %}{% webmention_count page.url %}{% endcapture -%}
+{%- assign url_parts = page.url | split: "/" | where_exp: "part", "part != ''" -%}
+{%- assign reply_slug = url_parts | join: "-" -%}
+{%- assign reply_count = site.data.replies[reply_slug].size | default: 0 -%}
+{%- assign total_count = webmention_count | strip | plus: reply_count -%}
+{%- if total_count == 1 -%}
+&nbsp;{{ total_count }} reply.
+{%- else -%}
+&nbsp;{{ total_count }} replies.
+{%- endif -%}
