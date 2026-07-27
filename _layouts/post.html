@@ -30,16 +30,12 @@
   </p>
 
   {%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}
-  {%- assign wm_count = wm_count | strip | plus: 0 -%}
+  {%- assign wm_count = wm_count | strip_html | strip | plus: 0 -%}
   {%- if wm_count > 0 -%}
-  <div class="webmentions">
-    {% webmentions page.url %}
-  </div>
+  {% webmentions page.url %}
   {%- endif -%}
 
-  <div class="replies">
-    {% include post_replies.html %}
-  </div>
+  {% include post_replies.html %}
 
 
   {% if page.syndicate == true %}

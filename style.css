@@ -378,92 +378,6 @@ main:focus {
     font-size: 0.8em;
 }
 
-.webmentions {
-    color: var(--secondary);
-    display: inline-block;
-    margin-left: 0;
-    font-size: 0.8em;
-
-    .webmentions__list {
-        list-style: none;
-        margin: 0.75em 0 0;
-        padding-left: 0;
-    }
-
-    .webmentions__item {
-        margin-bottom: 0.75em;
-    }
-
-    .webmention__meta {
-        margin-top: 0.2em;
-        line-height: 1.2;
-    }
-
-    .webmention__author {
-        display: flex;
-        align-items: center;
-    }
-
-    .webmention__author a {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.5em;
-    }
-
-    .webmention__author__photo {
-        display: block;
-        width: 25px;
-        min-width: 25px;
-        height: 25px;
-        object-fit: cover;
-        flex-shrink: 0;
-        border-radius: 50%;
-    }
-
-    article.webmention--no-photo {
-        position: relative;
-        padding-left: 35px;
-    }
-
-    article.webmention--no-photo::before {
-        content: "";
-        position: absolute;
-        top: 0.1em;
-        left: 0;
-        width: 25px;
-        height: 25px;
-        border-radius: 50%;
-        background: var(--accent);
-        border: 1px solid var(--secondary);
-    }
-
-    .webmention--like article,
-    .webmention--repost article {
-        display: flex;
-        align-items: center;
-        flex-wrap: wrap;
-        gap: 0.35em 0.6em;
-    }
-
-    .webmention--like .webmention__content:empty,
-    .webmention--repost .webmention__content:empty {
-        display: none;
-    }
-
-    .webmention--like .webmention__meta,
-    .webmention--repost .webmention__meta {
-        display: block;
-        flex-basis: 100%;
-        margin-top: 0.3em;
-        padding-left: 35px;
-    }
-
-    article.webmention--no-photo .webmention__meta {
-        display: block;
-        margin-top: 0.3em;
-    }
-}
-
 .hidden {
     display: none;
 }
@@ -557,6 +471,84 @@ a {
     border-radius: 0.5em;
     margin: 0.265em;
     font-size: 0.8em;
+}
+
+/* ---------------------------------- */
+/* -- Mentions and Replies  Styles -- */
+/* ---------------------------------- */
+
+.webmentions {
+    color: var(--secondary);
+    display: inline-block;
+    margin-left: 0;
+    font-size: 0.8em;
+
+    .webmentions__list {
+        list-style: none;
+        margin: 0.75em 0 0;
+        padding-left: 0;
+    }
+
+    .webmentions__item {
+        margin-bottom: 0.75em;
+    }
+
+    article {
+        position: relative;
+        padding-left: 35px;
+    }
+
+    .webmention__meta {
+        margin-top: 0.2em;
+        line-height: 1.2;
+    }
+
+    .webmention__author a {
+        display: inline;
+    }
+
+    .webmention__author__photo {
+        position: absolute;
+        top: 0.1em;
+        left: 0;
+        width: 25px;
+        height: 25px;
+        object-fit: cover;
+        border-radius: 50%;
+    }
+
+    article.webmention--no-photo::before {
+        content: "";
+        position: absolute;
+        top: 0.1em;
+        left: 0;
+        width: 25px;
+        height: 25px;
+        border-radius: 50%;
+        background: var(--accent);
+        border: 1px solid var(--secondary);
+    }
+
+    .webmention--like article,
+    .webmention--repost article {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0.35em 0.6em;
+    }
+
+    .webmention--like .webmention__content:empty,
+    .webmention--repost .webmention__content:empty {
+        display: none;
+    }
+
+    .webmention--like .webmention__meta,
+    .webmention--repost .webmention__meta {
+        display: block;
+        flex-basis: 100%;
+        margin-top: 0.3em;
+        /* padding-left removed — article now provides the gutter */
+    }
 }
 
 /* ---------------------------------- */
