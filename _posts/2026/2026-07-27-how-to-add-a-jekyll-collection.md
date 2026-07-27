@@ -5,7 +5,6 @@ seo: Ways - how to add a jekyll collection
 date: 2026-07-27 13:00
 type: ways
 syndicate: true
-
 ---
 
 Jekyll considers collections as a type, like posts and pages, by adding the collection to the `config.yml` it can operate in the same way as posts, making listing, sorting, and counting easy. To add a collection, you need to update several places, these code examples use the `ride` collection.
@@ -14,10 +13,10 @@ First of all we need to register the collection in the `_config.yml` file
 
 ```markdown
 collections:
- rides:
-  output: true
-  sort_by: date
-  permalink: ./rides/:title
+rides:
+output: true
+sort_by: date
+permalink: ./rides/:title
 ```
 
 In order to make the most of a new collection, I add a count of items in my directory template which shows a count of all the types and data objects in the site.
