@@ -27,7 +27,50 @@ We add to the `square` class [see line 28] another method to draw, which inherit
 
 So to draw a polygon and a square we can use the following snippet
 
-<script src="https://gist.github.com/thechelsuk/60265fed4f9a6fbe77ee7315df9d92b5.js"></script>
+```python
+import turtle
+
+class Polygon:
+    def __init__(self, sides, name, size=100, color="blue", line_thickness=4):
+        self.sides = sides
+        self.name = name
+        self.size = size
+        self.color = color
+        self.line_thickness = line_thickness
+        self.interior_angles = (self.sides - 2)*180
+        self.angle = self.interior_angles/self.sides
+
+    def draw(self):
+        turtle.begin_fill()
+        turtle.color(self.color)
+        turtle.pensize(self.line_thickness)
+        for i in range(self.sides):
+            turtle.forward(self.size)
+            turtle.right(180 - self.angle)
+        turtle.end_fill()
+
+
+class Square(Polygon):
+    def __init__(self):
+        super().__init__(4, "square")
+
+
+class Square(Polygon):
+    def __init__(self):
+        super().__init__(4, "square")
+
+    def draw(self):
+        super().draw()
+
+
+shape = Polygon(6, "hexagon", color="pink")
+shape.draw()
+turtle.done()
+
+square = Square()
+square.draw()
+turtle.done()
+```
 
 The `turtle.done()` call on line 38 keeps the drawn item on screen like how `console.read()` would do the same in C#.
 
