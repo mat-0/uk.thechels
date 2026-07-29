@@ -17,10 +17,9 @@ Creating a new template is as easy as clicking the _add new file_ button and pro
 ---
 name: ReadMe next activity template
 about: For responding to my question on my ReadMe about what I should be doing next.
-title: 'Next: '
-labels: 'Next'
-assignees: ''
-
+title: "Next: "
+labels: "Next"
+assignees: ""
 ---
 ```
 
