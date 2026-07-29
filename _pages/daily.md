@@ -11,6 +11,7 @@ date: 2026-07-29
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 29 July 2026
 
 - The average temperature today is 18.05˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 90 days since the last change (2026-04-30)
 
@@ -33,43 +35,52 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > challenge assumptions.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Sydney FC v Tottenham Hotspur
 - Bristol City v Newcastle United
 - Doncaster Rovers v Wolves
 - Watford v Fiorentina
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 135.89999389648438 
-- ^FTSE : 10871.01953125 
-- ^FTMC : 24004.779296875 
+- VWRL.L : 135.89999389648438
+- ^FTSE : 10871.01953125
+- ^FTMC : 24004.779296875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I have interviewed at a bird food-making company, but waiting to see if they have a successful seed funding round, as I don't come cheep.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Wildfires: Europe on track for worst year on record as burned area reaches size of Luxembourg (Euronews, [39 minutes ago](http://www.euronews.com/my-europe/2026/07/29/wildfires-europe-on-track-for-worst-year-on-record-as-burned-area-reaches-size-of-luxembou))
 - EU wildfire strategy falls short as southern Europe faces another devastating fire season (Euronews, [42 minutes ago](http://www.euronews.com/my-europe/2026/07/29/eu-wildfire-strategy-falls-short-as-southern-europe-faces-another-devastating-fire-season))
 - Big Tech demanding deals that smooth out memory prices, says SK Hynix (Register, [51 minutes ago](https://www.theregister.com/systems/2026/07/29/big-tech-demanding-deals-that-smooth-out-memory-prices-says-sk-hynix/5280182))
@@ -78,7 +89,7 @@ _Good Morning, Here is your daily briefing..._
 - Sixth-generation wildfires multiply: why they are more dangerous and how to fight them (Euronews, [1 hours ago](http://www.euronews.com/2026/07/29/sixth-generation-wildfires-multiply-why-they-are-more-dangerous-and-how-to-fight-them))
 - Skip the usual stays: These five hidden gem hotels deserve a spot on your holiday shortlist (Euronews, [1 hours ago](http://www.euronews.com/travel/2026/07/29/skip-the-usual-stays-these-five-hidden-gem-hotels-deserve-a-spot-on-your-holiday-shortlist))
 - Industrial chicken farms are fuelling the spread of diarrhoea-causing bacteria, study finds (Euronews, [1 hours ago](http://www.euronews.com/health/2026/07/29/industrial-chicken-farms-are-fuelling-the-spread-of-diarrhoea-causing-bacteria-study-finds))
-- Latest news bulletin  July 29th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/29/latest-news-bulletin-july-29th-2026-morning))
+- Latest news bulletin July 29th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/29/latest-news-bulletin-july-29th-2026-morning))
 - Is the EU's 'Chat Control' the end of private messaging in Europe? (Euronews, [1 hours ago](http://www.euronews.com/my-europe/2026/07/29/is-the-eus-chat-control-the-end-of-private-messaging-in-europe))
 - How beavers are quietly tackling Europe’s raging wildfires and helping burnt landscapes recover (Euronews, [1 hours ago](http://www.euronews.com/2026/07/29/how-beavers-are-quietly-tackling-europes-raging-wildfires-and-helping-burnt-landscapes-rec))
 - US intercepts Iranian attack and launches joint strikes with Saudi Arabia against Iran-backed militias in Iraq (Euronews, [1 hours ago](http://www.euronews.com/2026/07/29/us-intercepts-iranian-attack-and-launches-joint-strikes-with-saudi-arabia-against-iran-bac))
@@ -111,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > withsay - verb tr.: To contradict, deny, oppose, or refuse.
+> withsay - verb tr.: To contradict, deny, oppose, or refuse.
 
 <!-- word_marker ends -->
 
@@ -126,6 +137,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Make a sudden, destructive, unpredictable action; incorporate
 
 <!-- eno_marker ends -->
@@ -133,9 +145,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Lara Croft Tomb Raider: The Cradle Of Life (Rated: 2)
 - Released in 2003
 - Summary: A globe-trotter must find Pandora's box before a maniacal scientist can harness its power for world domination.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -156,9 +170,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Scripting [URL](http://scripting.com/) [Feed](http://scripting.com/rss.xml)
 - John Peart [URL](https://www.johnpe.art/) [Feed](https://www.johnpe.art/feed.xml)
 - The Morning Brew [URL](https://blog.cwa.me.uk/) [Feed](http://feeds.feedburner.com/ReflectivePerspective)
 - Will Larson [URL](https://lethain.com/) [Feed](https://lethain.com/feeds.xml)
 - Alice Bartlett [URL](https://alicebartlett.co.uk/) [Feed](https://alicebartlett.co.uk/feed.xml)
+
 <!-- blogroll_marker ends -->
