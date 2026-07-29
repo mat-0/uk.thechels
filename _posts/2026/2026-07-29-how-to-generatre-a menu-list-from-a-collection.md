@@ -20,19 +20,17 @@ In this example I am using the navigation_header in the config.yml and it's then
 
 ```html
 {% raw %}
-  <ul class="list  list--nav">
-    {% for item in site.navigation_header %}
+<ul class="list  list--nav">
+  {% for item in site.navigation_header %} {% if item.url contains '://' %} {%
+  assign url = item.url %} {% else %} {% assign url = item.url | relative_url %}
+  {% endif %}
 
-      {% if item.url contains '://' %}
-        {% assign url = item.url %}
-      {% else %}
-        {% assign url = item.url | relative_url %}
-      {% endif %}
-
-      <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-        <a href="{{ url }}">{{ item.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+  <li
+    class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}"
+  >
+    <a href="{{ url }}">{{ item.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
 {% endraw %}
 ```
