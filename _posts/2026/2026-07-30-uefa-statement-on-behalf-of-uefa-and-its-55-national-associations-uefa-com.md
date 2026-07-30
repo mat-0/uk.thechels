@@ -7,7 +7,6 @@ seo: "Infantino out, UEFA and its national associations will not participate in 
 type: linked
 syndicate: false
 layout: post
-
 ---
 
 Strong words; Infantino's role as president of FIFA is now untenable.
