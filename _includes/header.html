@@ -103,6 +103,8 @@
       href="{{ site.url }}/films.xml">
     <link rel="alternate" type="application/json" title="{{ site.title }} - Main as JSON"
       href="{{ site.url }}/feed.json">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - Main feed as RSS 2.0"
+      href="{{ site.url }}/rss2.rss">
 
     {% if page.layout == 'post' %}
     <link href="{{ site.url }}{{ page.url | remove:'index.html' | strip_slash }}.md" type="text/markdown"

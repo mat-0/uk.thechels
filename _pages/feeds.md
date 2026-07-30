@@ -9,6 +9,7 @@ A number of RSS feeds are available. All feeds are Atom/XML unless otherwise spe
 
 - [Main Feed](/feed.xml) - All firehose feed ({{ site.posts | concat: site.rides | size }} posts).
 - [Main feed as JSON](/feed.json) - All firehose feed.
+- [Main feed as RSS 2.0](/rss2.rss) - All firehose feed.
 
 By type:
 

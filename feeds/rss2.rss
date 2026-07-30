@@ -1,0 +1,71 @@
+---
+layout: empty
+permalink: /rss2.rss
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{% assign pub_date = site.time | date: "%Y-%m-%dT%H:%M:%SZ" %}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title>{{ site.title | xml_escape }} — The Everything Feed</title>
+  <description>A firehose feed</description>
+  <link>{{ site.url }}/</link>
+  <atom:link href="{{ site.url }}/firehose.rss" rel="self" type="application/rss+xml"/>
+  <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+  <pubDate>{{ pub_date | date_to_rfc822 }}</pubDate>
+  <generator>Jekyll</generator>
+  <copyright>{{ site.owner.name }}</copyright>
+  <managingEditor>{{ site.owner.email }} ({{ site.owner.name }})</managingEditor>
+  <webMaster>{{ site.owner.email }} ({{ site.owner.name }})</webMaster>
+{%- assign rides = site.rides -%}
+{%- assign posts = site.posts -%}
+{%- assign films = "" | split: "" -%}
+{%- for film in site.data.films -%}
+  {%- assign film_year = film.date | date: "%Y" | times: 1 -%}
+  {%- if film_year >= 2020 -%}
+    {%- assign films = films | push: film -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign posts = posts | concat: films -%}
+{%- assign posts = posts | concat: rides -%}
+{%- assign posts = posts | sort: "date" | reverse -%}
+{% for post in posts %}
+    {%- if post.imdb %}
+    {% assign film_link = "https://thechels.uk/films#" | append: post.imdb %}
+    <item>
+      <title>Film Review - {{ post.title | xml_escape }}</title>
+      <link>{{ film_link }}</link>
+      <guid isPermaLink="false">{{ film_link }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <category>Film</category>
+      <description><![CDATA[
+        <h3>{{ post.title }} ({{ post.year }})</h3>
+        <p><strong>Rated:</strong> {{ post.rating }}/10</p>
+        <p><strong>Added:</strong> {{ post.date | date: "%Y-%m-%d" }}</p>
+        <p><a href="https://www.imdb.com/title/{{ post.imdb }}/" target="_blank">View on IMDb →</a></p>
+        {{ footer }}
+      ]]>
+      </description>
+      </item>
+      {%- else -%}
+    <item>
+      <title>{{ post.type | capitalize }} - {{ post.title | xml_escape }}</title>
+      <link>{{ post.url | prepend: site.url }}</link>
+      <guid isPermaLink="false">{{ site.url }}{{ post.id }}</guid>
+      <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+      <category>{{ post.type }}</category>
+      {%- if post.cited %}
+      <dc:creator>Quoting {{ post.cited | xml_escape }}</dc:creator>
+      <source url="{% if post.link %}{{ post.link | xml_escape }}{% else %}{{ site.url }}{{ post.url }}{% endif %}">{{ site.title | xml_escape }}</source>
+      {%- endif %}
+      <description><![CDATA[{{ post.content }}
+            {% if post.type == "rss" %}
+            <p>Note: this is a secret rss only item.</p>
+            {% endif %}
+            {% include footer_for_feeds.html %}
+        ]]>
+      </description>
+      </item>
+    {%- endif -%}
+  {%- endfor -%}
+</channel>
+</rss>
