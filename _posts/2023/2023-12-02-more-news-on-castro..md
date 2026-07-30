@@ -2,7 +2,7 @@
 layout: post
 date: 2023-12-02
 link: https://castro.fm/blog/future-of-castro-podcasts-december-2023
-title: More news on Castro.
+title: More news on Castro
 type: linked
 cited: Castro
 ---
