@@ -6,6 +6,8 @@ link: https://www.uefa.com/news-media/news/02a7-213a92896eb0-54dfbf454e3b-1000--
 seo: "Infantino out, UEFA and its national associations will not participate in FIFA competitions."
 type: linked
 syndicate: false
+layout: post
+
 ---
 
 Strong words; Infantino's role as president of FIFA is now untenable.
