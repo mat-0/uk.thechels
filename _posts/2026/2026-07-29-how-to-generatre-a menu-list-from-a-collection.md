@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to generate a menu from a jekyll collection
+title: How to Generate a Menu From a Jekyll Collection
 seo: Ways - how to create make generate a menu from a jekyll collection
 date: 2026-07-29 18:00
 type: ways
