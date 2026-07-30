@@ -39,6 +39,7 @@ github:
   branch: main
 sass:
   style: compressed
+## Collections
 collections:
   projects:
     output: true
@@ -52,6 +53,7 @@ collections:
     output: true
     sort_by: date
     permalink: ./link/:title
+## Webmentions
 webmentions:
   username: thechels.uk
   cache_folder: .cache
