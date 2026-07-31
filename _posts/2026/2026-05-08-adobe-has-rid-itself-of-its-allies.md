@@ -5,7 +5,6 @@ date: 2026-05-07 16:50
 title: Adobe Has Rid Itself of Its Allies
 link: https://pxlnv.com/linklog/adobe-no-allies/
 cited: Nick Heer (Pixel Envy)
-class: indie
 type: linked
 ---
 

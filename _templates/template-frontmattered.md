@@ -6,8 +6,12 @@ title: post title
 author: name
 tags: [news, app]
 date: YYYY-MM-DD
-syndicate: true
 show: true
+class:
+    - mastodon
+    - bluesky
+    - indie (syndicates to indiewebnews)
+    - rss (syndicates to rss.chat)
 
 ---
 

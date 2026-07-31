@@ -5,7 +5,6 @@ date: 2026-05-08 18:00
 title: GitHub Repo Stats
 link: https://simonwillison.net/2026/May/7/github-repo-stats/#atom-everything
 cited: Simon Willison
-class: indie
 type: linked
 ---
 

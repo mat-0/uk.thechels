@@ -3,7 +3,9 @@ layout: post
 date: YYYY-MM-DD HH:MM
 title: Video title
 type: video
-syndicate: true
+class:
+    - mastodon
+    - bluesky
 ---
 
 [watch on YouTube](url)

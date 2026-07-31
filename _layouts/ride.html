@@ -16,25 +16,22 @@
     {% include post_meta.html %}
   </p>
 
-  <p class="webmentions">
-    <a class="u-url hidden" href="{{ page.url | absolute_url }}" hidden="from-humans"></a>
-    {% webmentions page.url %}
-  </p>
+  {%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}
+  {%- assign wm_count = wm_count | strip_html | strip | plus: 0 -%}
+  {%- if wm_count > 0 -%}
+  {% webmentions page.url %}
+  {%- endif -%}
 
-  <div class="replies">
-    {% include post_replies.html %}
-  </div>
+  {% include post_replies.html %}
 
 
-  {% if page.syndicate == true %}
+  {% if page.syndicate contains 'mastodon' or page.syndicate contains 'bluesky' %}
   <p class="meta">
     <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
   </p>
   {% endif %}
 
-
   <p class="visually-hidden p-category" hidden="from-humans">{{ page.type }}</p>
-
   {% endif %}
 
 

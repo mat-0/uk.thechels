@@ -3,7 +3,6 @@ layout: post
 syndicate: true
 date: 2026-05-08 22:10
 title: Plans for RSS with NetNewsWire
-class: indie
 type: blog
 ---
 

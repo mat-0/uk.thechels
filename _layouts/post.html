@@ -16,8 +16,7 @@
     <p>&raquo; <a href="{{ page.url }}" class="u-{{page.i_type}}">permalink</a></p>
     {% endif %}
 
-
-    {% if page.class == 'indie' %}
+    {% if page.syndicate contains 'indie' %}
     <p class="meta">
       <a class="u-syndication" href="https://news.indieweb.org/en" hidden="from-humans">Also posted on IndieNews</a>
     </p>
@@ -38,17 +37,14 @@
   {% include post_replies.html %}
 
 
-  {% if page.syndicate == true %}
+  {% if page.syndicate contains 'mastodon' or page.syndicate contains 'bluesky' %}
   <p class="meta">
     <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
   </p>
   {% endif %}
 
-
   <p class="visually-hidden p-category" hidden="from-humans">{{ page.type }}</p>
-
   {% endif %}
-
 
   <script type="application/ld+json">
 {

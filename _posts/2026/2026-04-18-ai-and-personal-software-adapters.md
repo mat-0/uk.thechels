@@ -2,9 +2,8 @@
 layout: post
 date: 2026-04-18 10:27
 title: AI and Personal Software Adapters
-class: indie
-
 type: blog
+
 ---
 
 There are polarised takes on AI usage. Some very well-known engineers are advocating adoption and others rejecting it all as slop, many of whom I have respect for regardless of what side of the divide they are on.

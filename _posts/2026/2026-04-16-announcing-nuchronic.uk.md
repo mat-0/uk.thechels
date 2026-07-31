@@ -2,8 +2,6 @@
 layout: post
 date: 2026-04-16 09:15
 title: Announcing Nuchronic.uk
-class: indie
-
 type: blog
 ---
 

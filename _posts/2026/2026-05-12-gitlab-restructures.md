@@ -5,7 +5,6 @@ date: 2026-05-12 12:54
 title: GitLab restructures
 link: https://about.gitlab.com/blog/gitlab-act-2/
 cited: GitLab
-class: indie
 type: linked
 ---
 

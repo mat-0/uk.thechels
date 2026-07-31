@@ -3,7 +3,11 @@ layout: post
 date: YYYY-MM-DD HH:MM
 title: Monthly Mixtape - mmm YYYY
 type: mixtape
-syndicate: true
+class:
+    - mastodon
+    - bluesky
+    - indie (syndicates to indiewebnews)
+    - rss (syndicates to rss.chat)
 ---
 
 What I've been listening to this month.

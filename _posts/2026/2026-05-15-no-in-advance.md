@@ -5,7 +5,6 @@ date: 2026-05-15 16:08
 title: No in advance
 link: https://sive.rs/n0
 cited: Derek Sivers
-class: indie
 type: linked
 ---
 

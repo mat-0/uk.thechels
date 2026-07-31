@@ -5,7 +5,7 @@ title: I’m bringing everything back to my website - ROOTs
 link: https://lisacharlottemuth.com/bringing-everything-back-to-my-website
 type: linked
 cited: Lisa Charlotte Muth
-class: indie
+
 ---
 
 This is the way, love the new term ROOTS too.

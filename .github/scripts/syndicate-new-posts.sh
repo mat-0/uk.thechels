@@ -15,7 +15,8 @@ rss_chat_email="${RSS_CHAT_EMAIL:-}"
 rss_chat_code="${RSS_CHAT_CODE:-}"
 rss_chat_url="${rss_chat_url%/}"
 
-targets=(mastodon bluesky)
+# Bridgy-publish targets: front-matter token -> brid.gy publish path
+bridgy_targets=(mastodon bluesky)
 
 front_matter_value() {
   local key="$1"
@@ -41,11 +42,9 @@ front_matter_value() {
   ' "$file"
 }
 
-# Extracts the raw block for a given front-matter key, preserving any
-# following indented list lines (for YAML block-style arrays). Returns
-# the key's own line content plus any subsequent "  - item" lines, up
-# until a line that is not indented (i.e. the next top-level key) or
-# the closing "---".
+# Extracts the raw block for a given front-matter key: the key's own
+# line plus any following indented "- item" lines (YAML block-style
+# array). Stops at the next top-level key or the closing "---".
 front_matter_block() {
   local key="$1"
   local file="$2"
@@ -81,24 +80,17 @@ front_matter_block() {
   ' "$file"
 }
 
-should_syndicate_post() {
-  local file="$1"
-  local syndicate
-  syndicate="$(front_matter_value syndicate "$file" | tr '[:upper:]' '[:lower:]')"
-  [[ "$syndicate" == "true" ]]
-}
-
-# True if front matter `class` (scalar, inline array, or YAML block
-# array) contains "rss" as a whole word, case-insensitive.
-has_rss_class() {
-  local file="$1"
+# True if front-matter key (scalar, inline array, or YAML block array)
+# contains `value` as a whole word, case-insensitive.
+front_matter_list_contains() {
+  local key="$1"
+  local value="$2"
+  local file="$3"
   local block
-  block="$(front_matter_block class "$file")"
+  block="$(front_matter_block "$key" "$file")"
   [[ -z "$block" ]] && return 1
-  # Strip YAML list punctuation so words are space-separated, then
-  # match "rss" as a standalone token (avoids matching "rssfeed" etc).
   block="$(printf '%s\n' "$block" | tr '[:upper:]' '[:lower:]' | tr -c 'a-z0-9' ' ')"
-  [[ " ${block} " == *" rss "* ]]
+  [[ " ${block} " == *" ${value,,} "* ]]
 }
 
 post_title() {
@@ -116,22 +108,18 @@ post_source_url() {
   printf '%s/%s\n' "${base_url%/}" "$slug"
 }
 
-syndicate_post() {
+syndicate_to_bridgy() {
   local source_url="$1"
-  local target
+  local target="$2"
   local target_url
   local status_code
 
-  echo "Syndicating: $source_url"
-
-  for target in "${targets[@]}"; do
-    target_url="${bridgy_publish_base}/$target"
-    status_code=$(curl -sS -o /tmp/bridgy_publish_response -w "%{http_code}" \
-      --data-urlencode "source=${source_url}" \
-      --data-urlencode "target=${target_url}" \
-      "${bridgy_webmention_url}")
-    echo "  ${target}: ${status_code}"
-  done
+  target_url="${bridgy_publish_base}/${target}"
+  status_code=$(curl -sS -o /tmp/bridgy_publish_response -w "%{http_code}" \
+    --data-urlencode "source=${source_url}" \
+    --data-urlencode "target=${target_url}" \
+    "${bridgy_webmention_url}")
+  echo "  ${target}: ${status_code}"
 }
 
 json_escape() {
@@ -193,16 +181,20 @@ for file in "${new_posts[@]}"; do
   title="$(post_title "$file")"
   [[ -z "$title" ]] && title="$source_url"
 
-  if should_syndicate_post "$file"; then
-    syndicate_post "$source_url"
-  else
-    echo "Skipping mastodon/bluesky: $source_url"
-  fi
+  echo "Post: $source_url"
 
-  if has_rss_class "$file"; then
+  for target in "${bridgy_targets[@]}"; do
+    if front_matter_list_contains syndicate "$target" "$file"; then
+      syndicate_to_bridgy "$source_url" "$target"
+    else
+      echo "  ${target}: skipped"
+    fi
+  done
+
+  if front_matter_list_contains syndicate rss "$file"; then
     syndicate_to_rss_chat "$source_url" "$title" || exit_code=1
   else
-    echo "Skipping rss.chat: $source_url"
+    echo "  rss.chat: skipped"
   fi
 done
 
