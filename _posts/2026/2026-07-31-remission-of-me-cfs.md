@@ -5,7 +5,7 @@ date: 2026-07-31 22:00
 title: "Spontaneous Remission of ME/CFS in 2026"
 type: blog
 tags:
-    - ME
+  - ME
 ---
 
 I believe I have been fortunate to have had a spontaneous remission of my ME/CFS symptoms. It has been a few weeks since I’ve felt a change.
@@ -58,4 +58,4 @@ It’s well known that there is no indicative test for ME, yet, but there are a 
 
 I had been diagnosed by my GP and by a specialist at an ME Clinic within the NHS.
 
-_*_If you feel like you might suffer from symptoms or are affected by this post, do speak to a medical professional. Explain the symptoms and get help and support._*_
+_**If you feel like you might suffer from symptoms or are affected by this post, do speak to a medical professional. Explain the symptoms and get help and support.**_
