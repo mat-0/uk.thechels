@@ -11,6 +11,7 @@ date: 2026-07-31
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 31 July 2026
 
 - The average temperature today is 12.62˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 92 days since the last change (2026-04-30)
 
@@ -33,50 +35,59 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Use appropriate tools.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Leeds United v Sunderland
 - Mansfield Town v Derby County
 - Bromley v QPR
 - Birmingham City v Barcelona
 - Sporting CP v Nottingham Forest
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 134.49000549316406 
-- ^FTSE : 10897.2998046875 
-- ^FTMC : 24079.099609375 
+- VWRL.L : 134.49000549316406
+- ^FTSE : 10897.2998046875
+- ^FTMC : 24079.099609375
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I got sacked from my job at the bakery after customers complained everything had a leathery texture. I really misunderstood how to make Choux buns.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - UK announces £8 billion investment in nuclear submarines (Euronews, [6 minutes ago](http://www.euronews.com/2026/07/31/uk-announces-8-billion-investment-in-nuclear-submarines))
 - Moisés Caicedo and Nicolas Jackson join Chelsea preseason tour (WAGNH, [23 minutes ago](https://weaintgotnohistory.sbnation.com/friendlies/170608/moises-caicedo-and-nicolas-jackson-join-chelsea-preseason-tour))
 - Apple shares fall despite record revenue as outlook disappoints (Euronews, [38 minutes ago](http://www.euronews.com/business/2026/07/31/apple-shares-fall-despite-record-revenue-as-outlook-disappoints))
 - Europe's youth is losing strength and flexibility, study finds (Euronews, [1 hours ago](http://www.euronews.com/health/2026/07/31/europes-youth-is-losing-strength-and-flexibility-study-finds))
 - What it takes to build the world’s longest railway tunnel – and restore nature once it’s done (Euronews, [1 hours ago](http://www.euronews.com/2026/07/31/europes-mega-landfill-in-the-alps-how-a-v-shaped-valley-became-a-u-shaped-one))
-- Latest news bulletin  July 31st, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/31/latest-news-bulletin-july-31st-2026-morning))
+- Latest news bulletin July 31st, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/07/31/latest-news-bulletin-july-31st-2026-morning))
 - Lake Como vs Lake Garda: How Italy’s most popular lakes compare (Euronews, [1 hours ago](http://www.euronews.com/travel/2026/07/31/lake-como-vs-lake-garda-how-italys-most-popular-lakes-compare))
 - Time is running out: what trade concessions can the EU win from China? (Euronews, [1 hours ago](http://www.euronews.com/my-europe/2026/07/31/time-is-running-out-what-trade-concessions-can-the-eu-win-from-china))
 - Anthropic admits its most powerful AI model hacked into three organisations' systems during testing phase (Euronews, [1 hours ago](http://www.euronews.com/next/2026/07/31/anthropic-admits-its-most-powerful-ai-model-hacked-into-three-organisations-systems-during))
@@ -111,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > disannul - verb tr.: To annul completely; cancel or make void.
+> disannul - verb tr.: To annul completely; cancel or make void.
 
 <!-- word_marker ends -->
 
@@ -126,18 +137,21 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Destroy
--nothing
--the most important thing
+> -nothing
+> -the most important thing
 
 <!-- eno_marker ends -->
 
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Home Alone iii (Rated: 2)
 - Released in 1997
 - Summary: No summary available
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -158,9 +172,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Chronosaur.us [URL](https://chronosaur.us/) [Feed](https://chronosaur.us/feed/)
 - Shekhar Gulati [URL](https://shekhargulati.com/) [Feed](https://shekhargulati.com/feed/)
 - Sophie Koonin [URL](https://localghost.dev/) [Feed](https://localghost.dev/feed.xml)
 - Lisa Charlotte Muth [URL](https://lisacharlottemuth.com/) [Feed](https://lisacharlottemuth.com/feed.xml)
 - Connor Edwards [URL](https://cedwards.xyz/) [Feed](https://cedwards.xyz/index.xml)
+
 <!-- blogroll_marker ends -->
