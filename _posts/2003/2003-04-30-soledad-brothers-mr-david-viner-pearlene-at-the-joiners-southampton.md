@@ -1,7 +1,7 @@
 ---
 date: 2003-04-30
 title: "Soledad Brothers, Mr. David Viner & Pearlene at The Joiners Southampton"
-cited: "Content Archives"
+cited: "Concert Archives"
 link: https://www.concertarchives.org/concerts/soledad-brothers-mr-david-viner-pearlene
 seo: "Soledad Brothers, Mr. David Viner, & Pearlene"
 type: ticket
