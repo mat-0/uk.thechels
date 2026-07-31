@@ -58,4 +58,4 @@ It’s well known that there is no indicative test for ME, yet, but there are a 
 
 I had been diagnosed by my GP and by a specialist at an ME Clinic within the NHS.
 
-__*If you feel like you might suffer from symptoms or are affected by this post, do speak to a medical professional. Explain the symptoms and get help and support.*__
+**_If you feel like you might suffer from symptoms or are affected by this post, do speak to a medical professional. Explain the symptoms and get help and support._**
