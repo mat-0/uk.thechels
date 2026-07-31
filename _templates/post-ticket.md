@@ -7,8 +7,8 @@ seo: "seo"
 type: ticket
 layout: post
 class:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 ## Event details / band line-up (1)

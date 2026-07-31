@@ -4,10 +4,10 @@ date: YYYY-MM-DD HH:MM
 title: Monthly Mixtape - mmm YYYY
 type: mixtape
 class:
-    - mastodon
-    - bluesky
-    - indie (syndicates to indiewebnews)
-    - rss (syndicates to rss.chat)
+  - mastodon
+  - bluesky
+  - indie (syndicates to indiewebnews)
+  - rss (syndicates to rss.chat)
 ---
 
 What I've been listening to this month.

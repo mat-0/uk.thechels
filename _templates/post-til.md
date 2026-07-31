@@ -4,8 +4,8 @@ date: YYYY-MM-DD HH:MM
 title: TIL title
 type: til
 class:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 my comment

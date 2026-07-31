@@ -5,7 +5,6 @@ seo: Ways - A guide to using ways
 date: 2026-04-10
 type: ways
 pinned: true
-
 ---
 
 Ways are a slash pages format for documenting processes, workflows, and procedures. They are designed to be easy to read and follow, on how to do things. They happen to include a link to the official manual or service where possible, but there should be enough detail to follow steps without needing to click through.

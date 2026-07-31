@@ -6,7 +6,6 @@ title: Cloudflare builds for revenue not humans
 link: https://blog.cloudflare.com/building-for-the-future/
 cited: Cloudflare
 type: linked
-
 ---
 
 Cloudflare announced 1100 job losses "due to AI" and separately announced quarterly results that included 34 percent year-over-year revenue growth and guidance for significant future growth.

@@ -5,8 +5,8 @@ seo: Ways - x
 date: YYYY-MM-DD HH:MM
 type: ways
 class:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 my comment
