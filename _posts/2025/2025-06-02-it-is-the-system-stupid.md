@@ -4,7 +4,7 @@ date: 2025-06-02
 link: https://codemanship.wordpress.com/2025/05/11/its-the-system-stupid/
 title: It is the System Stupid
 type: linked
-cited: Codemanship
+cited: Jason Gorman (Codemanship)
 ---
 
 > When programmers get a feeling that they're getting things done faster, they're often only considering the part where they write the code - particularly when that's _their_ part of the process.
