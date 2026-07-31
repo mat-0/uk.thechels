@@ -23,10 +23,10 @@ jobs:
               env:
                   BASE_URL: ${{ vars.BASE_URL }}
                   BRIDGY_WEBMENTION_URL: ${{ vars.BRIDGY_WEBMENTION_URL }}
-                  DEMO_RSS_CHAT_URL: ${{ secrets.DEMO_RSS_CHAT_URL }}
-                  DEMO_RSS_CHAT_USERNAME: ${{ secrets.DEMO_RSS_CHAT_USERNAME }}
-                  DEMO_RSS_CHAT_EMAIL: ${{ secrets.DEMO_RSS_CHAT_EMAIL }}
-                  DEMO_RSS_CHAT_CODE: ${{ secrets.DEMO_RSS_CHAT_CODE }}
+                  RSS_CHAT_URL: ${{ secrets.DEMO_RSS_CHAT_URL }}
+                  RSS_CHAT_USERNAME: ${{ secrets.DEMO_RSS_CHAT_USERNAME }}
+                  RSS_CHAT_EMAIL: ${{ secrets.DEMO_RSS_CHAT_EMAIL }}
+                  RSS_CHAT_CODE: ${{ secrets.DEMO_RSS_CHAT_CODE }}
               run: |
                   bash .github/scripts/syndicate-new-posts.sh \
                     "${{ inputs.before_sha }}" \

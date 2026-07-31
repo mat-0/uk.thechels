@@ -9,10 +9,10 @@ base_url="${BASE_URL:-https://thechels.uk}"
 bridgy_webmention_url="${BRIDGY_WEBMENTION_URL:-https://brid.gy/publish/webmention}"
 bridgy_publish_base="${bridgy_webmention_url%/webmention}"
 
-rss_chat_url="${DEMO_RSS_CHAT_URL:-}"
-rss_chat_username="${DEMO_RSS_CHAT_USERNAME:-}"
-rss_chat_email="${DEMO_RSS_CHAT_EMAIL:-}"
-rss_chat_code="${DEMO_RSS_CHAT_CODE:-}"
+rss_chat_url="${RSS_CHAT_URL:-}"
+rss_chat_username="${RSS_CHAT_USERNAME:-}"
+rss_chat_email="${RSS_CHAT_EMAIL:-}"
+rss_chat_code="${RSS_CHAT_CODE:-}"
 rss_chat_url="${rss_chat_url%/}"
 
 targets=(mastodon bluesky)
