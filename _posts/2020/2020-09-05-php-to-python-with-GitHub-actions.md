@@ -50,7 +50,6 @@ The outputs were published via a GitHub action to a README.md file in the reposi
 {% raw %}
 
 ```yaml
-
 name: Daily Build
 # build
 on:
