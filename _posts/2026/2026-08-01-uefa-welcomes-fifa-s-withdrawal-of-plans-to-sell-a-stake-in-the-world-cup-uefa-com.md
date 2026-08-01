@@ -5,6 +5,7 @@ cited: UEFA
 link: https://www.uefa.com/news-media/news/02a8-213e1cb056eb-c0ae1b85aa7f-1000--uefa-welcomes-fifa-s-withdrawal-of-plans-to-sell-a-stake-i/
 seo: "The proposal was unanimously rejected by UEFA’s national associations and by many other federations and confederations of all sizes around the world."
 tags:
+type: linked
 layout: post
 syndicate:
   - mastodon
