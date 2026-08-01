@@ -30,6 +30,8 @@
   url: https://github.com/thechelsuk/cf-worker-emailer/releases.atom
 - id: RedemptionX - Reddit content deletion tool
   url: https://github.com/thechelsuk/ext-chrome-reddit-deletion-tool/releases.atom
+- id: Hiyd - Chrome Extension for Linked/Quote capture
+  url: https://github.com/thechelsuk/ext-chrome-hiyd/releases.atom
 - id: Scripts - Delete GitHub Issues (python)
   url: https://github.com/thechelsuk/script_delete_github_issues.py/releases.atom
 - id: Scripts - Convert Google Takeout YouTube CSV to OPML (python)
