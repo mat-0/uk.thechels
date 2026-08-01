@@ -7,8 +7,8 @@ seo: "The proposal was unanimously rejected by UEFA’s national associations an
 tags:
 layout: post
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 > We cannot keep going on like this with secret schemes on fast track timescales, cooked up by faceless individuals and of dubious benefit to the game. We must identify those responsible and hold them to account.
