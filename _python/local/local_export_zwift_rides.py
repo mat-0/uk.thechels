@@ -6,7 +6,7 @@ Requires:
     pip install zwift-client
 
 Usage:
-    python zwift_to_jekyll.py
+    python local_export_zwift_rides.py
 
 Config:
     Create config.py alongside this script with:

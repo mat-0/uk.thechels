@@ -3,10 +3,10 @@
 Interactively pick one of the last 5 Jekyll posts and syndicate it to rss.chat.
 
 Reads server credentials from config.py, which must define:
-    DEMO_RSS_CHAT_URL
-    DEMO_RSS_CHAT_USERNAME
-    DEMO_RSS_CHAT_EMAIL
-    DEMO_RSS_CHAT_CODE
+    RSS_CHAT_URL
+    RSS_CHAT_USERNAME
+    RSS_CHAT_EMAIL
+    RSS_CHAT_CODE
 
 Usage:
     python3 post-to-rsschat.py [--posts-dir _posts] [--base-url https://thechels.uk]
@@ -23,15 +23,14 @@ import requests
 try:
     import config
 except ImportError:
-    sys.exit(
-        "config.py not found. Create one with DEMO_RSS_CHAT_URL, "
-        "DEMO_RSS_CHAT_USERNAME, DEMO_RSS_CHAT_EMAIL, DEMO_RSS_CHAT_CODE.")
+    sys.exit("config.py not found. Create one with RSS_CHAT_URL, "
+             "RSS_CHAT_USERNAME, RSS_CHAT_EMAIL, RSS_CHAT_CODE.")
 
 REQUIRED_CONFIG = [
-    "DEMO_RSS_CHAT_URL",
-    "DEMO_RSS_CHAT_USERNAME",
-    "DEMO_RSS_CHAT_EMAIL",
-    "DEMO_RSS_CHAT_CODE",
+    "RSS_CHAT_URL",
+    "RSS_CHAT_USERNAME",
+    "RSS_CHAT_EMAIL",
+    "RSS_CHAT_CODE",
 ]
 
 
