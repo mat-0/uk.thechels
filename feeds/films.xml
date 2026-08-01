@@ -9,36 +9,36 @@ permalink: /films.xml
 {% assign print_date = recent_films[0].date | date: "%Y-%m-%d" %}
 {% assign build_time = recent_films[0].date | date: "%Y%m%d%H%M%S" %}
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>{{ site.owner.name }} - Recent Films</title>
-  <subtitle>Recently added films to {{ site.title }}</subtitle>
+  <title>{{ site.owner.name | xml_escape }} - Recent Films</title>
+  <subtitle>Recently added films to {{ site.title | xml_escape }}</subtitle>
   <link rel="self" type="application/atom+xml" href="{{ site.url }}/films.xml" />
   <link rel="alternate" type="text/html" href="{{ site.url }}/films" />
   <generator>Jekyll</generator>
-  <rights>{{ site.owner.name }}</rights>
+  <rights>{{ site.owner.name | xml_escape }}</rights>
   <updated>{{ pub_date }}</updated>
   <author>
-    <name>{{ site.owner.name }}</name>
-    <email>{{ site.owner.email }}</email>
-    <uri>{{ site.owner.uri }}/</uri>
+    <name>{{ site.owner.name | xml_escape }}</name>
+    <email>{{ site.owner.email | xml_escape }}</email>
+    <uri>{{ site.owner.uri | xml_escape }}/</uri>
   </author>
   <id>{{ site.url }}/films</id>
 
   {% for film in recent_films %}
   <entry>
-    <title>{{ film.title }} ({{ film.year }}) - Rated {{ film.rating }}/10</title>
-    <link rel="alternate" href="{{ site.url }}/films#{{ film.imdb }}" />
+    <title>{{ film.title | xml_escape }} ({{ film.year | xml_escape }}) - Rated {{ film.rating }}/10</title>
+    <link rel="alternate" href="{{ site.url }}/films#{{ film.imdb | xml_escape }}" />
     <summary type="html"><![CDATA[
-      <h3>{{ film.title }} ({{ film.year }})</h3>
+      <h3>{{ film.title | xml_escape }} ({{ film.year | xml_escape }})</h3>
       <p><strong>Rated:</strong> {{ film.rating }}/10</p>
       <p><strong>Added:</strong> {{ film.date | date: "%Y-%m-%d"  }}</p>
-      <p><a href="https://www.imdb.com/title/{{ film.imdb }}/" target="_blank">View on IMDb →</a></p>
+      <p><a href="https://www.imdb.com/title/{{ film.imdb | xml_escape }}/" target="_blank">View on IMDb →</a></p>
     ]]></summary>
     <author>
-      <name>{{ site.owner.name }}</name>
-      <uri>{{ site.url }}/films#{{ film.imdb }}</uri>
+      <name>{{ site.owner.name | xml_escape }}</name>
+      <uri>{{ site.url }}/films#{{ film.imdb | xml_escape }}</uri>
     </author>
     <updated>{{ film.date | date: "%Y-%m-%dT%H:%M:%SZ" }}</updated>
-    <id>{{ site.url }}/films#{{ film.imdb }}</id>
+    <id>{{ site.url }}/films#{{ film.imdb | xml_escape }}</id>
     <category term="Film" />
     <category term="Rating: {{ film.rating }}" />
   </entry>

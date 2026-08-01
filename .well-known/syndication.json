@@ -14,36 +14,38 @@
             "preferred": true
         },
         {
-            "title": "thechelsuk - Posts only",
-            "url": "https://thechels.uk/posts.xml",
-            "format": "atom",
+            "title": "thechelsuk - Main as JSON",
+            "url": "https://thechels.uk/feed.json",
+            "format": "jsonfeed",
+            "version": "1.1",
             "rel": "alternate",
-            "media_type": "application/atom+xml"
+            "media_type": "application/feed+json"
         },
         {
-            "title": "thechelsuk - RSS only",
-            "url": "https://thechels.uk/rss.xml",
-            "format": "atom",
+            "title": "thechelsuk - Main as RSS 2.0",
+            "url": "https://thechels.uk/rss2.rss",
+            "format": "rss",
+            "version": "2.0",
             "rel": "alternate",
-            "media_type": "application/atom+xml"
-        },
-        {
-            "title": "thechelsuk - Linked-quote only",
-            "url": "https://thechels.uk/links.xml",
-            "format": "atom",
-            "rel": "alternate",
-            "media_type": "application/atom+xml"
-        },
-        {
-            "title": "thechelsuk - Socials only",
-            "url": "https://thechels.uk/socials.xml",
-            "format": "atom",
-            "rel": "alternate",
-            "media_type": "application/atom+xml"
+            "media_type": "application/rss+xml"
         },
         {
             "title": "thechelsuk - Daily Rundown only",
             "url": "https://thechels.uk/daily.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "thechelsuk - bookmarks only",
+            "url": "https://thechels.uk/bookmarks.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "thechelsuk - mailbox only",
+            "url": "https://thechels.uk/mailbox.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
@@ -56,8 +58,43 @@
             "media_type": "application/atom+xml"
         },
         {
+            "title": "thechelsuk - Linked-quotes only",
+            "url": "https://thechels.uk/links.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "thechelsuk - Posts only",
+            "url": "https://thechels.uk/posts.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
             "title": "thechelsuk - Releases only",
             "url": "https://thechels.uk/releases.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "thechelsuk - Rides only",
+            "url": "https://thechels.uk/rides.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "thechelsuk - RSS only",
+            "url": "https://thechels.uk/rss.xml",
+            "format": "atom",
+            "rel": "alternate",
+            "media_type": "application/atom+xml"
+        },
+        {
+            "title": "thechelsuk - Socials only",
+            "url": "https://thechels.uk/socials.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
@@ -89,14 +126,6 @@
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"
-        },
-        {
-            "title": "thechelsuk - Main as JSON",
-            "url": "https://thechels.uk/feed.json",
-            "format": "jsonfeed",
-            "version": "1.1",
-            "rel": "alternate",
-            "media_type": "application/feed+json"
         }
     ]
 }
