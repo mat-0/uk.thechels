@@ -2,7 +2,6 @@
 layout: post
 title: From PHP to Python and GitHub Actions
 date: 2020-09-05 17:00
-
 type: blog
 ---
 
@@ -48,7 +47,10 @@ I am amazed at how concise python is, having switched from a 200 line php file w
 
 The outputs were published via a GitHub action to a README.md file in the repository.
 
+{% raw %}
+
 ```yaml
+
 name: Daily Build
 # build
 on:
@@ -88,6 +90,8 @@ jobs:
           git diff --quiet || (git add README.md && git commit -m "Updated README")
           git push
 ```
+
+{% endraw %}
 
 As you can see from the action it is essentially a set of key-value pairs in yaml. Installing Python and any dependencies in a serverless environment - managed by GitHub, the Python script updates the `README` file and this action commits it.
 
