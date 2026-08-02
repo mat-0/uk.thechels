@@ -7,22 +7,22 @@
 "/why-am-i-doing-the-thinking-for-you-terrible-software": {}
 "/apple-s-ios-26.4-update-adds-age-verification-in-the-uk": {}
 "/effective-apologies":
-  "1986844":
-    id: "1986844"
+  '1986844':
+    id: '1986844'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mi4nmd7i5o2e
     source: false
     pubdate: 2026-03-26 00:00:00.000000000 +00:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mi4nmd7i5o2e%23bridgy-fed-create-2026-03-28T12:38:22.229348+00:00
       verified: true
-      verified_date: "2026-03-28T12:38:24+00:00"
+      verified_date: '2026-03-28T12:38:24+00:00'
       id: 1986844
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mi4nmd7i5o2e
         name:
         content: Effective Apologies (<a href="https://thechels.uk/effective-apologies">https://thechels.uk/effective-apologies</a>)
-        published: "2026-03-26T00:00:00+00:00"
+        published: '2026-03-26T00:00:00+00:00'
         published_ts: 1774483200
       activity:
         type: link
@@ -31,15 +31,15 @@
     type: link
     content: Effective Apologies (<a href="https://thechels.uk/effective-apologies">https://thechels.uk/effective-apologies</a>)
 "/til-centipede-game-theory":
-  "1988938":
-    id: "1988938"
+  '1988938':
+    id: '1988938'
     uri: https://mastodon.social/@Thechelsuk/116366949855069297#favorited-by-110635833467728192
     source: false
     pubdate: 2026-04-08 14:43:28.000000000 +00:00
     raw:
       source: https://brid.gy/like/mastodon/@thechelsuk@mastodon.social/116366949855069297/110635833467728192
       verified: true
-      verified_date: "2026-04-08T14:43:28+00:00"
+      verified_date: '2026-04-08T14:43:28+00:00'
       id: 1988938
       private: false
       data:
@@ -57,23 +57,22 @@
       target: https://thechels.uk/til-centipede-game-theory
     author: *1
     type: like
-    content: ""
+    content: ''
 "/til-the-xy-problem": {}
 "/google-search-commands-and-operators": {}
 "/ollama-cli-quick-ref": {}
 "/2026-04-26-daily-rundown": {}
-"/nearly-half-of-everyone-in-poverty-is-either-a-disabled-person-or-lives-with-a-disabled-person":
-  {}
+"/nearly-half-of-everyone-in-poverty-is-either-a-disabled-person-or-lives-with-a-disabled-person": {}
 "/2026-05-03-daily-rundown":
-  "1994185":
-    id: "1994185"
+  '1994185':
+    id: '1994185'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-03-ca35e16dda/
     source: false
     pubdate: 2026-05-03 06:03:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-03-ca35e16dda/
       verified: true
-      verified_date: "2026-05-03T16:37:46+00:00"
+      verified_date: '2026-05-03T16:37:46+00:00'
       id: 1994185
       private: false
       data:
@@ -84,7 +83,7 @@
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-03-ca35e16dda/
         name: Daily - Daily Rundown for 2026-05-03
         content: <p>Read the original article on <a href="https://thechels.uk/2026-05-03-daily-rundown">thechels.uk</a>.</p>
-        published: "2026-05-03T05:03:00+00:00"
+        published: '2026-05-03T05:03:00+00:00'
         published_ts: 1777784580
       activity:
         type: link
@@ -97,15 +96,15 @@
     content: <p>Read the original article on <a href="https://thechels.uk/2026-05-03-daily-rundown">thechels.uk</a>.</p>
 "/nnw-theme-bundle-release-a865ebf081e2": {}
 "/cf-worker-x-redirect-release-62642408c50b":
-  "1994184":
-    id: "1994184"
+  '1994184':
+    id: '1994184'
     uri: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-1-debdf9801f/
     source: false
     pubdate: 2026-05-03 09:52:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-1-debdf9801f/
       verified: true
-      verified_date: "2026-05-03T16:37:45+00:00"
+      verified_date: '2026-05-03T16:37:45+00:00'
       id: 1994184
       private: false
       data:
@@ -116,7 +115,7 @@
         url: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-1-debdf9801f/
         name: Release - CF Worker X Redirect Version v1.0.1
         content: <p>Read the original article on <a href="https://thechels.uk/cf-worker-x-redirect-release-62642408c50b">thechels.uk</a>.</p>
-        published: "2026-05-03T08:52:00+00:00"
+        published: '2026-05-03T08:52:00+00:00'
         published_ts: 1777798320
       activity:
         type: link
@@ -128,15 +127,15 @@
     title: Release - CF Worker X Redirect Version v1.0.1
     content: <p>Read the original article on <a href="https://thechels.uk/cf-worker-x-redirect-release-62642408c50b">thechels.uk</a>.</p>
 "/nuchronic-uk-release-2ab952c7e7c5":
-  "1994158":
-    id: "1994158"
+  '1994158':
+    id: '1994158'
     uri: https://nuchronic.uk/item/release-nuchronic-uk-version-1-1-0-263ed48b62/
     source: false
     pubdate: 2026-05-03 14:37:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-nuchronic-uk-version-1-1-0-263ed48b62/
       verified: true
-      verified_date: "2026-05-03T16:37:44+00:00"
+      verified_date: '2026-05-03T16:37:44+00:00'
       id: 1994158
       private: false
       data:
@@ -147,7 +146,7 @@
         url: https://nuchronic.uk/item/release-nuchronic-uk-version-1-1-0-263ed48b62/
         name: Release - Nuchronic.uk Version 1.1.0
         content: <p>Read the original article on <a href="https://thechels.uk/nuchronic-uk-release-2ab952c7e7c5">thechels.uk</a>.</p>
-        published: "2026-05-03T13:37:00+00:00"
+        published: '2026-05-03T13:37:00+00:00'
         published_ts: 1777815420
       activity:
         type: link
@@ -159,15 +158,15 @@
     title: Release - Nuchronic.uk Version 1.1.0
     content: <p>Read the original article on <a href="https://thechels.uk/nuchronic-uk-release-2ab952c7e7c5">thechels.uk</a>.</p>
 "/2026-05-04-daily-rundown":
-  "1994342":
-    id: "1994342"
+  '1994342':
+    id: '1994342'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-04-ac966f85f4/
     source: false
     pubdate: 2026-05-04 06:05:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-04-ac966f85f4/
       verified: true
-      verified_date: "2026-05-04T09:02:49+00:00"
+      verified_date: '2026-05-04T09:02:49+00:00'
       id: 1994342
       private: false
       data:
@@ -177,12 +176,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-04-ac966f85f4/
         name: Daily - Daily Rundown for 2026-05-04
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Monday, 04 May
+        content: "<p>Good Morning, Here is your daily briefing… On Monday, 04 May
           2026 The average temperature today is 10.7˚C, With highs of 11.09˚C and
           lows of 10.38˚C, It may…</p>\n\n        \n        <p>Continue reading at
           <a href=\"https://thechels.uk/2026-05-04-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-04T05:05:00+00:00"
+        published: '2026-05-04T05:05:00+00:00'
         published_ts: 1777871100
       activity:
         type: link
@@ -192,21 +190,20 @@
     author: *5
     type: link
     title: Daily - Daily Rundown for 2026-05-04
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Monday, 04 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Monday, 04 May 2026
       The average temperature today is 10.7˚C, With highs of 11.09˚C and lows of 10.38˚C,
       It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-04-daily-rundown\">thechels.uk</a>.</p>"
 "/video-co-work-news-feed-ad7ec66d": {}
 "/2026-05-11-daily-rundown":
-  "1995513":
-    id: "1995513"
+  '1995513':
+    id: '1995513'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-11-de8c441cd0/
     source: false
     pubdate: 2026-05-11 06:25:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-11-de8c441cd0/
       verified: true
-      verified_date: "2026-05-11T07:32:46+00:00"
+      verified_date: '2026-05-11T07:32:46+00:00'
       id: 1995513
       private: false
       data:
@@ -216,12 +213,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-11-de8c441cd0/
         name: Daily - Daily Rundown for 2026-05-11
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Monday, 11 May
+        content: "<p>Good Morning, Here is your daily briefing… On Monday, 11 May
           2026 The average temperature today is 6.23˚C, With highs of 7.94˚C and lows
           of 5.93˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-11-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-11T05:25:00+00:00"
+        published: '2026-05-11T05:25:00+00:00'
         published_ts: 1778477100
       activity:
         type: link
@@ -231,20 +227,19 @@
     author: *6
     type: link
     title: Daily - Daily Rundown for 2026-05-11
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Monday, 11 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Monday, 11 May 2026
       The average temperature today is 6.23˚C, With highs of 7.94˚C and lows of 5.93˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-11-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-12-daily-rundown":
-  "1995653":
-    id: "1995653"
+  '1995653':
+    id: '1995653'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-12-952585fc6a/
     source: false
     pubdate: 2026-05-12 06:19:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-12-952585fc6a/
       verified: true
-      verified_date: "2026-05-12T07:16:13+00:00"
+      verified_date: '2026-05-12T07:16:13+00:00'
       id: 1995653
       private: false
       data:
@@ -254,12 +249,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-12-952585fc6a/
         name: Daily - Daily Rundown for 2026-05-12
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Tuesday, 12 May
+        content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 12 May
           2026 The average temperature today is 6.36˚C, With highs of 7.94˚C and lows
           of 4.26˚C, It may f…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-12-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-12T05:19:00+00:00"
+        published: '2026-05-12T05:19:00+00:00'
         published_ts: 1778563140
       activity:
         type: link
@@ -269,23 +263,22 @@
     author: *7
     type: link
     title: Daily - Daily Rundown for 2026-05-12
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Tuesday, 12 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 12 May 2026
       The average temperature today is 6.36˚C, With highs of 7.94˚C and lows of 4.26˚C,
       It may f…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-12-daily-rundown\">thechels.uk</a>.</p>"
 "/government-announces-475-million-funding-for-sequence-me-research-project": {}
 "/gitlab-restructures": {}
 "/your-ai-use-is-breaking-my-brain": {}
 "/me-awareness-day-2026":
-  "1995744":
-    id: "1995744"
+  '1995744':
+    id: '1995744'
     uri: https://nuchronic.uk/item/linked-me-awareness-day-2026-66157d7abd/
     source: false
     pubdate: 2026-05-12 17:11:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/linked-me-awareness-day-2026-66157d7abd/
       verified: true
-      verified_date: "2026-05-12T16:55:45+00:00"
+      verified_date: '2026-05-12T16:55:45+00:00'
       id: 1995744
       private: false
       data:
@@ -295,12 +288,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/linked-me-awareness-day-2026-66157d7abd/
         name: Linked - ME Awareness Day 2026
-        content:
-          "<p>I am aware. ME Awareness Week takes place every May during the
+        content: "<p>I am aware. ME Awareness Week takes place every May during the
           week of May 12th, which marks International ME Awareness Day. The aim is
           to raise awareness ab…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/me-awareness-day-2026\">thechels.uk</a>.</p>"
-        published: "2026-05-12T16:11:00+00:00"
+        published: '2026-05-12T16:11:00+00:00'
         published_ts: 1778602260
       activity:
         type: link
@@ -310,20 +302,19 @@
     author: *8
     type: link
     title: Linked - ME Awareness Day 2026
-    content:
-      "<p>I am aware. ME Awareness Week takes place every May during the week
+    content: "<p>I am aware. ME Awareness Week takes place every May during the week
       of May 12th, which marks International ME Awareness Day. The aim is to raise
       awareness ab…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/me-awareness-day-2026\">thechels.uk</a>.</p>"
 "/nnw-theme-bundle-release-d3670e80619f":
-  "1995798":
-    id: "1995798"
+  '1995798':
+    id: '1995798'
     uri: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-2-94f20ecf8a/
     source: false
     pubdate: 2026-05-12 19:13:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-2-94f20ecf8a/
       verified: true
-      verified_date: "2026-05-12T19:42:47+00:00"
+      verified_date: '2026-05-12T19:42:47+00:00'
       id: 1995798
       private: false
       data:
@@ -333,11 +324,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-2-94f20ecf8a/
         name: Release - NNW Theme Bundle Version v1.8.2
-        content:
-          "<p>Themes Fresh Download Fresh.zip to install this theme. Guro Download
+        content: "<p>Themes Fresh Download Fresh.zip to install this theme. Guro Download
           Guro.zip to install this theme. Retro Download Retro.zip to install this
           theme. thechels…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-d3670e80619f\">thechels.uk</a>.</p>"
-        published: "2026-05-12T18:13:00+00:00"
+        published: '2026-05-12T18:13:00+00:00'
         published_ts: 1778609580
       activity:
         type: link
@@ -347,20 +337,19 @@
     author: *9
     type: link
     title: Release - NNW Theme Bundle Version v1.8.2
-    content:
-      "<p>Themes Fresh Download Fresh.zip to install this theme. Guro Download
+    content: "<p>Themes Fresh Download Fresh.zip to install this theme. Guro Download
       Guro.zip to install this theme. Retro Download Retro.zip to install this theme.
       thechels…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-d3670e80619f\">thechels.uk</a>.</p>"
 "/2026-05-19-daily-rundown":
-  "1997153":
-    id: "1997153"
+  '1997153':
+    id: '1997153'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-19-674a4a4611/
     source: false
     pubdate: 2026-05-19 06:34:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-19-674a4a4611/
       verified: true
-      verified_date: "2026-05-19T07:31:39+00:00"
+      verified_date: '2026-05-19T07:31:39+00:00'
       id: 1997153
       private: false
       data:
@@ -370,12 +359,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-19-674a4a4611/
         name: Daily - Daily Rundown for 2026-05-19
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Tuesday, 19 May
+        content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 19 May
           2026 The average temperature today is 12.09˚C, With highs of 12.2˚C and
           lows of 11.58˚C, It may…</p>\n\n        \n        <p>Continue reading at
           <a href=\"https://thechels.uk/2026-05-19-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-19T05:34:00+00:00"
+        published: '2026-05-19T05:34:00+00:00'
         published_ts: 1779168840
       activity:
         type: link
@@ -385,20 +373,19 @@
     author: *10
     type: link
     title: Daily - Daily Rundown for 2026-05-19
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Tuesday, 19 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 19 May 2026
       The average temperature today is 12.09˚C, With highs of 12.2˚C and lows of 11.58˚C,
       It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-19-daily-rundown\">thechels.uk</a>.</p>"
 "/its-happened-again":
-  "1997272":
-    id: "1997272"
+  '1997272':
+    id: '1997272'
     uri: https://nuchronic.uk/item/social-it-s-happened-again-704efcbbfb/
     source: false
     pubdate: 2026-05-19 21:11:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/social-it-s-happened-again-704efcbbfb/
       verified: true
-      verified_date: "2026-05-19T21:40:20+00:00"
+      verified_date: '2026-05-19T21:40:20+00:00'
       id: 1997272
       private: false
       data:
@@ -408,12 +395,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/social-it-s-happened-again-704efcbbfb/
         name: Social - It's happened again
-        content:
-          "<p>It’s happened again. iykyk. <em>** // Published 2026-05-19, with
+        content: "<p>It’s happened again. iykyk. <em>** // Published 2026-05-19, with
           4 words. **</em> ???? Thanks for keeping RSS alive. If you have an RSS feed
           please share it with me on…</p>\n\n        \n        <p>Continue reading
           at <a href=\"https://thechels.uk/its-happened-again\">thechels.uk</a>.</p>"
-        published: "2026-05-19T20:11:00+00:00"
+        published: '2026-05-19T20:11:00+00:00'
         published_ts: 1779221460
       activity:
         type: link
@@ -423,21 +409,20 @@
     author: *11
     type: link
     title: Social - It's happened again
-    content:
-      "<p>It’s happened again. iykyk. <em>** // Published 2026-05-19, with
+    content: "<p>It’s happened again. iykyk. <em>** // Published 2026-05-19, with
       4 words. **</em> ???? Thanks for keeping RSS alive. If you have an RSS feed
       please share it with me on…</p>\n\n        \n        <p>Continue reading at
       <a href=\"https://thechels.uk/its-happened-again\">thechels.uk</a>.</p>"
 "/2026-05-20-daily-rundown":
-  "1997318":
-    id: "1997318"
+  '1997318':
+    id: '1997318'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-20-a9ea6ae267/
     source: false
     pubdate: 2026-05-20 06:34:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-20-a9ea6ae267/
       verified: true
-      verified_date: "2026-05-20T07:31:52+00:00"
+      verified_date: '2026-05-20T07:31:52+00:00'
       id: 1997318
       private: false
       data:
@@ -447,12 +432,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-20-a9ea6ae267/
         name: Daily - Daily Rundown for 2026-05-20
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Wednesday, 20 May
+        content: "<p>Good Morning, Here is your daily briefing… On Wednesday, 20 May
           2026 The average temperature today is 11.93˚C, With highs of 12.51˚C and
           lows of 11.5˚C, It m…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-20-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-20T05:34:00+00:00"
+        published: '2026-05-20T05:34:00+00:00'
         published_ts: 1779255240
       activity:
         type: link
@@ -462,20 +446,19 @@
     author: *12
     type: link
     title: Daily - Daily Rundown for 2026-05-20
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Wednesday, 20 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Wednesday, 20 May 2026
       The average temperature today is 11.93˚C, With highs of 12.51˚C and lows of
       11.5˚C, It m…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-20-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-21-daily-rundown":
-  "1997434":
-    id: "1997434"
+  '1997434':
+    id: '1997434'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-21-e1ed6f0225/
     source: false
     pubdate: 2026-05-21 06:35:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-21-e1ed6f0225/
       verified: true
-      verified_date: "2026-05-21T07:35:48+00:00"
+      verified_date: '2026-05-21T07:35:48+00:00'
       id: 1997434
       private: false
       data:
@@ -485,12 +468,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-21-e1ed6f0225/
         name: Daily - Daily Rundown for 2026-05-21
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Thursday, 21 May
+        content: "<p>Good Morning, Here is your daily briefing… On Thursday, 21 May
           2026 The average temperature today is 14.54˚C, With highs of 14.82˚C and
           lows of 13.49˚C, It m…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-21-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-21T05:35:00+00:00"
+        published: '2026-05-21T05:35:00+00:00'
         published_ts: 1779341700
       activity:
         type: link
@@ -500,20 +482,19 @@
     author: *13
     type: link
     title: Daily - Daily Rundown for 2026-05-21
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Thursday, 21 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Thursday, 21 May 2026
       The average temperature today is 14.54˚C, With highs of 14.82˚C and lows of
       13.49˚C, It m…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-21-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-22-daily-rundown":
-  "1997617":
-    id: "1997617"
+  '1997617':
+    id: '1997617'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-22-64b550699f/
     source: false
     pubdate: 2026-05-22 06:33:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-22-64b550699f/
       verified: true
-      verified_date: "2026-05-22T07:32:02+00:00"
+      verified_date: '2026-05-22T07:32:02+00:00'
       id: 1997617
       private: false
       data:
@@ -523,12 +504,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-22-64b550699f/
         name: Daily - Daily Rundown for 2026-05-22
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Friday, 22 May
+        content: "<p>Good Morning, Here is your daily briefing… On Friday, 22 May
           2026 The average temperature today is 16.99˚C, With highs of 17.76˚C and
           lows of 15.16˚C, It may…</p>\n\n        \n        <p>Continue reading at
           <a href=\"https://thechels.uk/2026-05-22-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-22T05:33:00+00:00"
+        published: '2026-05-22T05:33:00+00:00'
         published_ts: 1779427980
       activity:
         type: link
@@ -538,20 +518,19 @@
     author: *14
     type: link
     title: Daily - Daily Rundown for 2026-05-22
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Friday, 22 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Friday, 22 May 2026
       The average temperature today is 16.99˚C, With highs of 17.76˚C and lows of
       15.16˚C, It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-22-daily-rundown\">thechels.uk</a>.</p>"
 "/weaknotes-2026-05-22":
-  "1997714":
-    id: "1997714"
+  '1997714':
+    id: '1997714'
     uri: https://nuchronic.uk/item/blog-weaknotes-2026-05-22-fbcffdff13/
     source: false
     pubdate: 2026-05-22 17:00:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/blog-weaknotes-2026-05-22-fbcffdff13/
       verified: true
-      verified_date: "2026-05-22T16:56:40+00:00"
+      verified_date: '2026-05-22T16:56:40+00:00'
       id: 1997714
       private: false
       data:
@@ -561,11 +540,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/blog-weaknotes-2026-05-22-fbcffdff13/
         name: Blog - WeakNotes 2026-05-22
-        content:
-          "<p>Another rough week as time flies by. Limited activity and progress
+        content: "<p>Another rough week as time flies by. Limited activity and progress
           on anything this week. It’s been an entire year since I last worked, incredibly
           grateful t…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-05-22\">thechels.uk</a>.</p>"
-        published: "2026-05-22T16:00:00+00:00"
+        published: '2026-05-22T16:00:00+00:00'
         published_ts: 1779465600
       activity:
         type: link
@@ -575,20 +553,19 @@
     author: *15
     type: link
     title: Blog - WeakNotes 2026-05-22
-    content:
-      "<p>Another rough week as time flies by. Limited activity and progress
+    content: "<p>Another rough week as time flies by. Limited activity and progress
       on anything this week. It’s been an entire year since I last worked, incredibly
       grateful t…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-05-22\">thechels.uk</a>.</p>"
 "/monthly-mixtape-may-2026":
-  "1997723":
-    id: "1997723"
+  '1997723':
+    id: '1997723'
     uri: https://nuchronic.uk/item/mixtape-monthly-mixtape-may-2026-2d129e2985/
     source: false
     pubdate: 2026-05-22 18:00:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/mixtape-monthly-mixtape-may-2026-2d129e2985/
       verified: true
-      verified_date: "2026-05-22T17:44:37+00:00"
+      verified_date: '2026-05-22T17:44:37+00:00'
       id: 1997723
       private: false
       data:
@@ -598,12 +575,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/mixtape-monthly-mixtape-may-2026-2d129e2985/
         name: Mixtape - Monthly Mixtape - May 2026
-        content:
-          "<p>What I’ve been listening to this month. Introducing friend of
+        content: "<p>What I’ve been listening to this month. Introducing friend of
           the web, whitep4nth3r ’s reject the machine with their first single under
           the name chromasetica…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/monthly-mixtape-may-2026\">thechels.uk</a>.</p>"
-        published: "2026-05-22T17:00:00+00:00"
+        published: '2026-05-22T17:00:00+00:00'
         published_ts: 1779469200
       activity:
         type: link
@@ -613,20 +589,19 @@
     author: *16
     type: link
     title: Mixtape - Monthly Mixtape - May 2026
-    content:
-      "<p>What I’ve been listening to this month. Introducing friend of the
+    content: "<p>What I’ve been listening to this month. Introducing friend of the
       web, whitep4nth3r ’s reject the machine with their first single under the name
       chromasetica…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/monthly-mixtape-may-2026\">thechels.uk</a>.</p>"
 "/modern-web-ai-2026":
-  "1997728":
-    id: "1997728"
+  '1997728':
+    id: '1997728'
     uri: https://nuchronic.uk/item/blog-the-modern-web-in-the-ai-era-in-2026-1b71306648/
     source: false
     pubdate: 2026-05-22 19:00:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/blog-the-modern-web-in-the-ai-era-in-2026-1b71306648/
       verified: true
-      verified_date: "2026-05-22T18:49:24+00:00"
+      verified_date: '2026-05-22T18:49:24+00:00'
       id: 1997728
       private: false
       data:
@@ -636,11 +611,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/blog-the-modern-web-in-the-ai-era-in-2026-1b71306648/
         name: Blog - The modern web in the AI era in 2026
-        content:
-          "<p>The web hasn’t fundamentally changed. It’s still built for hundreds
+        content: "<p>The web hasn’t fundamentally changed. It’s still built for hundreds
           of different devices, locations, speeds, and use cases. If anything, the
           AI flood has pus…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/modern-web-ai-2026\">thechels.uk</a>.</p>"
-        published: "2026-05-22T18:00:00+00:00"
+        published: '2026-05-22T18:00:00+00:00'
         published_ts: 1779472800
       activity:
         type: link
@@ -650,20 +624,19 @@
     author: *17
     type: link
     title: Blog - The modern web in the AI era in 2026
-    content:
-      "<p>The web hasn’t fundamentally changed. It’s still built for hundreds
+    content: "<p>The web hasn’t fundamentally changed. It’s still built for hundreds
       of different devices, locations, speeds, and use cases. If anything, the AI
       flood has pus…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/modern-web-ai-2026\">thechels.uk</a>.</p>"
 "/film-monthly-may-2026":
-  "1997732":
-    id: "1997732"
+  '1997732':
+    id: '1997732'
     uri: https://nuchronic.uk/item/film-film-club-friday-for-may-2026-86e89577c0/
     source: false
     pubdate: 2026-05-22 20:00:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/film-film-club-friday-for-may-2026-86e89577c0/
       verified: true
-      verified_date: "2026-05-22T19:41:35+00:00"
+      verified_date: '2026-05-22T19:41:35+00:00'
       id: 1997732
       private: false
       data:
@@ -673,12 +646,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/film-film-club-friday-for-may-2026-86e89577c0/
         name: Film - Film Club Friday for May 2026
-        content:
-          "<p>One of the “benefits’ of being housebound, fatigued, and with
+        content: "<p>One of the “benefits’ of being housebound, fatigued, and with
           disrupted sleep patterns is that I have films on in the background. I have
           been keeping track o…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/film-monthly-may-2026\">thechels.uk</a>.</p>"
-        published: "2026-05-22T19:00:00+00:00"
+        published: '2026-05-22T19:00:00+00:00'
         published_ts: 1779476400
       activity:
         type: link
@@ -688,20 +660,19 @@
     author: *18
     type: link
     title: Film - Film Club Friday for May 2026
-    content:
-      "<p>One of the “benefits’ of being housebound, fatigued, and with disrupted
+    content: "<p>One of the “benefits’ of being housebound, fatigued, and with disrupted
       sleep patterns is that I have films on in the background. I have been keeping
       track o…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/film-monthly-may-2026\">thechels.uk</a>.</p>"
 "/boinc-thechelsuk-release-290ef30dcfc4":
-  "1997782":
-    id: "1997782"
+  '1997782':
+    id: '1997782'
     uri: https://nuchronic.uk/item/release-boinc-thechelsuk-version-1-0-1-d479ee173f/
     source: false
     pubdate: 2026-05-22 23:03:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-boinc-thechelsuk-version-1-0-1-d479ee173f/
       verified: true
-      verified_date: "2026-05-22T23:33:57+00:00"
+      verified_date: '2026-05-22T23:33:57+00:00'
       id: 1997782
       private: false
       data:
@@ -711,11 +682,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/release-boinc-thechelsuk-version-1-0-1-d479ee173f/
         name: Release - Boinc @ thechelsuk Version 1.0.1
-        content:
-          "<p>Notes Minor supporting .md file updates What’s Changed Bump lycheeverse/lychee-action
+        content: "<p>Notes Minor supporting .md file updates What’s Changed Bump lycheeverse/lychee-action
           from 2.7.0 to 2.8.0 by @dependabot in #14 Bump actions/checkout from 4…</p>\n\n
           \       \n        <p>Continue reading at <a href=\"https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4\">thechels.uk</a>.</p>"
-        published: "2026-05-22T22:03:00+00:00"
+        published: '2026-05-22T22:03:00+00:00'
         published_ts: 1779487380
       activity:
         type: link
@@ -725,20 +695,19 @@
     author: *19
     type: link
     title: Release - Boinc @ thechelsuk Version 1.0.1
-    content:
-      "<p>Notes Minor supporting .md file updates What’s Changed Bump lycheeverse/lychee-action
+    content: "<p>Notes Minor supporting .md file updates What’s Changed Bump lycheeverse/lychee-action
       from 2.7.0 to 2.8.0 by @dependabot in #14 Bump actions/checkout from 4…</p>\n\n
       \       \n        <p>Continue reading at <a href=\"https://thechels.uk/boinc-thechelsuk-release-290ef30dcfc4\">thechels.uk</a>.</p>"
 "/2026-05-23-daily-rundown":
-  "1997875":
-    id: "1997875"
+  '1997875':
+    id: '1997875'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-23-c24c40f420/
     source: false
     pubdate: 2026-05-23 06:18:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-23-c24c40f420/
       verified: true
-      verified_date: "2026-05-23T07:09:31+00:00"
+      verified_date: '2026-05-23T07:09:31+00:00'
       id: 1997875
       private: false
       data:
@@ -748,12 +717,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-23-c24c40f420/
         name: Daily - Daily Rundown for 2026-05-23
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Saturday, 23 May
+        content: "<p>Good Morning, Here is your daily briefing… On Saturday, 23 May
           2026 The average temperature today is 16.01˚C, With highs of 17.19˚C and
           lows of 15.39˚C, It m…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-23-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-23T05:18:00+00:00"
+        published: '2026-05-23T05:18:00+00:00'
         published_ts: 1779513480
       activity:
         type: link
@@ -763,20 +731,19 @@
     author: *20
     type: link
     title: Daily - Daily Rundown for 2026-05-23
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Saturday, 23 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Saturday, 23 May 2026
       The average temperature today is 16.01˚C, With highs of 17.19˚C and lows of
       15.39˚C, It m…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-23-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-24-daily-rundown":
-  "1998048":
-    id: "1998048"
+  '1998048':
+    id: '1998048'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-24-dc2e7ad546/
     source: false
     pubdate: 2026-05-24 06:24:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-24-dc2e7ad546/
       verified: true
-      verified_date: "2026-05-24T07:21:02+00:00"
+      verified_date: '2026-05-24T07:21:02+00:00'
       id: 1998048
       private: false
       data:
@@ -786,12 +753,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-24-dc2e7ad546/
         name: Daily - Daily Rundown for 2026-05-24
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Sunday, 24 May
+        content: "<p>Good Morning, Here is your daily briefing… On Sunday, 24 May
           2026 The average temperature today is 14.99˚C, With highs of 15.95˚C and
           lows of 14.27˚C, It may…</p>\n\n        \n        <p>Continue reading at
           <a href=\"https://thechels.uk/2026-05-24-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-24T05:24:00+00:00"
+        published: '2026-05-24T05:24:00+00:00'
         published_ts: 1779600240
       activity:
         type: link
@@ -801,20 +767,19 @@
     author: *21
     type: link
     title: Daily - Daily Rundown for 2026-05-24
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Sunday, 24 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Sunday, 24 May 2026
       The average temperature today is 14.99˚C, With highs of 15.95˚C and lows of
       14.27˚C, It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-24-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-25-daily-rundown":
-  "1998200":
-    id: "1998200"
+  '1998200':
+    id: '1998200'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-25-ba40bef1d0/
     source: false
     pubdate: 2026-05-25 06:45:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-25-ba40bef1d0/
       verified: true
-      verified_date: "2026-05-25T07:54:42+00:00"
+      verified_date: '2026-05-25T07:54:42+00:00'
       id: 1998200
       private: false
       data:
@@ -824,12 +789,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-25-ba40bef1d0/
         name: Daily - Daily Rundown for 2026-05-25
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Monday, 25 May
+        content: "<p>Good Morning, Here is your daily briefing… On Monday, 25 May
           2026 The average temperature today is 20.55˚C, With highs of 21.27˚C and
           lows of 20.54˚C, It may…</p>\n\n        \n        <p>Continue reading at
           <a href=\"https://thechels.uk/2026-05-25-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-25T05:45:00+00:00"
+        published: '2026-05-25T05:45:00+00:00'
         published_ts: 1779687900
       activity:
         type: link
@@ -839,23 +803,22 @@
     author: *22
     type: link
     title: Daily - Daily Rundown for 2026-05-25
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Monday, 25 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Monday, 25 May 2026
       The average temperature today is 20.55˚C, With highs of 21.27˚C and lows of
       20.54˚C, It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-25-daily-rundown\">thechels.uk</a>.</p>"
 "/mixtape-music-02-2025": {}
 "/apple-maps-will-have-ads": {}
 "/apple-discontinues-and-has-no-plans-for-the-mac-pro": {}
 "/a-review-of-me-specialist-provision-on-the-nhs":
-  "1986889":
-    id: "1986889"
+  '1986889':
+    id: '1986889'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mi5cagqp6s2z
     source: false
     pubdate: 2026-03-28 18:47:30.000000000 +00:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mi5cagqp6s2z%23bridgy-fed-create-2026-03-28T18:47:31.812835+00:00
       verified: true
-      verified_date: "2026-03-28T18:47:35+00:00"
+      verified_date: '2026-03-28T18:47:35+00:00'
       id: 1986889
       private: false
       data:
@@ -864,7 +827,7 @@
         content: |-
           A review of ME specialist provision on the NHS
           <a href="https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs">https://thechels.uk/a-review-of-me-specialist-provision-on-the-nhs</a>
-        published: "2026-03-28T18:47:30+00:00"
+        published: '2026-03-28T18:47:30+00:00'
         published_ts: 1774723650
       activity:
         type: link
@@ -880,15 +843,15 @@
 "/2026-04-27-daily-rundown": {}
 "/github-copilot-is-moving-to-usage-based-billing": {}
 "/cf-worker-x-redirect-release-2ccbc7f48926":
-  "1994568":
-    id: "1994568"
+  '1994568':
+    id: '1994568'
     uri: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-3-c3476d9c17/
     source: false
     pubdate: 2026-05-05 01:07:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-3-c3476d9c17/
       verified: true
-      verified_date: "2026-05-05T03:20:07+00:00"
+      verified_date: '2026-05-05T03:20:07+00:00'
       id: 1994568
       private: false
       data:
@@ -898,12 +861,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-3-c3476d9c17/
         name: Release - CF Worker X Redirect Version v1.0.3
-        content:
-          "<p>Full Changelog : v1.0.1…v1.0.3 Read more about my projects <em>**
+        content: "<p>Full Changelog : v1.0.1…v1.0.3 Read more about my projects <em>**
           // Published 2026-05-05, with 10 words. **</em> ???? Thanks for keeping
           RSS alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading
           at <a href=\"https://thechels.uk/cf-worker-x-redirect-release-2ccbc7f48926\">thechels.uk</a>.</p>"
-        published: "2026-05-05T00:07:00+00:00"
+        published: '2026-05-05T00:07:00+00:00'
         published_ts: 1777939620
       activity:
         type: link
@@ -913,21 +875,20 @@
     author: *23
     type: link
     title: Release - CF Worker X Redirect Version v1.0.3
-    content:
-      "<p>Full Changelog : v1.0.1…v1.0.3 Read more about my projects <em>**
+    content: "<p>Full Changelog : v1.0.1…v1.0.3 Read more about my projects <em>**
       // Published 2026-05-05, with 10 words. **</em> ???? Thanks for keeping RSS
       alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading at <a
       href=\"https://thechels.uk/cf-worker-x-redirect-release-2ccbc7f48926\">thechels.uk</a>.</p>"
 "/2026-05-05-daily-rundown":
-  "1994592":
-    id: "1994592"
+  '1994592':
+    id: '1994592'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
     source: false
     pubdate: 2026-05-05 06:03:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
       verified: true
-      verified_date: "2026-05-05T07:02:15+00:00"
+      verified_date: '2026-05-05T07:02:15+00:00'
       id: 1994592
       private: false
       data:
@@ -937,12 +898,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-05-c9a2e1f963/
         name: Daily - Daily Rundown for 2026-05-05
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Tuesday, 05 May
+        content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 05 May
           2026 The average temperature today is 8.05˚C, With highs of 9.97˚C and lows
           of 7.6˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-05-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-05T05:03:00+00:00"
+        published: '2026-05-05T05:03:00+00:00'
         published_ts: 1777957380
       activity:
         type: link
@@ -952,20 +912,19 @@
     author: *24
     type: link
     title: Daily - Daily Rundown for 2026-05-05
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Tuesday, 05 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 05 May 2026
       The average temperature today is 8.05˚C, With highs of 9.97˚C and lows of 7.6˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-05-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-13-daily-rundown":
-  "1996051":
-    id: "1996051"
+  '1996051':
+    id: '1996051'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-13-4cbed17e2e/
     source: false
     pubdate: 2026-05-13 06:22:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-13-4cbed17e2e/
       verified: true
-      verified_date: "2026-05-13T07:21:13+00:00"
+      verified_date: '2026-05-13T07:21:13+00:00'
       id: 1996051
       private: false
       data:
@@ -975,12 +934,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-13-4cbed17e2e/
         name: Daily - Daily Rundown for 2026-05-13
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Wednesday, 13 May
+        content: "<p>Good Morning, Here is your daily briefing… On Wednesday, 13 May
           2026 The average temperature today is 9˚C, With highs of 9.26˚C and lows
           of 8.72˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-13-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-13T05:22:00+00:00"
+        published: '2026-05-13T05:22:00+00:00'
         published_ts: 1778649720
       activity:
         type: link
@@ -990,20 +948,19 @@
     author: *25
     type: link
     title: Daily - Daily Rundown for 2026-05-13
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Wednesday, 13 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Wednesday, 13 May 2026
       The average temperature today is 9˚C, With highs of 9.26˚C and lows of 8.72˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-13-daily-rundown\">thechels.uk</a>.</p>"
 "/film-club":
-  "1996255":
-    id: "1996255"
+  '1996255':
+    id: '1996255'
     uri: https://nuchronic.uk/item/social-film-club-5826e99d14/
     source: false
     pubdate: 2026-05-13 15:25:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/social-film-club-5826e99d14/
       verified: true
-      verified_date: "2026-05-13T16:59:52+00:00"
+      verified_date: '2026-05-13T16:59:52+00:00'
       id: 1996255
       private: false
       data:
@@ -1013,11 +970,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/social-film-club-5826e99d14/
         name: Social - Film Club
-        content:
-          "<p>I now have 1404 films logged, I am certain I have more missing
+        content: "<p>I now have 1404 films logged, I am certain I have more missing
           from my watched list though, but no chance of remembering them. *** // Published
           2026-05-13, w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/film-club\">thechels.uk</a>.</p>"
-        published: "2026-05-13T14:25:00+00:00"
+        published: '2026-05-13T14:25:00+00:00'
         published_ts: 1778682300
       activity:
         type: link
@@ -1027,20 +983,19 @@
     author: *26
     type: link
     title: Social - Film Club
-    content:
-      "<p>I now have 1404 films logged, I am certain I have more missing from
+    content: "<p>I now have 1404 films logged, I am certain I have more missing from
       my watched list though, but no chance of remembering them. *** // Published
       2026-05-13, w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/film-club\">thechels.uk</a>.</p>"
 "/what-can-you-buy-with-a-5m-donation":
-  "1996308":
-    id: "1996308"
+  '1996308':
+    id: '1996308'
     uri: https://nuchronic.uk/item/social-what-can-you-buy-with-a-5m-donation-3ea2cb09be/
     source: false
     pubdate: 2026-05-13 20:14:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/social-what-can-you-buy-with-a-5m-donation-3ea2cb09be/
       verified: true
-      verified_date: "2026-05-13T20:44:35+00:00"
+      verified_date: '2026-05-13T20:44:35+00:00'
       id: 1996308
       private: false
       data:
@@ -1050,12 +1005,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/social-what-can-you-buy-with-a-5m-donation-3ea2cb09be/
         name: Social - What can you buy with a £5m donation
-        content:
-          "<p>What can you buy with a £5m donation? The longer Starmer is in
+        content: "<p>What can you buy with a £5m donation? The longer Starmer is in
           office, the more Reform fancy there chances. <em>** // Published 2026-05-13,
           with 20 words. **</em> ????…</p>\n\n        \n        <p>Continue reading
           at <a href=\"https://thechels.uk/what-can-you-buy-with-a-5m-donation\">thechels.uk</a>.</p>"
-        published: "2026-05-13T19:14:00+00:00"
+        published: '2026-05-13T19:14:00+00:00'
         published_ts: 1778699640
       activity:
         type: link
@@ -1065,20 +1019,19 @@
     author: *27
     type: link
     title: Social - What can you buy with a £5m donation
-    content:
-      "<p>What can you buy with a £5m donation? The longer Starmer is in office,
+    content: "<p>What can you buy with a £5m donation? The longer Starmer is in office,
       the more Reform fancy there chances. <em>** // Published 2026-05-13, with 20
       words. **</em> ????…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/what-can-you-buy-with-a-5m-donation\">thechels.uk</a>.</p>"
 "/2026-05-26-daily-rundown":
-  "1998447":
-    id: "1998447"
+  '1998447':
+    id: '1998447'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
     source: false
     pubdate: 2026-05-26 06:32:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
       verified: true
-      verified_date: "2026-05-26T07:30:47+00:00"
+      verified_date: '2026-05-26T07:30:47+00:00'
       id: 1998447
       private: false
       data:
@@ -1088,12 +1041,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-26-991fc3e009/
         name: Daily - Daily Rundown for 2026-05-26
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Tuesday, 26 May
+        content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 26 May
           2026 The average temperature today is 21.77˚C, With highs of 23.72˚C and
           lows of 19.82˚C, It ma…</p>\n\n        \n        <p>Continue reading at
           <a href=\"https://thechels.uk/2026-05-26-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-26T05:32:00+00:00"
+        published: '2026-05-26T05:32:00+00:00'
         published_ts: 1779773520
       activity:
         type: link
@@ -1103,21 +1055,20 @@
     author: *28
     type: link
     title: Daily - Daily Rundown for 2026-05-26
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Tuesday, 26 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Tuesday, 26 May 2026
       The average temperature today is 21.77˚C, With highs of 23.72˚C and lows of
       19.82˚C, It ma…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-26-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-04-28-daily-rundown": {}
 "/2026-05-06-daily-rundown":
-  "1994747":
-    id: "1994747"
+  '1994747':
+    id: '1994747'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-06-f07b939ec6/
     source: false
     pubdate: 2026-05-06 06:13:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-06-f07b939ec6/
       verified: true
-      verified_date: "2026-05-06T07:12:17+00:00"
+      verified_date: '2026-05-06T07:12:17+00:00'
       id: 1994747
       private: false
       data:
@@ -1127,11 +1078,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-06-f07b939ec6/
         name: Daily - Daily Rundown for 2026-05-06
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Wednesday, 06 May
+        content: "<p>Good Morning, Here is your daily briefing… On Wednesday, 06 May
           2026 The average temperature today is 7.49˚C, With highs of 8.3˚C and lows
           of 7.05˚C, It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-06-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-06T05:13:00+00:00"
+        published: '2026-05-06T05:13:00+00:00'
         published_ts: 1778044380
       activity:
         type: link
@@ -1141,20 +1091,19 @@
     author: *29
     type: link
     title: Daily - Daily Rundown for 2026-05-06
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Wednesday, 06 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Wednesday, 06 May 2026
       The average temperature today is 7.49˚C, With highs of 8.3˚C and lows of 7.05˚C,
       It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-06-daily-rundown\">thechels.uk</a>.</p>"
 "/cf-worker-x-redirect-release-0de197f5789c":
-  "1994762":
-    id: "1994762"
+  '1994762':
+    id: '1994762'
     uri: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-4-999d53948a/
     source: false
     pubdate: 2026-05-06 10:08:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-4-999d53948a/
       verified: true
-      verified_date: "2026-05-06T10:35:24+00:00"
+      verified_date: '2026-05-06T10:35:24+00:00'
       id: 1994762
       private: false
       data:
@@ -1164,12 +1113,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-4-999d53948a/
         name: Release - CF Worker X Redirect Version v1.0.4
-        content:
-          "<p>Full Changelog : v1.0.3…v1.0.4 Read more about my projects <em>**
+        content: "<p>Full Changelog : v1.0.3…v1.0.4 Read more about my projects <em>**
           // Published 2026-05-06, with 10 words. **</em> ???? Thanks for keeping
           RSS alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading
           at <a href=\"https://thechels.uk/cf-worker-x-redirect-release-0de197f5789c\">thechels.uk</a>.</p>"
-        published: "2026-05-06T09:08:00+00:00"
+        published: '2026-05-06T09:08:00+00:00'
         published_ts: 1778058480
       activity:
         type: link
@@ -1179,21 +1127,20 @@
     author: *30
     type: link
     title: Release - CF Worker X Redirect Version v1.0.4
-    content:
-      "<p>Full Changelog : v1.0.3…v1.0.4 Read more about my projects <em>**
+    content: "<p>Full Changelog : v1.0.3…v1.0.4 Read more about my projects <em>**
       // Published 2026-05-06, with 10 words. **</em> ???? Thanks for keeping RSS
       alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading at <a
       href=\"https://thechels.uk/cf-worker-x-redirect-release-0de197f5789c\">thechels.uk</a>.</p>"
 "/cf-worker-x-redirect-release-a80c48d7fed8":
-  "1994815":
-    id: "1994815"
+  '1994815':
+    id: '1994815'
     uri: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-5-5bb7baf667/
     source: false
     pubdate: 2026-05-06 20:46:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-5-5bb7baf667/
       verified: true
-      verified_date: "2026-05-06T21:33:47+00:00"
+      verified_date: '2026-05-06T21:33:47+00:00'
       id: 1994815
       private: false
       data:
@@ -1203,12 +1150,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/release-cf-worker-x-redirect-version-v1-0-5-5bb7baf667/
         name: Release - CF Worker X Redirect Version v1.0.5
-        content:
-          "<p>Full Changelog : v1.0.4…v1.0.5 Read more about my projects <em>**
+        content: "<p>Full Changelog : v1.0.4…v1.0.5 Read more about my projects <em>**
           // Published 2026-05-06, with 10 words. **</em> ???? Thanks for keeping
           RSS alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading
           at <a href=\"https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8\">thechels.uk</a>.</p>"
-        published: "2026-05-06T19:46:00+00:00"
+        published: '2026-05-06T19:46:00+00:00'
         published_ts: 1778096760
       activity:
         type: link
@@ -1218,22 +1164,21 @@
     author: *31
     type: link
     title: Release - CF Worker X Redirect Version v1.0.5
-    content:
-      "<p>Full Changelog : v1.0.4…v1.0.5 Read more about my projects <em>**
+    content: "<p>Full Changelog : v1.0.4…v1.0.5 Read more about my projects <em>**
       // Published 2026-05-06, with 10 words. **</em> ???? Thanks for keeping RSS
       alive. If you have an RSS…</p>\n\n        \n        <p>Continue reading at <a
       href=\"https://thechels.uk/cf-worker-x-redirect-release-a80c48d7fed8\">thechels.uk</a>.</p>"
 "/adobe-has-rid-itself-of-its-allies": {}
 "/nnw-theme-bundle-release-79f22f31f761":
-  "1996370":
-    id: "1996370"
+  '1996370':
+    id: '1996370'
     uri: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8/
     source: false
     pubdate: 2026-05-14 02:12:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8/
       verified: true
-      verified_date: "2026-05-14T03:20:33+00:00"
+      verified_date: '2026-05-14T03:20:33+00:00'
       id: 1996370
       private: false
       data:
@@ -1243,11 +1188,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-9-2-8d5a2429d8/
         name: Release - NNW Theme Bundle Version v1.9.2
-        content:
-          "<p>Add new theme named Magda, a dark-mode-only, content first theme.
+        content: "<p>Add new theme named Magda, a dark-mode-only, content first theme.
           Themes Fresh Download Fresh.zip to install this theme. Guro Download Guro.zip
           to install th…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-79f22f31f761\">thechels.uk</a>.</p>"
-        published: "2026-05-14T01:12:00+00:00"
+        published: '2026-05-14T01:12:00+00:00'
         published_ts: 1778721120
       activity:
         type: link
@@ -1257,20 +1201,19 @@
     author: *32
     type: link
     title: Release - NNW Theme Bundle Version v1.9.2
-    content:
-      "<p>Add new theme named Magda, a dark-mode-only, content first theme.
+    content: "<p>Add new theme named Magda, a dark-mode-only, content first theme.
       Themes Fresh Download Fresh.zip to install this theme. Guro Download Guro.zip
       to install th…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-79f22f31f761\">thechels.uk</a>.</p>"
 "/2026-05-14-daily-rundown":
-  "1996410":
-    id: "1996410"
+  '1996410':
+    id: '1996410'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-14-f6c56eba96/
     source: false
     pubdate: 2026-05-14 06:21:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-14-f6c56eba96/
       verified: true
-      verified_date: "2026-05-14T07:17:56+00:00"
+      verified_date: '2026-05-14T07:17:56+00:00'
       id: 1996410
       private: false
       data:
@@ -1280,11 +1223,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-14-f6c56eba96/
         name: Daily - Daily Rundown for 2026-05-14
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Thursday, 14 May
+        content: "<p>Good Morning, Here is your daily briefing… On Thursday, 14 May
           2026 The average temperature today is 7.21˚C, With highs of 8.49˚C and lows
           of 7.04˚C, It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-14-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-14T05:21:00+00:00"
+        published: '2026-05-14T05:21:00+00:00'
         published_ts: 1778736060
       activity:
         type: link
@@ -1294,8 +1236,7 @@
     author: *33
     type: link
     title: Daily - Daily Rundown for 2026-05-14
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Thursday, 14 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Thursday, 14 May 2026
       The average temperature today is 7.21˚C, With highs of 8.49˚C and lows of 7.04˚C,
       It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-14-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-27-daily-rundown": {}
@@ -1306,15 +1247,15 @@
 "/bookstack-has-migrated-from-github-to-codeberg": {}
 "/millie-bright-announces-retirement-from-football": {}
 "/sourcefeed-a-pop-up-rss-service-launched":
-  "1994194":
-    id: "1994194"
+  '1994194':
+    id: '1994194'
     uri: https://nuchronic.uk/item/linked-sourcefeed-a-pop-up-rss-service-launched-4e02b10348/
     source: false
     pubdate: 2026-04-29 14:08:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/linked-sourcefeed-a-pop-up-rss-service-launched-4e02b10348/
       verified: true
-      verified_date: "2026-05-03T16:38:11+00:00"
+      verified_date: '2026-05-03T16:38:11+00:00'
       id: 1994194
       private: false
       data:
@@ -1325,7 +1266,7 @@
         url: https://nuchronic.uk/item/linked-sourcefeed-a-pop-up-rss-service-launched-4e02b10348/
         name: Linked - Sourcefeed - a pop-up RSS service launched
         content: <p>Read the original article on <a href="https://thechels.uk/sourcefeed-a-pop-up-rss-service-launched">thechels.uk</a>.</p>
-        published: "2026-04-29T13:08:00+00:00"
+        published: '2026-04-29T13:08:00+00:00'
         published_ts: 1777468080
       activity:
         type: link
@@ -1340,15 +1281,15 @@
 "/zwift-acquires-rouvy": {}
 "/an-update-on-github-availability": {}
 "/2026-05-07-daily-rundown":
-  "1994914":
-    id: "1994914"
+  '1994914':
+    id: '1994914'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-07-4259b83b1d/
     source: false
     pubdate: 2026-05-07 06:17:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-07-4259b83b1d/
       verified: true
-      verified_date: "2026-05-07T19:20:13+00:00"
+      verified_date: '2026-05-07T19:20:13+00:00'
       id: 1994914
       private: false
       data:
@@ -1358,11 +1299,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-07-4259b83b1d/
         name: Daily - Daily Rundown for 2026-05-07
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Thursday, 07 May
+        content: "<p>Good Morning, Here is your daily briefing… On Thursday, 07 May
           2026 The average temperature today is 6.89˚C, With highs of 7.05˚C and lows
           of 5.47˚C, It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-07-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-07T05:17:00+00:00"
+        published: '2026-05-07T05:17:00+00:00'
         published_ts: 1778131020
       activity:
         type: link
@@ -1372,20 +1312,19 @@
     author: *35
     type: link
     title: Daily - Daily Rundown for 2026-05-07
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Thursday, 07 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Thursday, 07 May 2026
       The average temperature today is 6.89˚C, With highs of 7.05˚C and lows of 5.47˚C,
       It may…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-07-daily-rundown\">thechels.uk</a>.</p>"
 "/rss-feed-discovery":
-  "1994960":
-    id: "1994960"
+  '1994960':
+    id: '1994960'
     uri: https://nuchronic.uk/item/linked-rss-feed-discovery-in-well-known-is-better-than-guessing-b3ad4f781f/
     source: false
     pubdate: 2026-05-07 21:00:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/linked-rss-feed-discovery-in-well-known-is-better-than-guessing-b3ad4f781f/
       verified: true
-      verified_date: "2026-05-08T06:50:45+00:00"
+      verified_date: '2026-05-08T06:50:45+00:00'
       id: 1994960
       private: false
       data:
@@ -1395,12 +1334,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/linked-rss-feed-discovery-in-well-known-is-better-than-guessing-b3ad4f781f/
         name: Linked - RSS Feed Discovery in well known is better than guessing
-        content:
-          "<p>I really like this idea, and I hope to see more sites adopt it,
+        content: "<p>I really like this idea, and I hope to see more sites adopt it,
           and more things move to within the .well-known namespace. So many sites
           are bloated with all…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/rss-feed-discovery\">thechels.uk</a>.</p>"
-        published: "2026-05-07T20:00:00+00:00"
+        published: '2026-05-07T20:00:00+00:00'
         published_ts: 1778184000
       activity:
         type: link
@@ -1410,21 +1348,20 @@
     author: *36
     type: link
     title: Linked - RSS Feed Discovery in well known is better than guessing
-    content:
-      "<p>I really like this idea, and I hope to see more sites adopt it, and
+    content: "<p>I really like this idea, and I hope to see more sites adopt it, and
       more things move to within the .well-known namespace. So many sites are bloated
       with all…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/rss-feed-discovery\">thechels.uk</a>.</p>"
 "/get-50-when-you-join-octopus-energy": {}
 "/2026-05-15-daily-rundown":
-  "1996605":
-    id: "1996605"
+  '1996605':
+    id: '1996605'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-15-4395524f85/
     source: false
     pubdate: 2026-05-15 06:22:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-15-4395524f85/
       verified: true
-      verified_date: "2026-05-15T07:24:36+00:00"
+      verified_date: '2026-05-15T07:24:36+00:00'
       id: 1996605
       private: false
       data:
@@ -1434,12 +1371,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-15-4395524f85/
         name: Daily - Daily Rundown for 2026-05-15
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Friday, 15 May
+        content: "<p>Good Morning, Here is your daily briefing… On Friday, 15 May
           2026 The average temperature today is 4.88˚C, With highs of 5.54˚C and lows
           of 4.18˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-15-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-15T05:22:00+00:00"
+        published: '2026-05-15T05:22:00+00:00'
         published_ts: 1778822520
       activity:
         type: link
@@ -1449,20 +1385,19 @@
     author: *37
     type: link
     title: Daily - Daily Rundown for 2026-05-15
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Friday, 15 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Friday, 15 May 2026
       The average temperature today is 4.88˚C, With highs of 5.54˚C and lows of 4.18˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-15-daily-rundown\">thechels.uk</a>.</p>"
 "/no-in-advance":
-  "1996685":
-    id: "1996685"
+  '1996685':
+    id: '1996685'
     uri: https://nuchronic.uk/item/linked-no-in-advance-db5ef474ef/
     source: false
     pubdate: 2026-05-15 16:08:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/linked-no-in-advance-db5ef474ef/
       verified: true
-      verified_date: "2026-05-15T18:46:15+00:00"
+      verified_date: '2026-05-15T18:46:15+00:00'
       id: 1996685
       private: false
       data:
@@ -1472,12 +1407,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/linked-no-in-advance-db5ef474ef/
         name: Linked - No in advance
-        content:
-          "<p>Really like this approach. I use some canned messages and text
+        content: "<p>Really like this approach. I use some canned messages and text
           in my app ShortKeys. This feels like a sensible addition. **I took an hour
           to write a really n…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/no-in-advance\">thechels.uk</a>.</p>"
-        published: "2026-05-15T15:08:00+00:00"
+        published: '2026-05-15T15:08:00+00:00'
         published_ts: 1778857680
       activity:
         type: link
@@ -1487,23 +1421,22 @@
     author: *38
     type: link
     title: Linked - No in advance
-    content:
-      "<p>Really like this approach. I use some canned messages and text in
+    content: "<p>Really like this approach. I use some canned messages and text in
       my app ShortKeys. This feels like a sensible addition. **I took an hour to write
       a really n…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/no-in-advance\">thechels.uk</a>.</p>"
 "/links-release-a3ecd29c6569": {}
 "/2026-05-28-daily-rundown": {}
 "/video-version-20-of-hiyd-out-now-0b51464e": {}
 "/2026-04-30-daily-rundown":
-  "1994192":
-    id: "1994192"
+  '1994192':
+    id: '1994192'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
     source: false
     pubdate: 2026-04-30 08:06:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
       verified: true
-      verified_date: "2026-05-03T16:38:05+00:00"
+      verified_date: '2026-05-03T16:38:05+00:00'
       id: 1994192
       private: false
       data:
@@ -1514,7 +1447,7 @@
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-04-30-e8cc700ed1/
         name: Daily - Daily Rundown for 2026-04-30
         content: <p>Read the original article on <a href="https://thechels.uk/2026-04-30-daily-rundown">thechels.uk</a>.</p>
-        published: "2026-04-30T07:06:00+00:00"
+        published: '2026-04-30T07:06:00+00:00'
         published_ts: 1777532760
       activity:
         type: link
@@ -1526,15 +1459,15 @@
     title: Daily - Daily Rundown for 2026-04-30
     content: <p>Read the original article on <a href="https://thechels.uk/2026-04-30-daily-rundown">thechels.uk</a>.</p>
 "/2026-05-08-daily-rundown":
-  "1994959":
-    id: "1994959"
+  '1994959':
+    id: '1994959'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
     source: false
     pubdate: 2026-05-08 05:52:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
       verified: true
-      verified_date: "2026-05-08T06:50:44+00:00"
+      verified_date: '2026-05-08T06:50:44+00:00'
       id: 1994959
       private: false
       data:
@@ -1544,12 +1477,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-08-806880f936/
         name: Daily - Daily Rundown for 2026-05-08
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Friday, 08 May
+        content: "<p>Good Morning, Here is your daily briefing… On Friday, 08 May
           2026 The average temperature today is 9.35˚C, With highs of 9.98˚C and lows
           of 8.15˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-08-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-08T04:52:00+00:00"
+        published: '2026-05-08T04:52:00+00:00'
         published_ts: 1778215920
       activity:
         type: link
@@ -1559,21 +1491,20 @@
     author: *40
     type: link
     title: Daily - Daily Rundown for 2026-05-08
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Friday, 08 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Friday, 08 May 2026
       The average temperature today is 9.35˚C, With highs of 9.98˚C and lows of 8.15˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-08-daily-rundown\">thechels.uk</a>.</p>"
 "/github-repo-stats": {}
 "/cloudflare-builds-for-revenue-not-humans":
-  "1995055":
-    id: "1995055"
+  '1995055':
+    id: '1995055'
     uri: https://nuchronic.uk/item/linked-cloudflare-builds-for-revenue-not-humans-e3336df3e1/
     source: false
     pubdate: 2026-05-08 18:10:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/linked-cloudflare-builds-for-revenue-not-humans-e3336df3e1/
       verified: true
-      verified_date: "2026-05-08T17:40:35+00:00"
+      verified_date: '2026-05-08T17:40:35+00:00'
       id: 1995055
       private: false
       data:
@@ -1583,11 +1514,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/linked-cloudflare-builds-for-revenue-not-humans-e3336df3e1/
         name: Linked - Cloudflare builds for revenue not humans
-        content:
-          "<p>Cloudflare announced 1100 job losses “due to AI” and separately
+        content: "<p>Cloudflare announced 1100 job losses “due to AI” and separately
           announced quarterly results that included 34 percent year-over-year revenue
           growth and guidan…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/cloudflare-builds-for-revenue-not-humans\">thechels.uk</a>.</p>"
-        published: "2026-05-08T17:10:00+00:00"
+        published: '2026-05-08T17:10:00+00:00'
         published_ts: 1778260200
       activity:
         type: link
@@ -1597,20 +1527,19 @@
     author: *41
     type: link
     title: Linked - Cloudflare builds for revenue not humans
-    content:
-      "<p>Cloudflare announced 1100 job losses “due to AI” and separately announced
+    content: "<p>Cloudflare announced 1100 job losses “due to AI” and separately announced
       quarterly results that included 34 percent year-over-year revenue growth and
       guidan…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/cloudflare-builds-for-revenue-not-humans\">thechels.uk</a>.</p>"
 "/plans-for-rss-with-netnewswire":
-  "1995093":
-    id: "1995093"
+  '1995093':
+    id: '1995093'
     uri: https://nuchronic.uk/item/blog-plans-for-rss-with-netnewswire-329be8473d/
     source: false
     pubdate: 2026-05-08 22:10:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/blog-plans-for-rss-with-netnewswire-329be8473d/
       verified: true
-      verified_date: "2026-05-08T22:29:54+00:00"
+      verified_date: '2026-05-08T22:29:54+00:00'
       id: 1995093
       private: false
       data:
@@ -1620,12 +1549,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/blog-plans-for-rss-with-netnewswire-329be8473d/
         name: Blog - Plans for RSS with NetNewsWire
-        content:
-          "<p>The recent update to NNW has resulted in a huge sense of speed
+        content: "<p>The recent update to NNW has resulted in a huge sense of speed
           and performance improvements for me. The app loads quickly and syncing of
           new content seems su…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/plans-for-rss-with-netnewswire\">thechels.uk</a>.</p>"
-        published: "2026-05-08T21:10:00+00:00"
+        published: '2026-05-08T21:10:00+00:00'
         published_ts: 1778274600
       activity:
         type: link
@@ -1635,20 +1563,19 @@
     author: *42
     type: link
     title: Blog - Plans for RSS with NetNewsWire
-    content:
-      "<p>The recent update to NNW has resulted in a huge sense of speed and
+    content: "<p>The recent update to NNW has resulted in a huge sense of speed and
       performance improvements for me. The app loads quickly and syncing of new content
       seems su…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/plans-for-rss-with-netnewswire\">thechels.uk</a>.</p>"
 "/2026-05-16-daily-rundown":
-  "1996745":
-    id: "1996745"
+  '1996745':
+    id: '1996745'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
     source: false
     pubdate: 2026-05-16 06:10:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
       verified: true
-      verified_date: "2026-05-16T07:00:17+00:00"
+      verified_date: '2026-05-16T07:00:17+00:00'
       id: 1996745
       private: false
       data:
@@ -1658,12 +1585,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-16-8cd67dd55b/
         name: Daily - Daily Rundown for 2026-05-16
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Saturday, 16 May
+        content: "<p>Good Morning, Here is your daily briefing… On Saturday, 16 May
           2026 The average temperature today is 6.81˚C, With highs of 7.2˚C and lows
           of 6.4˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-16-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-16T05:10:00+00:00"
+        published: '2026-05-16T05:10:00+00:00'
         published_ts: 1778908200
       activity:
         type: link
@@ -1673,20 +1599,19 @@
     author: *43
     type: link
     title: Daily - Daily Rundown for 2026-05-16
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Saturday, 16 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Saturday, 16 May 2026
       The average temperature today is 6.81˚C, With highs of 7.2˚C and lows of 6.4˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-16-daily-rundown\">thechels.uk</a>.</p>"
 "/cheltenham-open-data-release-a400aa248379":
-  "1996811":
-    id: "1996811"
+  '1996811':
+    id: '1996811'
     uri: https://nuchronic.uk/item/release-cheltenham-open-data-version-newsletter-25965335933-7dc7e64838/
     source: false
     pubdate: 2026-05-16 14:59:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-cheltenham-open-data-version-newsletter-25965335933-7dc7e64838/
       verified: true
-      verified_date: "2026-05-16T17:29:26+00:00"
+      verified_date: '2026-05-16T17:29:26+00:00'
       id: 1996811
       private: false
       data:
@@ -1696,12 +1621,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/release-cheltenham-open-data-version-newsletter-25965335933-7dc7e64838/
         name: Release - Cheltenham Open Data Version newsletter-25965335933
-        content:
-          "<p>No release notes were included for this release. Read more about
+        content: "<p>No release notes were included for this release. Read more about
           my projects <em>** // Published 2026-05-16, with 14 words. **</em> ????
           Thanks for keeping RSS alive….</p>\n\n        \n        <p>Continue reading
           at <a href=\"https://thechels.uk/cheltenham-open-data-release-a400aa248379\">thechels.uk</a>.</p>"
-        published: "2026-05-16T13:59:00+00:00"
+        published: '2026-05-16T13:59:00+00:00'
         published_ts: 1778939940
       activity:
         type: link
@@ -1711,8 +1635,7 @@
     author: *44
     type: link
     title: Release - Cheltenham Open Data Version newsletter-25965335933
-    content:
-      "<p>No release notes were included for this release. Read more about
+    content: "<p>No release notes were included for this release. Read more about
       my projects <em>** // Published 2026-05-16, with 14 words. **</em> ???? Thanks
       for keeping RSS alive….</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/cheltenham-open-data-release-a400aa248379\">thechels.uk</a>.</p>"
 "/2026-05-29-daily-rundown": {}
@@ -1720,15 +1643,15 @@
 "/cheltenham-open-data-release-f7296982c5d7": {}
 "/homebridge-ysa2-yale-alarm-release-f5d8b98ac6df": {}
 "/2026-05-01-daily-rundown":
-  "1994191":
-    id: "1994191"
+  '1994191':
+    id: '1994191'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-01-250e5415f0/
     source: false
     pubdate: 2026-05-01 07:07:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-01-250e5415f0/
       verified: true
-      verified_date: "2026-05-03T16:38:00+00:00"
+      verified_date: '2026-05-03T16:38:00+00:00'
       id: 1994191
       private: false
       data:
@@ -1739,7 +1662,7 @@
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-01-250e5415f0/
         name: Daily - Daily Rundown for 2026-05-01
         content: <p>Read the original article on <a href="https://thechels.uk/2026-05-01-daily-rundown">thechels.uk</a>.</p>
-        published: "2026-05-01T06:07:00+00:00"
+        published: '2026-05-01T06:07:00+00:00'
         published_ts: 1777615620
       activity:
         type: link
@@ -1751,15 +1674,15 @@
     title: Daily - Daily Rundown for 2026-05-01
     content: <p>Read the original article on <a href="https://thechels.uk/2026-05-01-daily-rundown">thechels.uk</a>.</p>
 "/brand":
-  "1994187":
-    id: "1994187"
+  '1994187':
+    id: '1994187'
     uri: https://nuchronic.uk/item/social-brand-6dc734630e/
     source: false
     pubdate: 2026-05-02 16:07:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/social-brand-6dc734630e/
       verified: true
-      verified_date: "2026-05-03T16:37:52+00:00"
+      verified_date: '2026-05-03T16:37:52+00:00'
       id: 1994187
       private: false
       data:
@@ -1770,7 +1693,7 @@
         url: https://nuchronic.uk/item/social-brand-6dc734630e/
         name: Social - Brand
         content: <p>Read the original article on <a href="https://thechels.uk/brand">thechels.uk</a>.</p>
-        published: "2026-05-02T15:07:00+00:00"
+        published: '2026-05-02T15:07:00+00:00'
         published_ts: 1777734420
       activity:
         type: link
@@ -1782,15 +1705,15 @@
     title: Social - Brand
     content: <p>Read the original article on <a href="https://thechels.uk/brand">thechels.uk</a>.</p>
 "/2026-05-09-daily-rundown":
-  "1995124":
-    id: "1995124"
+  '1995124':
+    id: '1995124'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-09-8868cdd533/
     source: false
     pubdate: 2026-05-09 06:04:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-09-8868cdd533/
       verified: true
-      verified_date: "2026-05-09T06:57:07+00:00"
+      verified_date: '2026-05-09T06:57:07+00:00'
       id: 1995124
       private: false
       data:
@@ -1800,12 +1723,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-09-8868cdd533/
         name: Daily - Daily Rundown for 2026-05-09
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Saturday, 09 May
+        content: "<p>Good Morning, Here is your daily briefing… On Saturday, 09 May
           2026 The average temperature today is 10.51˚C, With highs of 11.83˚C and
           lows of 8.72˚C, It ma…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-09-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-09T05:04:00+00:00"
+        published: '2026-05-09T05:04:00+00:00'
         published_ts: 1778303040
       activity:
         type: link
@@ -1815,20 +1737,19 @@
     author: *47
     type: link
     title: Daily - Daily Rundown for 2026-05-09
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Saturday, 09 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Saturday, 09 May 2026
       The average temperature today is 10.51˚C, With highs of 11.83˚C and lows of
       8.72˚C, It ma…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-09-daily-rundown\">thechels.uk</a>.</p>"
 "/nnw-theme-bundle-release-0a6890489292":
-  "1995249":
-    id: "1995249"
+  '1995249':
+    id: '1995249'
     uri: https://ap.brid.gy/convert/web/https://social.lol/ap/users/116328436595171448%23likes/2193795
     source: false
     pubdate: 2026-05-09 19:08:11.000000000 +00:00
     raw:
       source: https://ap.brid.gy/convert/web/https://social.lol/ap/users/116328436595171448%23likes/2193795
       verified: true
-      verified_date: "2026-05-09T19:08:11+00:00"
+      verified_date: '2026-05-09T19:08:11+00:00'
       id: 1995249
       private: false
       data:
@@ -1838,8 +1759,7 @@
           photo: https://avatars.webmention.io/s3.eu-central-003.backblazeb2.com/10f7bc3caf94e400f3e70392768ed6d0b3a7446ead9d7a1b3c4b5fd4ea426ae3.png
         url: https://ap.brid.gy/convert/web/https://social.lol/ap/users/116328436595171448%23likes/2193795
         name:
-        content:
-          <a href="https://thechels.uk/nnw-theme-bundle-release-0a6890489292">likes
+        content: <a href="https://thechels.uk/nnw-theme-bundle-release-0a6890489292">likes
           this.</a>
         published:
         published_ts:
@@ -1848,16 +1768,16 @@
       target: https://thechels.uk/nnw-theme-bundle-release-0a6890489292
     author: *48
     type: like
-    content: ""
-  "1995183":
-    id: "1995183"
+    content: ''
+  '1995183':
+    id: '1995183'
     uri: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-1-bb620f55be/
     source: false
     pubdate: 2026-05-09 15:00:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-1-bb620f55be/
       verified: true
-      verified_date: "2026-05-09T14:32:50+00:00"
+      verified_date: '2026-05-09T14:32:50+00:00'
       id: 1995183
       private: false
       data:
@@ -1867,12 +1787,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-8-1-bb620f55be/
         name: Release - NNW Theme Bundle Version v1.8.1
-        content:
-          "<p>Themes New Fresh theme added to the bundle, and all themes have
+        content: "<p>Themes New Fresh theme added to the bundle, and all themes have
           support for YouTube video embeds and x.app link generation, Additionally
           all themes have been…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/nnw-theme-bundle-release-0a6890489292\">thechels.uk</a>.</p>"
-        published: "2026-05-09T14:00:00+00:00"
+        published: '2026-05-09T14:00:00+00:00'
         published_ts: 1778335200
       activity:
         type: link
@@ -1882,20 +1801,19 @@
     author: *49
     type: link
     title: Release - NNW Theme Bundle Version v1.8.1
-    content:
-      "<p>Themes New Fresh theme added to the bundle, and all themes have support
+    content: "<p>Themes New Fresh theme added to the bundle, and all themes have support
       for YouTube video embeds and x.app link generation, Additionally all themes
       have been…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/nnw-theme-bundle-release-0a6890489292\">thechels.uk</a>.</p>"
 "/2026-05-17-daily-rundown":
-  "1996864":
-    id: "1996864"
+  '1996864':
+    id: '1996864'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
     source: false
     pubdate: 2026-05-17 06:21:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
       verified: true
-      verified_date: "2026-05-17T07:13:07+00:00"
+      verified_date: '2026-05-17T07:13:07+00:00'
       id: 1996864
       private: false
       data:
@@ -1905,12 +1823,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-17-7dacdb8802/
         name: Daily - Daily Rundown for 2026-05-17
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Sunday, 17 May
+        content: "<p>Good Morning, Here is your daily briefing… On Sunday, 17 May
           2026 The average temperature today is 9.26˚C, With highs of 9.27˚C and lows
           of 8.25˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-17-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-17T05:21:00+00:00"
+        published: '2026-05-17T05:21:00+00:00'
         published_ts: 1778995260
       activity:
         type: link
@@ -1920,21 +1837,20 @@
     author: *50
     type: link
     title: Daily - Daily Rundown for 2026-05-17
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Sunday, 17 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Sunday, 17 May 2026
       The average temperature today is 9.26˚C, With highs of 9.27˚C and lows of 8.25˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-17-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-30-daily-rundown": {}
 "/weaknotes-2026-05-30":
-  "1999314":
-    id: "1999314"
+  '1999314':
+    id: '1999314'
     uri: https://nuchronic.uk/item/weaknotes-2026-05-30-8f67557826/
     source: false
     pubdate: 2026-05-30 12:52:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/weaknotes-2026-05-30-8f67557826/
       verified: true
-      verified_date: "2026-05-30T12:40:43+00:00"
+      verified_date: '2026-05-30T12:40:43+00:00'
       id: 1999314
       private: false
       data:
@@ -1944,11 +1860,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/weaknotes-2026-05-30-8f67557826/
         name: WeakNotes 2026-05-30
-        content:
-          "<p>Another week goes by and not much improvement. Feel like my baseline
+        content: "<p>Another week goes by and not much improvement. Feel like my baseline
           is dropping. MiL came to visit and helped massively by tidying up the overgrown
           garden -…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-05-30\">thechels.uk</a>.</p>"
-        published: "2026-05-30T11:52:00+00:00"
+        published: '2026-05-30T11:52:00+00:00'
         published_ts: 1780141920
       activity:
         type: link
@@ -1958,21 +1873,20 @@
     author: *51
     type: link
     title: WeakNotes 2026-05-30
-    content:
-      "<p>Another week goes by and not much improvement. Feel like my baseline
+    content: "<p>Another week goes by and not much improvement. Feel like my baseline
       is dropping. MiL came to visit and helped massively by tidying up the overgrown
       garden -…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-05-30\">thechels.uk</a>.</p>"
 "/londons-first-londons-finest": {}
 "/2026-05-02-daily-rundown":
-  "1994189":
-    id: "1994189"
+  '1994189':
+    id: '1994189'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
     source: false
     pubdate: 2026-05-02 06:50:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
       verified: true
-      verified_date: "2026-05-03T16:37:53+00:00"
+      verified_date: '2026-05-03T16:37:53+00:00'
       id: 1994189
       private: false
       data:
@@ -1983,7 +1897,7 @@
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-02-a12e972d52/
         name: Daily - Daily Rundown for 2026-05-02
         content: <p>Read the original article on <a href="https://thechels.uk/2026-05-02-daily-rundown">thechels.uk</a>.</p>
-        published: "2026-05-02T05:50:00+00:00"
+        published: '2026-05-02T05:50:00+00:00'
         published_ts: 1777701000
       activity:
         type: link
@@ -1995,15 +1909,15 @@
     title: Daily - Daily Rundown for 2026-05-02
     content: <p>Read the original article on <a href="https://thechels.uk/2026-05-02-daily-rundown">thechels.uk</a>.</p>
 "/nnw-theme-bundle-release-fc098d90d3fe":
-  "1994188":
-    id: "1994188"
+  '1994188':
+    id: '1994188'
     uri: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
     source: false
     pubdate: 2026-05-02 12:00:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
       verified: true
-      verified_date: "2026-05-03T16:37:53+00:00"
+      verified_date: '2026-05-03T16:37:53+00:00'
       id: 1994188
       private: false
       data:
@@ -2014,7 +1928,7 @@
         url: https://nuchronic.uk/item/release-nnw-theme-bundle-version-v1-6-2-da73f950a6/
         name: Release - NNW Theme Bundle Version v1.6.2
         content: <p>Read the original article on <a href="https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe">thechels.uk</a>.</p>
-        published: "2026-05-02T11:00:00+00:00"
+        published: '2026-05-02T11:00:00+00:00'
         published_ts: 1777719600
       activity:
         type: link
@@ -2026,15 +1940,15 @@
     title: Release - NNW Theme Bundle Version v1.6.2
     content: <p>Read the original article on <a href="https://thechels.uk/nnw-theme-bundle-release-fc098d90d3fe">thechels.uk</a>.</p>
 "/2026-05-10-daily-rundown":
-  "1995335":
-    id: "1995335"
+  '1995335':
+    id: '1995335'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
     source: false
     pubdate: 2026-05-10 06:18:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
       verified: true
-      verified_date: "2026-05-10T07:08:46+00:00"
+      verified_date: '2026-05-10T07:08:46+00:00'
       id: 1995335
       private: false
       data:
@@ -2044,12 +1958,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-10-f19deea2d9/
         name: Daily - Daily Rundown for 2026-05-10
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Sunday, 10 May
+        content: "<p>Good Morning, Here is your daily briefing… On Sunday, 10 May
           2026 The average temperature today is 9.43˚C, With highs of 9.73˚C and lows
           of 8.86˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-10-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-10T05:18:00+00:00"
+        published: '2026-05-10T05:18:00+00:00'
         published_ts: 1778390280
       activity:
         type: link
@@ -2059,20 +1972,19 @@
     author: *54
     type: link
     title: Daily - Daily Rundown for 2026-05-10
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Sunday, 10 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Sunday, 10 May 2026
       The average temperature today is 9.43˚C, With highs of 9.73˚C and lows of 8.86˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-10-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-18-daily-rundown":
-  "1997014":
-    id: "1997014"
+  '1997014':
+    id: '1997014'
     uri: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-18-0ecf8fedfb/
     source: false
     pubdate: 2026-05-18 06:37:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-18-0ecf8fedfb/
       verified: true
-      verified_date: "2026-05-18T07:44:35+00:00"
+      verified_date: '2026-05-18T07:44:35+00:00'
       id: 1997014
       private: false
       data:
@@ -2082,12 +1994,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/daily-daily-rundown-for-2026-05-18-0ecf8fedfb/
         name: Daily - Daily Rundown for 2026-05-18
-        content:
-          "<p>Good Morning, Here is your daily briefing… On Monday, 18 May
+        content: "<p>Good Morning, Here is your daily briefing… On Monday, 18 May
           2026 The average temperature today is 8.55˚C, With highs of 8.72˚C and lows
           of 8.17˚C, It may fe…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/2026-05-18-daily-rundown\">thechels.uk</a>.</p>"
-        published: "2026-05-18T05:37:00+00:00"
+        published: '2026-05-18T05:37:00+00:00'
         published_ts: 1779082620
       activity:
         type: link
@@ -2097,8 +2008,7 @@
     author: *55
     type: link
     title: Daily - Daily Rundown for 2026-05-18
-    content:
-      "<p>Good Morning, Here is your daily briefing… On Monday, 18 May 2026
+    content: "<p>Good Morning, Here is your daily briefing… On Monday, 18 May 2026
       The average temperature today is 8.55˚C, With highs of 8.72˚C and lows of 8.17˚C,
       It may fe…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/2026-05-18-daily-rundown\">thechels.uk</a>.</p>"
 "/2026-05-31-daily-rundown": {}
@@ -2140,15 +2050,15 @@
 "/2026-06-05-daily-rundown": {}
 "/body-language-text-terry-godier": {}
 "/microsoft-wanted-to-make-addictive-ai":
-  "2000829":
-    id: "2000829"
+  '2000829':
+    id: '2000829'
     uri: https://ap.brid.gy/convert/web/https://mastodon.social/users/nonzerosumjames%23likes/297045419
     source: false
     pubdate: 2026-06-05 23:56:55.000000000 +00:00
     raw:
       source: https://ap.brid.gy/convert/web/https://mastodon.social/users/nonzerosumjames%23likes/297045419
       verified: true
-      verified_date: "2026-06-05T23:56:55+00:00"
+      verified_date: '2026-06-05T23:56:55+00:00'
       id: 2000829
       private: false
       data:
@@ -2158,8 +2068,7 @@
           photo: https://avatars.webmention.io/files.mastodon.social/6e8596b5d519c03e0aa77f833ed8fda3c20964599edd5ea406810f0868dcd233.png
         url: https://ap.brid.gy/convert/web/https://mastodon.social/users/nonzerosumjames%23likes/297045419
         name:
-        content:
-          <a href="https://thechels.uk/microsoft-wanted-to-make-addictive-ai">likes
+        content: <a href="https://thechels.uk/microsoft-wanted-to-make-addictive-ai">likes
           this.</a>
         published:
         published_ts:
@@ -2168,20 +2077,20 @@
       target: https://thechels.uk/microsoft-wanted-to-make-addictive-ai
     author: *56
     type: like
-    content: ""
+    content: ''
 "/cool-down-before-you-install-gems-to-be-vetted": {}
 "/df-quoting-daniel-jalkut-on-ai": {}
 "/2026-06-06-daily-rundown": {}
 "/weaknotes-2026-06-05":
-  "2000932":
-    id: "2000932"
+  '2000932':
+    id: '2000932'
     uri: https://nuchronic.uk/item/weaknotes-2026-06-05-1e1fda102a/
     source: false
     pubdate: 2026-06-06 14:06:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/weaknotes-2026-06-05-1e1fda102a/
       verified: true
-      verified_date: "2026-06-06T13:40:50+00:00"
+      verified_date: '2026-06-06T13:40:50+00:00'
       id: 2000932
       private: false
       data:
@@ -2191,11 +2100,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/weaknotes-2026-06-05-1e1fda102a/
         name: WeakNotes 2026-06-05
-        content:
-          "<p>Reworked the projects/apps pages for this here website by creating
+        content: "<p>Reworked the projects/apps pages for this here website by creating
           each project as a separate file in a _projects collection with a project
           index page and a…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-06-05\">thechels.uk</a>.</p>"
-        published: "2026-06-06T13:06:00+00:00"
+        published: '2026-06-06T13:06:00+00:00'
         published_ts: 1780751160
       activity:
         type: link
@@ -2205,8 +2113,7 @@
     author: *57
     type: link
     title: WeakNotes 2026-06-05
-    content:
-      "<p>Reworked the projects/apps pages for this here website by creating
+    content: "<p>Reworked the projects/apps pages for this here website by creating
       each project as a separate file in a _projects collection with a project index
       page and a…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-06-05\">thechels.uk</a>.</p>"
 "/thechels-uk-release-2c1ec36f0b2b": {}
@@ -2398,14 +2305,12 @@
 "/tests-should-build-confidence": {}
 "/catchphrases-in-how-to-safely-think-in-systems": {}
 "/How-to-Handle-Confidence-and-Competence": {}
-"/Story-sizes-in-agile-development-should-be-as-close-to-one-day-as-possible":
-  {}
+"/Story-sizes-in-agile-development-should-be-as-close-to-one-day-as-possible": {}
 "/a-brief-intro-to-clean-architecture,-clean-ddd,-and-cqrs": {}
 "/everything-you-need-to-know-about-cyber-crisis-tabletop-exercises": {}
 "/five-methods-of-facilitation-for-collaborative-meetings": {}
 "/good-news-iam-is-near-universal-with-saas": {}
-"/migrating-oidc-client-js-to-use-the-openid-connect-authorization-code-flow-and-pkce":
-  {}
+"/migrating-oidc-client-js-to-use-the-openid-connect-authorization-code-flow-and-pkce": {}
 "/monoliths,-microservices-and-multitenancy-software-alchemy": {}
 "/shift-left-security": {}
 "/a-new-standard-of-testing-for-technology-in-government": {}
@@ -2427,8 +2332,7 @@
 "/charles'-rules-of-argument": {}
 "/cynefin-the-four-frameworks-of-portfolio-management": {}
 "/devops-culture-creating-better-performance": {}
-"/factors-to-consider-when-architecting-systems-that-uses-third-party-systems":
-  {}
+"/factors-to-consider-when-architecting-systems-that-uses-third-party-systems": {}
 "/from-individual-readmes-and-user-manuals-to-group-working-agreements": {}
 "/how-7-engineers-rethought-their-work-calendars": {}
 "/how-to-freaking-find-great-developers-by-having-them-read-code": {}
@@ -2486,8 +2390,7 @@
 "/We-need-to-talk": {}
 "/dimensions-of-engineering-growth": {}
 "/start-test-names-with-should": {}
-"/Contractions-can-lead-to-an-increase-in-the-mental-effort-required-to-read-them":
-  {}
+"/Contractions-can-lead-to-an-increase-in-the-mental-effort-required-to-read-them": {}
 "/retry-patterns": {}
 "/career-checkup-template": {}
 "/60-per-cent-of-brits-on-80,000-100,000-say-they-re-about-average": {}
@@ -2497,15 +2400,13 @@
 "/gtd-in-15-minutes-a-pragmatic-guide-to-getting-things-done": {}
 "/higher-rate-relief-via-swiftaid-gift-aid-made-easy": {}
 "/honesty-is-a-professional-behaviour": {}
-"/introducing-entitlements-github's-open-source-identity-and-access-management-solution":
-  {}
+"/introducing-entitlements-github's-open-source-identity-and-access-management-solution": {}
 "/making-a-compelling-offer-in-this-economy": {}
 "/no-one-knows-what-they-are-doing": {}
 "/push-testing-left-by-testing-user-stories": {}
 "/thinking-in-bets": {}
 "/trunk-based-vs.-feature-based-development": {}
-"/5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows":
-  {}
+"/5-simple-things-you-can-do-with-github-packages-to-level-up-your-workflows": {}
 "/ep17-design-patterns-cheat-sheet": {}
 "/terraform-modules-create-reusable-infrastructure-as-code": {}
 "/free-share-offer": {}
@@ -2686,8 +2587,7 @@
 "/optimising-for-openness": {}
 "/optimising-for-speed-and-quality": {}
 "/optimising-for-teams": {}
-"/apple-shareholders-resoundingly-reject-proposal-to-ditch-inclusion-and-diversity-policies":
-  {}
+"/apple-shareholders-resoundingly-reject-proposal-to-ditch-inclusion-and-diversity-policies": {}
 "/questions-for-the-end-of-a-one-to-one": {}
 "/mixtape-music-03-2025": {}
 "/deleting-18f": {}
@@ -2770,10 +2670,8 @@
 "/sam-and-jony-introduce-io": {}
 "/this-is-fine": {}
 "/1-Lynn-roberts-post-linkedin": {}
-"/exclusive-ios-26-to-bring-new-features-for-messages-carplay-and-more-9to5mac":
-  {}
-"/extract-text-from-pdf-files-with-python-for-use-in-generative-ai-and-rag-solutions-build5nines":
-  {}
+"/exclusive-ios-26-to-bring-new-features-for-messages-carplay-and-more-9to5mac": {}
+"/extract-text-from-pdf-files-with-python-for-use-in-generative-ai-and-rag-solutions-build5nines": {}
 "/inessential-weblog": {}
 "/it-s-not-your-codebase-sean-goedecke": {}
 "/moving-from-notion-to-obsidian-daverupert-com": {}
@@ -2813,8 +2711,7 @@
 "/you-should-probably-leave-substack": {}
 "/castro-adds-device-sync": {}
 "/key-genetic-differences-found-in-people-with-cfs": {}
-"/perplexity-is-using-stealth,-undeclared-crawlers-to-evade-website-no-crawl-directives":
-  {}
+"/perplexity-is-using-stealth,-undeclared-crawlers-to-evade-website-no-crawl-directives": {}
 "/quoting-reddit-user-on-giving-up-work": {}
 "/the-privacy-crushing-failure-everyone-warned-about": {}
 "/sideloading-audiobooks-to-an-iphone": {}
@@ -2864,8 +2761,7 @@
 "/quoting-jim-nielsen-on-apple": {}
 "/the-only-moat-left-is-knowing-things": {}
 "/the-uk-paid-4.1-million-for-a-bookmarks-site": {}
-"/jeffrey-paul-discord-is-not-an-acceptable-choice-for-free-software-projects":
-  {}
+"/jeffrey-paul-discord-is-not-an-acceptable-choice-for-free-software-projects": {}
 "/cancel-apple-subscription": {}
 "/change-airtag-battery": {}
 "/delete-whatsapp": {}
@@ -2908,15 +2804,15 @@
 "/infantino-and-trump-collusion": {}
 "/2026-06-11-daily-rundown": {}
 "/chronic-illness-bloggers":
-  "2001928":
-    id: "2001928"
+  '2001928':
+    id: '2001928'
     uri: https://nuchronic.uk/item/calling-chronic-illness-bloggers-0189896df9/
     source: false
     pubdate: 2026-06-11 17:18:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/calling-chronic-illness-bloggers-0189896df9/
       verified: true
-      verified_date: "2026-06-11T17:27:03+00:00"
+      verified_date: '2026-06-11T17:27:03+00:00'
       id: 2001928
       private: false
       data:
@@ -2926,11 +2822,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/calling-chronic-illness-bloggers-0189896df9/
         name: Calling Chronic Illness Bloggers
-        content:
-          "<p>I am on the lookout for content producers who suffer from a chronic
+        content: "<p>I am on the lookout for content producers who suffer from a chronic
           illness to add to my growing indie web thing nuchronic.uk - it’s a reddit,
           hacker news, o…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/chronic-illness-bloggers\">thechels.uk</a>.</p>"
-        published: "2026-06-11T16:18:00+00:00"
+        published: '2026-06-11T16:18:00+00:00'
         published_ts: 1781194680
       activity:
         type: link
@@ -2940,8 +2835,7 @@
     author: *58
     type: link
     title: Calling Chronic Illness Bloggers
-    content:
-      "<p>I am on the lookout for content producers who suffer from a chronic
+    content: "<p>I am on the lookout for content producers who suffer from a chronic
       illness to add to my growing indie web thing nuchronic.uk - it’s a reddit, hacker
       news, o…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/chronic-illness-bloggers\">thechels.uk</a>.</p>"
 "/new-tax-year,-new-plan": {}
@@ -2952,19 +2846,18 @@
 "/confidential-health-records-uk-biobank-exposed": {}
 "/my-disability": {}
 "/optimizing-content-for-agents": {}
-"/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo":
-  {}
+"/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo": {}
 "/boring-tiny-tools": {}
 "/community-letter-from-tim-apple":
-  "1991423":
-    id: "1991423"
+  '1991423':
+    id: '1991423'
     uri: https://bsky.app/profile/thechels.uk/post/3mjxuhqxw2q2r#liked_by_did:plc:frpkvbrtpqugqghzpxrrxuxc
     source: false
     pubdate: 2026-04-21 07:20:28.000000000 +00:00
     raw:
       source: https://brid.gy/like/bluesky/did:plc:dz7xwi7wgfyzk4oemurkomax/at%253A%252F%252Fdid%253Aplc%253Adz7xwi7wgfyzk4oemurkomax%252Fapp.bsky.feed.post%252F3mjxuhqxw2q2r/did%253Aplc%253Afrpkvbrtpqugqghzpxrrxuxc
       verified: true
-      verified_date: "2026-04-21T07:20:28+00:00"
+      verified_date: '2026-04-21T07:20:28+00:00'
       id: 1991423
       private: false
       data:
@@ -2982,23 +2875,23 @@
       target: https://thechels.uk/community-letter-from-tim-apple
     author: *59
     type: like
-    content: ""
-  "1991371":
-    id: "1991371"
+    content: ''
+  '1991371':
+    id: '1991371'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjxuhqxw2q2r
     source: false
     pubdate: 2026-04-21 02:05:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjxuhqxw2q2r%23bridgy-fed-create-2026-04-21T01:48:09.913935+00:00
       verified: true
-      verified_date: "2026-04-21T01:48:13+00:00"
+      verified_date: '2026-04-21T01:48:13+00:00'
       id: 1991371
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjxuhqxw2q2r
         name:
         content: Community Letter from Tim Apple (<a href="https://thechels.uk/community-letter-from-tim-apple">https://thechels.uk/community-letter-from-tim-apple</a>)
-        published: "2026-04-21T01:05:00+00:00"
+        published: '2026-04-21T01:05:00+00:00'
         published_ts: 1776733500
       activity:
         type: link
@@ -3013,15 +2906,15 @@
 "/ai-economics-for-dummies": {}
 "/2026-06-13-daily-rundown": {}
 "/weaknotes-2026-06-13":
-  "2002242":
-    id: "2002242"
+  '2002242':
+    id: '2002242'
     uri: https://nuchronic.uk/item/weaknotes-2026-06-13-58a84148e6/
     source: false
     pubdate: 2026-06-13 10:17:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/weaknotes-2026-06-13-58a84148e6/
       verified: true
-      verified_date: "2026-06-13T10:57:29+00:00"
+      verified_date: '2026-06-13T10:57:29+00:00'
       id: 2002242
       private: false
       data:
@@ -3031,12 +2924,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/weaknotes-2026-06-13-58a84148e6/
         name: WeakNotes 2026-06-13
-        content:
-          "<p>The World Cup is underway, watching football takes my mind off
+        content: "<p>The World Cup is underway, watching football takes my mind off
           the pain, insomnia, and helps the passing of time… cannot remember the key
           details post match,…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/weaknotes-2026-06-13\">thechels.uk</a>.</p>"
-        published: "2026-06-13T09:17:00+00:00"
+        published: '2026-06-13T09:17:00+00:00'
         published_ts: 1781342220
       activity:
         type: link
@@ -3046,8 +2938,7 @@
     author: *60
     type: link
     title: WeakNotes 2026-06-13
-    content:
-      "<p>The World Cup is underway, watching football takes my mind off the
+    content: "<p>The World Cup is underway, watching football takes my mind off the
       pain, insomnia, and helps the passing of time… cannot remember the key details
       post match,…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-06-13\">thechels.uk</a>.</p>"
 "/chelseastats-mac-and-ios-setup-the-sweet-setup": {}
@@ -3065,22 +2956,22 @@
 "/sunsetting-jazzband-in-the-slopocalypse": {}
 "/meta-is-to-lay-off-20-of-its-staff-shocker": {}
 "/video-me-is-in-our-blood-not-our-minds-50f9eecb":
-  "1991284":
-    id: "1991284"
+  '1991284':
+    id: '1991284'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlul7udz2z
     source: false
     pubdate: 2026-04-16 01:00:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjwlul7udz2z%23bridgy-fed-create-2026-04-20T13:41:37.218330+00:00
       verified: true
-      verified_date: "2026-04-20T13:41:40+00:00"
+      verified_date: '2026-04-20T13:41:40+00:00'
       id: 1991284
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlul7udz2z
         name:
         content: ME is In our blood, not our minds. (<a href="https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb">https://thechels.uk/video-me-is-in-our-blood-not-our-minds-50f9eecb</a>)
-        published: "2026-04-16T00:00:00+00:00"
+        published: '2026-04-16T00:00:00+00:00'
         published_ts: 1776297600
       activity:
         type: link
@@ -3096,15 +2987,15 @@
 "/2026-04-24-daily-rundown": {}
 "/2026-06-16-daily-rundown": {}
 "/version-1-7":
-  "1981403":
-    id: "1981403"
+  '1981403':
+    id: '1981403'
     uri: https://thechels.uk/making-an-rss-only-feed-with-jekyll
     source: false
     pubdate: 2026-03-07 04:28:08.000000000 +00:00
     raw:
       source: https://thechels.uk/making-an-rss-only-feed-with-jekyll
       verified: true
-      verified_date: "2026-03-07T04:28:08+00:00"
+      verified_date: '2026-03-07T04:28:08+00:00'
       id: 1981403
       private: false
       data:
@@ -3120,15 +3011,14 @@
       target: https://thechels.uk/version-1-7
     author:
     type: link
-    content: ""
+    content: ''
 "/age-verification-vendor-persona-left-frontend-exposed": {}
 "/pink-noise-reduces-rem-sleep-and-may-harm-sleep-quality": {}
 "/racism-is-rife-and-emboldened-by-politics-and-inaction": {}
 "/the-ai-vampire": {}
 "/gdpr-is-a-failure": {}
 "/government-to-crack-down-on-gambling-operator-sport-sponsorship": {}
-"/privacy-expert-reveals-what-happens-to-your-personal-data-when-getting-verified-on-linkedin":
-  {}
+"/privacy-expert-reveals-what-happens-to-your-personal-data-when-getting-verified-on-linkedin": {}
 "/every-layer-of-review-makes-you-10x-slower": {}
 "/netnewswire-theme": {}
 "/new-drafts-action-google-search": {}
@@ -3137,22 +3027,22 @@
 "/til-2046": {}
 "/pompidou-section-2-ways-and-means": {}
 "/boinc-thechelsuk-release-92779a36ebd5":
-  "1991108":
-    id: "1991108"
+  '1991108':
+    id: '1991108'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3u7voy2r
     source: false
     pubdate: 2026-04-18 01:00:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk3u7voy2r%23bridgy-fed-create-2026-04-19T08:31:53.663288+00:00
       verified: true
-      verified_date: "2026-04-19T08:31:59+00:00"
+      verified_date: '2026-04-19T08:31:59+00:00'
       id: 1991108
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3u7voy2r
         name:
         content: Boinc @ thechelsuk Version 1.0.0 (<a href="https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5">https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5</a>)
-        published: "2026-04-18T00:00:00+00:00"
+        published: '2026-04-18T00:00:00+00:00'
         published_ts: 1776470400
       activity:
         type: link
@@ -3161,22 +3051,22 @@
     type: link
     content: Boinc @ thechelsuk Version 1.0.0 (<a href="https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5">https://thechels.uk/boinc-thechelsuk-release-92779a36ebd5</a>)
 "/hiyd-uk-release-f4dbd6b5f96a":
-  "1991109":
-    id: "1991109"
+  '1991109':
+    id: '1991109'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3z45nc2c
     source: false
     pubdate: 2026-04-18 01:00:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk3z45nc2c%23bridgy-fed-create-2026-04-19T08:31:58.658153+00:00
       verified: true
-      verified_date: "2026-04-19T08:32:02+00:00"
+      verified_date: '2026-04-19T08:32:02+00:00'
       id: 1991109
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk3z45nc2c
         name:
         content: Hiyd.uk Version 1.0.0 (<a href="https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a">https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a</a>)
-        published: "2026-04-18T00:00:00+00:00"
+        published: '2026-04-18T00:00:00+00:00'
         published_ts: 1776470400
       activity:
         type: link
@@ -3185,22 +3075,22 @@
     type: link
     content: Hiyd.uk Version 1.0.0 (<a href="https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a">https://thechels.uk/hiyd-uk-release-f4dbd6b5f96a</a>)
 "/nuchronic-uk-release-8921420fa8d0":
-  "1991110":
-    id: "1991110"
+  '1991110':
+    id: '1991110'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk456qvn2o
     source: false
     pubdate: 2026-04-18 01:00:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk456qvn2o%23bridgy-fed-create-2026-04-19T08:32:02.947985+00:00
       verified: true
-      verified_date: "2026-04-19T08:32:07+00:00"
+      verified_date: '2026-04-19T08:32:07+00:00'
       id: 1991110
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk456qvn2o
         name:
         content: Nuchronic.uk Version 1.0.0 (<a href="https://thechels.uk/nuchronic-uk-release-8921420fa8d0">https://thechels.uk/nuchronic-uk-release-8921420fa8d0</a>)
-        published: "2026-04-18T00:00:00+00:00"
+        published: '2026-04-18T00:00:00+00:00'
         published_ts: 1776470400
       activity:
         type: link
@@ -3209,22 +3099,22 @@
     type: link
     content: Nuchronic.uk Version 1.0.0 (<a href="https://thechels.uk/nuchronic-uk-release-8921420fa8d0">https://thechels.uk/nuchronic-uk-release-8921420fa8d0</a>)
 "/search-router-release-1cdb845ee4e8":
-  "1991111":
-    id: "1991111"
+  '1991111':
+    id: '1991111'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4di3i62y
     source: false
     pubdate: 2026-04-18 01:00:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk4di3i62y%23bridgy-fed-create-2026-04-19T08:32:09.594532+00:00
       verified: true
-      verified_date: "2026-04-19T08:32:12+00:00"
+      verified_date: '2026-04-19T08:32:12+00:00'
       id: 1991111
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4di3i62y
         name:
         content: Search Router Version 1.0.0 (<a href="https://thechels.uk/search-router-release-1cdb845ee4e8">https://thechels.uk/search-router-release-1cdb845ee4e8</a>)
-        published: "2026-04-18T00:00:00+00:00"
+        published: '2026-04-18T00:00:00+00:00'
         published_ts: 1776470400
       activity:
         type: link
@@ -3233,22 +3123,22 @@
     type: link
     content: Search Router Version 1.0.0 (<a href="https://thechels.uk/search-router-release-1cdb845ee4e8">https://thechels.uk/search-router-release-1cdb845ee4e8</a>)
 "/tools-release-e59871ae14ad":
-  "1991112":
-    id: "1991112"
+  '1991112':
+    id: '1991112'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4imuw62y
     source: false
     pubdate: 2026-04-18 01:00:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjtk4imuw62y%23bridgy-fed-create-2026-04-19T08:32:14.830145+00:00
       verified: true
-      verified_date: "2026-04-19T08:32:17+00:00"
+      verified_date: '2026-04-19T08:32:17+00:00'
       id: 1991112
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjtk4imuw62y
         name:
         content: Tools Version 1.0.0 (<a href="https://thechels.uk/tools-release-e59871ae14ad">https://thechels.uk/tools-release-e59871ae14ad</a>)
-        published: "2026-04-18T00:00:00+00:00"
+        published: '2026-04-18T00:00:00+00:00'
         published_ts: 1776470400
       activity:
         type: link
@@ -3257,22 +3147,22 @@
     type: link
     content: Tools Version 1.0.0 (<a href="https://thechels.uk/tools-release-e59871ae14ad">https://thechels.uk/tools-release-e59871ae14ad</a>)
 "/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed":
-  "1991285":
-    id: "1991285"
+  '1991285':
+    id: '1991285'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlup7ybe2y
     source: false
     pubdate: 2026-04-18 01:00:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjwlup7ybe2y%23bridgy-fed-create-2026-04-20T13:41:42.137818+00:00
       verified: true
-      verified_date: "2026-04-20T13:41:44+00:00"
+      verified_date: '2026-04-20T13:41:44+00:00'
       id: 1991285
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjwlup7ybe2y
         name:
         content: Shortkeys app for multi-line text replacement (<a href="https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed">https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed</a>)
-        published: "2026-04-18T00:00:00+00:00"
+        published: '2026-04-18T00:00:00+00:00'
         published_ts: 1776470400
       activity:
         type: link
@@ -3282,22 +3172,22 @@
     content: Shortkeys app for multi-line text replacement (<a href="https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed">https://thechels.uk/video-shortkeys-app-for-multi-line-text-replacement-5dd7bbed</a>)
 "/ai-and-personal-software-adapters": {}
 "/prescribing-rss-and-curation":
-  "1991080":
-    id: "1991080"
+  '1991080':
+    id: '1991080'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjt3j5qumn2o
     source: false
     pubdate: 2026-04-19 00:28:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjt3j5qumn2o%23bridgy-fed-create-2026-04-19T04:10:54.694412+00:00
       verified: true
-      verified_date: "2026-04-19T04:11:00+00:00"
+      verified_date: '2026-04-19T04:11:00+00:00'
       id: 1991080
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjt3j5qumn2o
         name:
         content: Prescribing a course of RSS and Curation (<a href="https://thechels.uk/prescribing-rss-and-curation">https://thechels.uk/prescribing-rss-and-curation</a>)
-        published: "2026-04-18T23:28:00+00:00"
+        published: '2026-04-18T23:28:00+00:00'
         published_ts: 1776554880
       activity:
         type: link
@@ -3310,15 +3200,15 @@
 "/2026-06-17-daily-rundown": {}
 "/how-to-find-stale-feeds-with-the-dinosaurs-window": {}
 "/embracing-the-quartering-of-football":
-  "2003363":
-    id: "2003363"
+  '2003363':
+    id: '2003363'
     uri: https://nuchronic.uk/item/embracing-the-quartering-of-football-a11ff482a5/
     source: false
     pubdate: 2026-06-17 21:41:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/embracing-the-quartering-of-football-a11ff482a5/
       verified: true
-      verified_date: "2026-06-17T21:47:21+00:00"
+      verified_date: '2026-06-17T21:47:21+00:00'
       id: 2003363
       private: false
       data:
@@ -3328,12 +3218,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/embracing-the-quartering-of-football-a11ff482a5/
         name: Embracing the quartering of football
-        content:
-          "<p>During the World Cup all games adopted hydration breaks, all
+        content: "<p>During the World Cup all games adopted hydration breaks, all
           games regardless of the weather in order to make it fair. There is quite
           a bit of discourse arou…</p>\n\n        \n        <p>Continue reading at
           <a href=\"https://thechels.uk/embracing-the-quartering-of-football\">thechels.uk</a>.</p>"
-        published: "2026-06-17T20:41:00+00:00"
+        published: '2026-06-17T20:41:00+00:00'
         published_ts: 1781728860
       activity:
         type: link
@@ -3343,19 +3232,18 @@
     author: *61
     type: link
     title: Embracing the quartering of football
-    content:
-      "<p>During the World Cup all games adopted hydration breaks, all games
+    content: "<p>During the World Cup all games adopted hydration breaks, all games
       regardless of the weather in order to make it fair. There is quite a bit of
       discourse arou…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/embracing-the-quartering-of-football\">thechels.uk</a>.</p>"
-  "2003390":
-    id: "2003390"
+  '2003390':
+    id: '2003390'
     uri: https://www.newsflashtom.club/2026/06/17/hacker-news-but-for-independent-blogs/
     source: false
     pubdate: 2026-06-17 08:49:00.000000000 +01:00
     raw:
       source: https://www.newsflashtom.club/2026/06/17/hacker-news-but-for-independent-blogs/
       verified: true
-      verified_date: "2026-06-18T01:24:01+00:00"
+      verified_date: '2026-06-18T01:24:01+00:00'
       id: 2003390
       private: false
       data:
@@ -3370,7 +3258,7 @@
 
 
           <p><a href="https://bubbles.town/">Read More</a></p>
-        published: "2026-06-17T07:49:00+00:00"
+        published: '2026-06-17T07:49:00+00:00'
         published_ts: 1781682540
       activity:
         type: link
@@ -3387,22 +3275,22 @@
 "/the-trump-paradox": {}
 "/2026-06-18-daily-rundown": {}
 "/thechels-uk-release-f537425cbf0b":
-  "1991323":
-    id: "1991323"
+  '1991323':
+    id: '1991323'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjx4emezd525
     source: false
     pubdate: 2026-04-20 01:00:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mjx4emezd525%23bridgy-fed-create-2026-04-20T18:36:54.064604+00:00
       verified: true
-      verified_date: "2026-04-20T18:37:01+00:00"
+      verified_date: '2026-04-20T18:37:01+00:00'
       id: 1991323
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mjx4emezd525
         name:
         content: Thechels.uk Version 1.11.0 (<a href="https://thechels.uk/thechels-uk-release-f537425cbf0b">https://thechels.uk/thechels-uk-release-f537425cbf0b</a>)
-        published: "2026-04-20T00:00:00+00:00"
+        published: '2026-04-20T00:00:00+00:00'
         published_ts: 1776643200
       activity:
         type: link
@@ -3422,22 +3310,22 @@
 "/github-copilot-drops-opus,-pauses-new-pro-users": {}
 "/2026-06-20-daily-rundown": {}
 "/pc-gamer-loads-half-a-gigabyte-of-ads":
-  "1985603":
-    id: "1985603"
+  '1985603':
+    id: '1985603'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mholzlpizr2c
     source: false
     pubdate: 2026-03-22 00:00:00.000000000 +00:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mholzlpizr2c%23bridgy-fed-create-2026-03-22T22:32:43.619055+00:00
       verified: true
-      verified_date: "2026-03-22T22:32:47+00:00"
+      verified_date: '2026-03-22T22:32:47+00:00'
       id: 1985603
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mholzlpizr2c
         name:
         content: PC Gamer loads half a gigabyte of ads (<a href="https://thechels.uk/pc-gamer-loads-half-a-gigabyte-of-ads">https://thechels.uk/pc-gamer-loads-half-a-gigabyte-of-ads</a>)
-        published: "2026-03-22T00:00:00+00:00"
+        published: '2026-03-22T00:00:00+00:00'
         published_ts: 1774137600
       activity:
         type: link
@@ -3488,8 +3376,7 @@
 "/link/london-gazette": {}
 "/link/chelseastats-mac-and-ios-setup-the-sweet-setup": {}
 "/link/me-handbook": {}
-"/link/the-updated-nice-guidance-exposed-the-serious-flaws-in-cbt-and-graded-exercise-therapy-trials-for-mecfs":
-  {}
+"/link/the-updated-nice-guidance-exposed-the-serious-flaws-in-cbt-and-graded-exercise-therapy-trials-for-mecfs": {}
 "/link/make-things-open-reading-list": {}
 "/link/github-hannesehme-cfs-research-summaries": {}
 "/link/as-my-daughter-got-sick": {}
@@ -3569,22 +3456,22 @@
 "/more-news-on-castro": {}
 "/k-is-for-k.i.s.s": {}
 "/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer":
-  "1986259":
-    id: "1986259"
+  '1986259':
+    id: '1986259'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhtpx3xebo2o
     source: false
     pubdate: 2026-03-24 00:00:00.000000000 +00:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mhtpx3xebo2o%23bridgy-fed-create-2026-03-24T23:26:13.537968+00:00
       verified: true
-      verified_date: "2026-03-24T23:26:16+00:00"
+      verified_date: '2026-03-24T23:26:16+00:00'
       id: 1986259
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhtpx3xebo2o
         name:
         content: Incidence of ME peaks in adolescence or early middle age (<a href="https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer">https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer</a>)
-        published: "2026-03-24T00:00:00+00:00"
+        published: '2026-03-24T00:00:00+00:00'
         published_ts: 1774310400
       activity:
         type: link
@@ -3593,15 +3480,15 @@
     type: link
     content: Incidence of ME peaks in adolescence or early middle age (<a href="https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer">https://thechels.uk/incidence-of-me-peaks-in-adolescence-or-early-middle-age-institute-of-genetics-and-cancer-institute-of-genetics-and-cancer</a>)
 "/monthly-mixtape-mar-2026":
-  "1986898":
-    id: "1986898"
+  '1986898':
+    id: '1986898'
     uri: https://bsky.app/profile/thechels.uk/post/3mhubcpfuf22t#liked_by_did:plc:wv2gr2o7ax7r3ns5yjcyckgm
     source: false
     pubdate: 2026-03-28 20:35:58.000000000 +00:00
     raw:
       source: https://brid.gy/like/bluesky/did:plc:dz7xwi7wgfyzk4oemurkomax/at%253A%252F%252Fdid%253Aplc%253Adz7xwi7wgfyzk4oemurkomax%252Fapp.bsky.feed.post%252F3mhubcpfuf22t/did%253Aplc%253Awv2gr2o7ax7r3ns5yjcyckgm
       verified: true
-      verified_date: "2026-03-28T20:35:58+00:00"
+      verified_date: '2026-03-28T20:35:58+00:00'
       id: 1986898
       private: false
       data:
@@ -3619,16 +3506,16 @@
       target: https://thechels.uk/monthly-mixtape-mar-2026
     author: *63
     type: like
-    content: ""
-  "1987726":
-    id: "1987726"
+    content: ''
+  '1987726':
+    id: '1987726'
     uri: https://bsky.app/profile/thechels.uk/post/3mhubcpfuf22t#reposted_by_did:plc:dz7xwi7wgfyzk4oemurkomax
     source: false
     pubdate: 2026-04-01 04:05:51.000000000 +00:00
     raw:
       source: https://brid.gy/repost/bluesky/did:plc:dz7xwi7wgfyzk4oemurkomax/at%253A%252F%252Fdid%253Aplc%253Adz7xwi7wgfyzk4oemurkomax%252Fapp.bsky.feed.post%252F3mhubcpfuf22t/did%253Aplc%253Adz7xwi7wgfyzk4oemurkomax
       verified: true
-      verified_date: "2026-04-01T04:05:51+00:00"
+      verified_date: '2026-04-01T04:05:51+00:00'
       id: 1987726
       private: false
       data:
@@ -3646,51 +3533,49 @@
       target: https://thechels.uk/monthly-mixtape-mar-2026
     author: *64
     type: repost
-    content: ""
-  "1986278":
-    id: "1986278"
+    content: ''
+  '1986278':
+    id: '1986278'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t
     source: false
     pubdate: 2026-03-25 04:36:55.000000000 +00:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mhubcpfuf22t%23bridgy-fed-create-2026-03-25T04:36:58.779035+00:00
       verified: true
-      verified_date: "2026-03-25T04:37:05+00:00"
+      verified_date: '2026-03-25T04:37:05+00:00'
       id: 1986278
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t
         name:
-        content:
-          "Here is some music I’ve been listening to in March. <a href=\"https://thechels.uk/monthly-mixtape-mar-2026\">thechels.uk/monthly-mixt...</a>\n\nYou
+        content: "Here is some music I’ve been listening to in March. <a href=\"https://thechels.uk/monthly-mixtape-mar-2026\">thechels.uk/monthly-mixt...</a>\n\nYou
           can listen along on Apple Music too <a href=\"https://music.apple.com/gb/playlist/2026-03-mixtape/pl.u-aZb0Dz0tPmoMzz\">music.apple.com/gb/playlist/...</a>\n\n<a
           href=\"https://bsky.app/search?q=%23Morrissey\">#Morrissey</a> <a href=\"https://bsky.app/search?q=%23BRMC\">#BRMC</a>
           <a href=\"https://bsky.app/search?q=%23Suede\">#Suede</a> <a href=\"https://bsky.app/search?q=%23DeclanMcKenna\">#DeclanMcKenna</a>
           \n<a href=\"https://bsky.app/search?q=%23Pulp\">#Pulp</a> <a href=\"https://bsky.app/search?q=%23Radiohead\">#Radiohead</a>
           <a href=\"https://bsky.app/search?q=%23REM\">#REM</a> <a href=\"https://bsky.app/search?q=%23RadioMoscow\">#RadioMoscow</a>"
-        published: "2026-03-25T04:36:55+00:00"
+        published: '2026-03-25T04:36:55+00:00'
         published_ts: 1774413415
       activity:
         type: link
       target: https://thechels.uk/monthly-mixtape-mar-2026
     author:
     type: link
-    content:
-      "Here is some music I’ve been listening to in March. <a href=\"https://thechels.uk/monthly-mixtape-mar-2026\">thechels.uk/monthly-mixt...</a>\n\nYou
+    content: "Here is some music I’ve been listening to in March. <a href=\"https://thechels.uk/monthly-mixtape-mar-2026\">thechels.uk/monthly-mixt...</a>\n\nYou
       can listen along on Apple Music too <a href=\"https://music.apple.com/gb/playlist/2026-03-mixtape/pl.u-aZb0Dz0tPmoMzz\">music.apple.com/gb/playlist/...</a>\n\n<a
       href=\"https://bsky.app/search?q=%23Morrissey\">#Morrissey</a> <a href=\"https://bsky.app/search?q=%23BRMC\">#BRMC</a>
       <a href=\"https://bsky.app/search?q=%23Suede\">#Suede</a> <a href=\"https://bsky.app/search?q=%23DeclanMcKenna\">#DeclanMcKenna</a>
       \n<a href=\"https://bsky.app/search?q=%23Pulp\">#Pulp</a> <a href=\"https://bsky.app/search?q=%23Radiohead\">#Radiohead</a>
       <a href=\"https://bsky.app/search?q=%23REM\">#REM</a> <a href=\"https://bsky.app/search?q=%23RadioMoscow\">#RadioMoscow</a>"
-  "1987724":
-    id: "1987724"
+  '1987724':
+    id: '1987724'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t#reposted_by_did:plc:dz7xwi7wgfyzk4oemurkomax
     source: false
     pubdate: 2026-04-01 04:44:01.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.repost/3mifrmkd6gx2k
       verified: true
-      verified_date: "2026-04-01T03:44:06+00:00"
+      verified_date: '2026-04-01T03:44:06+00:00'
       id: 1987724
       private: false
       data:
@@ -3700,8 +3585,7 @@
           photo: https://avatars.webmention.io/phellinus.us-west.host.bsky.network/97b8fd9accc4f57610483650e566304f47512933b16ce1fc60b137cd8554666f.png
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t#reposted_by_did:plc:dz7xwi7wgfyzk4oemurkomax
         name:
-        content:
-          "Shared <a href=\"https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t\">a
+        content: "Shared <a href=\"https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mhubcpfuf22t\">a
           post</a> by   <span class=\"h-card\">\n    <a title=\"bsky.brid.gy/web/did:plc:dz7xwi7wgfyzk4oemurkomax\"
           class=\"u-url\" href=\"https://bsky.brid.gy/web/did:plc:dz7xwi7wgfyzk4oemurkomax\">bsky.brid.gy/web/did:plc:dz...</a>\n
           \   \n    \n  </span>\nHere is some music I’ve been listening to in March.
@@ -3711,41 +3595,39 @@
           <a href=\"https://bsky.app/search?q=%23Suede\">#Suede</a> <a href=\"https://bsky.app/search?q=%23DeclanMcKenna\">#DeclanMcKenna</a>
           \n<a href=\"https://bsky.app/search?q=%23Pulp\">#Pulp</a> <a href=\"https://bsky.app/search?q=%23Radiohead\">#Radiohead</a>
           <a href=\"https://bsky.app/search?q=%23REM\">#REM</a> <a href=\"https://bsky.app/search?q=%23RadioMoscow\">#RadioMoscow</a>"
-        published: "2026-04-01T03:44:01+00:00"
+        published: '2026-04-01T03:44:01+00:00'
         published_ts: 1775015041
       activity:
         type: repost
       target: https://thechels.uk/monthly-mixtape-mar-2026
     author: *65
     type: repost
-    content: ""
+    content: ''
 "/homebridge-ysa2-yale-alarm-release-a7ae919efe6a": {}
-"/scripts-convert-google-takeout-youtube-csv-to-opml-python-release-35a1726111f4":
-  {}
+"/scripts-convert-google-takeout-youtube-csv-to-opml-python-release-35a1726111f4": {}
 "/2026-06-23-daily-rundown": {}
 "/hmrc-ends-the-isa-tax-free-status-with-22-tax-on-cash-interest": {}
 "/soledad-brothers-mr-david-viner-pearlene-at-the-joiners-southampton": {}
 "/leeds-festival-2003-at-bramham-park-leeds": {}
-"/black-rebel-motorcycle-club-the-cooper-temple-clause-at-o2-guildhall-southampton":
-  {}
+"/black-rebel-motorcycle-club-the-cooper-temple-clause-at-o2-guildhall-southampton": {}
 "/the-dodge-brothers-at-the-blues-kitchen-london": {}
 "/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong":
-  "1987736":
-    id: "1987736"
+  '1987736':
+    id: '1987736'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mifx4qkbmh2n
     source: false
     pubdate: 2026-04-01 01:00:00.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mifx4qkbmh2n%23bridgy-fed-create-2026-04-01T05:22:33.943420+00:00
       verified: true
-      verified_date: "2026-04-01T05:22:37+00:00"
+      verified_date: '2026-04-01T05:22:37+00:00'
       id: 1987736
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mifx4qkbmh2n
         name:
         content: Disabled people face lower benefits if not lifelong (<a href="https://thechels.uk/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong">https://thechels.uk/disabled-people-face-lower-benefits-if-conditions-like-me-not-deemed-lifelong</a>)
-        published: "2026-04-01T00:00:00+00:00"
+        published: '2026-04-01T00:00:00+00:00'
         published_ts: 1775001600
       activity:
         type: link
@@ -3757,15 +3639,15 @@
 "/fun-lovin-criminals-at-rock-city": {}
 "/the-civil-wars-o2-bristol": {}
 "/heat-wave-and-me":
-  "2004632":
-    id: "2004632"
+  '2004632':
+    id: '2004632'
     uri: https://nuchronic.uk/item/heat-wave-and-me-04447dcea9/
     source: false
     pubdate: 2026-06-24 20:36:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/heat-wave-and-me-04447dcea9/
       verified: true
-      verified_date: "2026-06-24T20:44:22+00:00"
+      verified_date: '2026-06-24T20:44:22+00:00'
       id: 2004632
       private: false
       data:
@@ -3775,12 +3657,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/heat-wave-and-me-04447dcea9/
         name: Heat Wave and ME
-        content:
-          "<p>Extreme heat can be particularly challenging for many not adapted
+        content: "<p>Extreme heat can be particularly challenging for many not adapted
           to the climate and especially for people with Myalgic Encephalomyelitis
           because many alread…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/heat-wave-and-me\">thechels.uk</a>.</p>"
-        published: "2026-06-24T19:36:00+00:00"
+        published: '2026-06-24T19:36:00+00:00'
         published_ts: 1782329760
       activity:
         type: link
@@ -3790,19 +3671,18 @@
     author: *66
     type: link
     title: Heat Wave and ME
-    content:
-      "<p>Extreme heat can be particularly challenging for many not adapted
+    content: "<p>Extreme heat can be particularly challenging for many not adapted
       to the climate and especially for people with Myalgic Encephalomyelitis because
       many alread…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/heat-wave-and-me\">thechels.uk</a>.</p>"
-  "2004656":
-    id: "2004656"
+  '2004656':
+    id: '2004656'
     uri: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116807966670159855/activity
     source: false
     pubdate: 2026-06-25 01:42:04.000000000 +01:00
     raw:
       source: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116807966670159855/activity
       verified: true
-      verified_date: "2026-06-25T00:42:10+00:00"
+      verified_date: '2026-06-25T00:42:10+00:00'
       id: 2004656
       private: false
       data:
@@ -3812,8 +3692,7 @@
           photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
         url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116807966670159855/activity
         name:
-        content:
-          "Shared <a href=\"https://thechels.uk/heat-wave-and-me\">Heat Wave
+        content: "Shared <a href=\"https://thechels.uk/heat-wave-and-me\">Heat Wave
           and ME</a> by   <span class=\"h-card\">\n    <a class=\"p-name u-url\" href=\"https://thechels.uk\">thechels.uk</a>\n
           \   \n    \n  </span>\n<p>Extreme heat can be particularly challenging for
           many not adapted to the climate and especially for people with <a href=\"https://thechels.uk/disability\">Myalgic
@@ -3847,28 +3726,28 @@
           orthostatic intolerance symptoms when standing or sitting upright or changing
           position.</li>\n</ul><p>Check in with people to make sure they are ok.</p>\n<a
           href=\"https://thechels.uk/disability\">Myalgic Encephalomyelitis</a>"
-        published: "2026-06-25T00:42:04+00:00"
+        published: '2026-06-25T00:42:04+00:00'
         published_ts: 1782348124
       activity:
         type: repost
       target: https://thechels.uk/heat-wave-and-me
     author: *67
     type: repost
-    content: ""
+    content: ''
 "/2026-06-25-daily-rundown": {}
 "/lastpass-data-breach-and-response": {}
 "/youtube-continues-to-ruin-its-app-player-to-make-it-even-more-like-tiktok": {}
 "/2026-06-26-daily-rundown": {}
 "/the-observation-window":
-  "2005033":
-    id: "2005033"
+  '2005033':
+    id: '2005033'
     uri: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/300748798
     source: false
     pubdate: 2026-06-27 00:08:43.000000000 +00:00
     raw:
       source: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/300748798
       verified: true
-      verified_date: "2026-06-27T00:08:43+00:00"
+      verified_date: '2026-06-27T00:08:43+00:00'
       id: 2005033
       private: false
       data:
@@ -3886,16 +3765,16 @@
       target: https://thechels.uk/the-observation-window
     author: *68
     type: like
-    content: ""
-  "2005022":
-    id: "2005022"
+    content: ''
+  '2005022':
+    id: '2005022'
     uri: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
     source: false
     pubdate: 2026-06-26 16:00:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
       verified: true
-      verified_date: "2026-06-26T22:35:41+00:00"
+      verified_date: '2026-06-26T22:35:41+00:00'
       id: 2005022
       private: false
       data:
@@ -3905,11 +3784,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/the-privacy-observation-window-fc4181a1e1/
         name:
-        content:
-          "<p>The Privacy Observation Window categorises the forms of observation,
+        content: "<p>The Privacy Observation Window categorises the forms of observation,
           identification and attribution UK citizens have historically accepted from
           government an…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/the-observation-window\">thechels.uk</a>.</p>"
-        published: "2026-06-26T15:00:00+00:00"
+        published: '2026-06-26T15:00:00+00:00'
         published_ts: 1782486000
       activity:
         type: link
@@ -3918,19 +3796,18 @@
       target: https://thechels.uk/the-observation-window
     author: *69
     type: link
-    content:
-      "<p>The Privacy Observation Window categorises the forms of observation,
+    content: "<p>The Privacy Observation Window categorises the forms of observation,
       identification and attribution UK citizens have historically accepted from government
       an…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/the-observation-window\">thechels.uk</a>.</p>"
-  "2005018":
-    id: "2005018"
+  '2005018':
+    id: '2005018'
     uri: https://bsky.app/profile/did:plc:326dlpjdr27v7hw7v5yqipl3/post/3mp7xmprar52k
     source: false
     pubdate: 2026-06-26 23:11:52.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:326dlpjdr27v7hw7v5yqipl3/app.bsky.feed.post/3mp7xmprar52k%23bridgy-fed-create-2026-06-26T22:11:53.784704+00:00
       verified: true
-      verified_date: "2026-06-26T22:11:56+00:00"
+      verified_date: '2026-06-26T22:11:56+00:00'
       id: 2005018
       private: false
       data:
@@ -3939,7 +3816,7 @@
         content: |-
           Hey thechels.uk
           A few minutes of your attention can mean hope for someone who has lost so much. Please visit my page and the pinned post. Your compassion can reach a family in need. ????
-        published: "2026-06-26T22:11:52+00:00"
+        published: '2026-06-26T22:11:52+00:00'
         published_ts: 1782511912
       activity:
         type: reply
@@ -3957,15 +3834,15 @@
 "/link/introduction-18f-guides": {}
 "/2026-06-29-daily-rundown": {}
 "/call-it-fuckity-cockwomble":
-  "2005564":
-    id: "2005564"
+  '2005564':
+    id: '2005564'
     uri: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
     source: false
     pubdate: 2026-06-29 18:55:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
       verified: true
-      verified_date: "2026-06-29T18:54:05+00:00"
+      verified_date: '2026-06-29T18:54:05+00:00'
       id: 2005564
       private: false
       data:
@@ -3975,11 +3852,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/
         name: Call it Fuckity Cockwomble
-        content:
-          "<p>We could call it fuckity cockwomble for all I care, won’t make
+        content: "<p>We could call it fuckity cockwomble for all I care, won’t make
           me feel better, won’t be any closer to a cure. Without fail, a support forum
           or community for…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>.</p>"
-        published: "2026-06-29T17:55:00+00:00"
+        published: '2026-06-29T17:55:00+00:00'
         published_ts: 1782755700
       activity:
         type: link
@@ -3989,19 +3865,18 @@
     author: *70
     type: link
     title: Call it Fuckity Cockwomble
-    content:
-      "<p>We could call it fuckity cockwomble for all I care, won’t make me
+    content: "<p>We could call it fuckity cockwomble for all I care, won’t make me
       feel better, won’t be any closer to a cure. Without fail, a support forum or
       community for…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>.</p>"
-  "2005637":
-    id: "2005637"
+  '2005637':
+    id: '2005637'
     uri: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/301327254
     source: false
     pubdate: 2026-06-30 04:12:02.000000000 +00:00
     raw:
       source: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674%23likes/301327254
       verified: true
-      verified_date: "2026-06-30T04:12:02+00:00"
+      verified_date: '2026-06-30T04:12:02+00:00'
       id: 2005637
       private: false
       data:
@@ -4019,16 +3894,16 @@
       target: https://thechels.uk/call-it-fuckity-cockwomble
     author: *71
     type: like
-    content: ""
-  "2005635":
-    id: "2005635"
+    content: ''
+  '2005635':
+    id: '2005635'
     uri: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116837102269631981/activity
     source: false
     pubdate: 2026-06-30 05:11:38.000000000 +01:00
     raw:
       source: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116837102269631981/activity
       verified: true
-      verified_date: "2026-06-30T04:11:40+00:00"
+      verified_date: '2026-06-30T04:11:40+00:00'
       id: 2005635
       private: false
       data:
@@ -4038,22 +3913,21 @@
           photo: https://avatars.webmention.io/files.mastodon.social/6fa238e8bcde25c86770f2afbf4c8cc3fd4eeb3cfc44895d9af169225627ba4a.png
         url: https://ap.brid.gy/convert/web/https://mastodon.social/ap/users/115362363807963674/statuses/116837102269631981/activity
         name:
-        content:
-          "Shared <a href=\"https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/\">Call
+        content: "Shared <a href=\"https://nuchronic.uk/item/call-it-fuckity-cockwomble-6930da314f/\">Call
           it Fuckity Cockwomble</a> by   <span class=\"h-card\">\n    <a class=\"p-name
           u-url\" href=\"https://nuchronic.uk/\">Nuchronic</a>\n    \n    \n  </span>\n<p>We
           could call it fuckity cockwomble for all I care, won’t make me feel better,
           won’t be any closer to a cure. Without fail, a support forum or community
           for…</p>\n<p>Continue reading at <a href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>.</p>\n<a
           href=\"https://thechels.uk/call-it-fuckity-cockwomble\">thechels.uk</a>"
-        published: "2026-06-30T04:11:38+00:00"
+        published: '2026-06-30T04:11:38+00:00'
         published_ts: 1782792698
       activity:
         type: repost
       target: https://thechels.uk/call-it-fuckity-cockwomble
     author: *72
     type: repost
-    content: ""
+    content: ''
 "/do-you-sleep-at-an-incline": {}
 "/cf-worker-x-redirect-release-8241558b334c": {}
 "/cf-worker-emailer-release-25cd74236bc8": {}
@@ -4075,22 +3949,22 @@
 "/2026-07-05-daily-rundown": {}
 "/a-method-for-quoteblogs": {}
 "/folarin-balogun-ban-suspended-by-fifa":
-  "2006824":
-    id: "2006824"
+  '2006824':
+    id: '2006824'
     uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mpweberwhs23
     source: false
     pubdate: 2026-07-05 20:56:44.000000000 +01:00
     raw:
       source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mpweberwhs23%23bridgy-fed-create-2026-07-05T19:56:45.615610+00:00
       verified: true
-      verified_date: "2026-07-05T19:56:47+00:00"
+      verified_date: '2026-07-05T19:56:47+00:00'
       id: 2006824
       private: false
       data:
         url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mpweberwhs23
         name:
         content: Has anyone checked Infantino’s crypto account? <a href="https://bsky.app/search?q=%23%24TRUMP">$trump</a>
-        published: "2026-07-05T19:56:44+00:00"
+        published: '2026-07-05T19:56:44+00:00'
         published_ts: 1783281404
       activity:
         type: reply
@@ -4109,15 +3983,15 @@
 "/eye-problems-after-covid-19-can-now-be-explained": {}
 "/2026-07-09-daily-rundown": {}
 "/week-notes-origins":
-  "2011057":
-    id: "2011057"
+  '2011057':
+    id: '2011057'
     uri: https://nuchronic.uk/item/week-notes-origins-b8171f9266/
     source: false
     pubdate: 2026-07-09 21:09:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/week-notes-origins-b8171f9266/
       verified: true
-      verified_date: "2026-07-09T20:42:35+00:00"
+      verified_date: '2026-07-09T20:42:35+00:00'
       id: 2011057
       private: false
       data:
@@ -4127,11 +4001,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/week-notes-origins-b8171f9266/
         name: Week Notes Origins
-        content:
-          "<p>Having seen discourse on bubbles.town about bloggers using week
+        content: "<p>Having seen discourse on bubbles.town about bloggers using week
           notes and it being seen as positive and negative ( can we have better titles
           ) so thought I w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/week-notes-origins\">thechels.uk</a>.</p>"
-        published: "2026-07-09T20:09:00+00:00"
+        published: '2026-07-09T20:09:00+00:00'
         published_ts: 1783627740
       activity:
         type: link
@@ -4141,8 +4014,7 @@
     author: *73
     type: link
     title: Week Notes Origins
-    content:
-      "<p>Having seen discourse on bubbles.town about bloggers using week notes
+    content: "<p>Having seen discourse on bubbles.town about bloggers using week notes
       and it being seen as positive and negative ( can we have better titles ) so
       thought I w…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/week-notes-origins\">thechels.uk</a>.</p>"
 "/2026-07-10-daily-rundown": {}
@@ -4268,20 +4140,14 @@
 "/rides/zwift-out-and-back-again-in-watopia-1112060753877172224": {}
 "/rides/zwift-big-foot-hills-in-watopia-1112839265957478432": {}
 "/rides/zwift-makuri-islands-1139736014927970352": {}
-"/rides/zwift-pace-partner-ride-flat-route-in-watopia-with-d-bernie-1185436882482266160":
-  {}
-"/rides/zwift-pace-partner-ride-triple-flat-loops-in-watopia-with-d-maria-1191240874525229104":
-  {}
-"/rides/zwift-pace-partner-ride-neon-flats-in-makuri-islands-with-bernie-1211542415119253552":
-  {}
-"/rides/zwift-pace-partner-ride-wandering-flats-in-makuri-islands-with-maria-1227632570502479920":
-  {}
+"/rides/zwift-pace-partner-ride-flat-route-in-watopia-with-d-bernie-1185436882482266160": {}
+"/rides/zwift-pace-partner-ride-triple-flat-loops-in-watopia-with-d-maria-1191240874525229104": {}
+"/rides/zwift-pace-partner-ride-neon-flats-in-makuri-islands-with-bernie-1211542415119253552": {}
+"/rides/zwift-pace-partner-ride-wandering-flats-in-makuri-islands-with-maria-1227632570502479920": {}
 "/rides/ppr-turf-n-surf-in-makuri-islands-with-bernie-1231916236229591056": {}
 "/rides/zwift-triple-loops-in-london-1236450064205873184": {}
-"/rides/zwift-group-ride-bikealicious-weekend-social-mixer-e-on-triple-loops-in-london-1236467255181574176":
-  {}
-"/rides/zwift-group-ride-ezr-ez-does-it-d-on-triple-flat-loops-in-watopia-1237629366108684336":
-  {}
+"/rides/zwift-group-ride-bikealicious-weekend-social-mixer-e-on-triple-loops-in-london-1236467255181574176": {}
+"/rides/zwift-group-ride-ezr-ez-does-it-d-on-triple-flat-loops-in-watopia-1237629366108684336": {}
 "/rides/zwift-flat-route-in-watopia-1244999962253590528": {}
 "/rides/zwift-fit-fun-in-watopia-1245006915814064144": {}
 "/rides/zwift-ftp-test-shorter-in-paris-1246497784165580800": {}
@@ -4291,17 +4157,13 @@
 "/rides/zwift-richmond-uci-reverse-in-richmond-1249517925551865856": {}
 "/rides/zwift-douce-france-in-france-1252157899535319088": {}
 "/rides/zwift-roule-ma-poule-in-france-1252396943053684752": {}
-"/rides/zwift-group-ride-triban-red-january-wandering-flats-in-makuri-islands-1253121781615558688":
-  {}
+"/rides/zwift-group-ride-triban-red-january-wandering-flats-in-makuri-islands-1253121781615558688": {}
 "/rides/zwift-gotham-grind-in-new-york-1256020031142133760": {}
-"/rides/ppr-country-to-coastal-in-makuri-islands-with-taylor-1256577200094724128":
-  {}
+"/rides/ppr-country-to-coastal-in-makuri-islands-with-taylor-1256577200094724128": {}
 "/rides/zwift-ocean-lava-cliffside-loop-in-watopia-1257179489297760256": {}
 "/rides/zwift-flat-route-in-watopia-1257478058722459696": {}
-"/rides/zwift-group-ride-tour-de-zwift-2023-stage-2-ride-short-on-the-fan-flats-in-richmond-1257486719582765088":
-  {}
-"/rides/zwift-group-ride-the-friday-tbr-pubcrawl-d-on-classique-in-london-1261043833408340000":
-  {}
+"/rides/zwift-group-ride-tour-de-zwift-2023-stage-2-ride-short-on-the-fan-flats-in-richmond-1257486719582765088": {}
+"/rides/zwift-group-ride-the-friday-tbr-pubcrawl-d-on-classique-in-london-1261043833408340000": {}
 "/rides/zwift-park-perimeter-loop-in-new-york-1261854454194405408": {}
 "/rides/zwift-astoria-line-8-in-new-york-1261871787306647568": {}
 "/rides/zwift-rising-empire-in-new-york-1262393818821443616": {}
@@ -4312,20 +4174,16 @@
 "/rides/zwift-sea-to-tree-in-makuri-islands-1271148467791593520": {}
 "/rides/zwift-twilight-harbor-in-makuri-islands-1271161072069394464": {}
 "/rides/zwift-neon-flats-in-makuri-islands-1271605264197353488": {}
-"/rides/zwift-group-ride-tour-de-zwift-2023-stage-8-ride-short-on-rolling-highlands-in-1271893591676944400":
-  {}
+"/rides/zwift-group-ride-tour-de-zwift-2023-stage-8-ride-short-on-rolling-highlands-in-1271893591676944400": {}
 "/rides/zwift-rooftop-rendezvous-in-makuri-islands-1271909161210249216": {}
-"/rides/zwift-pacer-group-ride-tempus-fugit-in-watopia-with-taylor-1271918809736806416":
-  {}
+"/rides/zwift-pacer-group-ride-tempus-fugit-in-watopia-with-taylor-1271918809736806416": {}
 "/rides/zwift-legends-and-lava-in-watopia-1276049503064965152": {}
 "/rides/zwift-downtown-titans-in-watopia-1276913493047541792": {}
 "/rides/zwift-watopias-waistband-in-watopia-1278450668671107072": {}
-"/rides/zwift-group-ride-ride-scotland-route-3-glasgow-crit-circuit-in-scotland-1279227659502518288":
-  {}
+"/rides/zwift-group-ride-ride-scotland-route-3-glasgow-crit-circuit-in-scotland-1279227659502518288": {}
 "/rides/zwift-2018-uci-worlds-short-lap-in-innsbruck-1282129570153119776": {}
 "/rides/zwift-mech-isle-loop-in-makuri-islands-1285014165064286240": {}
-"/rides/zwift-group-ride-ride-scotland-route-4-loch-loop-e-on-loch-loop-in-scotland-1285021108851982384":
-  {}
+"/rides/zwift-group-ride-ride-scotland-route-4-loch-loop-e-on-loch-loop-in-scotland-1285021108851982384": {}
 "/rides/zwift-zone-2-in-paris-1286156967303200800": {}
 "/rides/zwift-ramp-test-lite-in-makuri-islands-1287032193540980784": {}
 "/rides/zwift-ramp-test-in-watopia-1287050157501710368": {}
@@ -4334,13 +4192,11 @@
 "/rides/zwift-ven-top-in-france-1293444213442084864": {}
 "/rides/zwift-zone-2-45-in-watopia-1293471806803427344": {}
 "/rides/zwift-zone-2-45-in-new-york-1296327584128188432": {}
-"/rides/zwift-zone-2-15000-on-makuri-40-in-makuri-islands-1297346117578522656":
-  {}
+"/rides/zwift-zone-2-15000-on-makuri-40-in-makuri-islands-1297346117578522656": {}
 "/rides/zwift-the-muckle-yin-in-scotland-1302832411335213072": {}
 "/rides/zwift-zone-2-45-in-scotland-1307886498338586624": {}
 "/rides/zwift-triple-flat-loops-in-watopia-1308179562437312560": {}
-"/rides/zwift-zone-2-45-on-castle-to-castle-in-makuri-islands-1309657515251761152":
-  {}
+"/rides/zwift-zone-2-45-on-castle-to-castle-in-makuri-islands-1309657515251761152": {}
 "/rides/2-by-2-on-sleepless-city-in-makuri-islands-1310320399967354928": {}
 "/rides/zwift-sevens-in-makuri-islands-1311504348018130960": {}
 "/rides/zwift-zone-2-60-on-big-loop-in-makuri-islands-1311818574309900288": {}
@@ -4361,40 +4217,32 @@
 "/rides/zwift-25-hiit-int-in-makuri-islands-1363851013328502816": {}
 "/rides/zwift-20-zone-3-int-in-makuri-islands-1364629808482353184": {}
 "/rides/zwift-45-zone-2-in-makuri-islands-1366598896670769152": {}
-"/rides/zwift-pacer-group-ride-watopias-waistband-in-watopia-with-taylor-1368118883726164016":
-  {}
+"/rides/zwift-pacer-group-ride-watopias-waistband-in-watopia-with-taylor-1368118883726164016": {}
 "/rides/60-endurance-in-makuri-islands-1368886572446924800": {}
 "/rides/zwift-triple-loops-in-london-1369785468719218688": {}
 "/rides/zwift-kappa-quest-in-makuri-islands-1370939963620737072": {}
 "/rides/zwift-45-zone-2-in-makuri-islands-1372457716680785920": {}
 "/rides/60-zone-2-on-the-highline-in-new-york-1373989272322834448": {}
 "/rides/zwift-60-free-in-makuri-islands-1374723528045117472": {}
-"/rides/zwift-pacer-group-ride-big-foot-hills-in-watopia-with-taylor-1375290003923402800":
-  {}
+"/rides/zwift-pacer-group-ride-big-foot-hills-in-watopia-with-taylor-1375290003923402800": {}
 "/rides/zwift-22-hiit-int-in-makuri-islands-1375301483548934192": {}
 "/rides/40-zone-2-4-int-free-in-makuri-islands-1376052676155949056": {}
 "/rides/zwift-35-ladders-int-in-new-york-1376732634566115376": {}
-"/rides/zwift-pacer-group-ride-big-foot-hills-in-watopia-with-taylor-1376736205596557328":
-  {}
+"/rides/zwift-pacer-group-ride-big-foot-hills-in-watopia-with-taylor-1376736205596557328": {}
 "/rides/zwift-climb-portal-mont-saint-michel-in-france-1379928336364503088": {}
 "/rides/zwift-climb-portal-mont-saint-michel-in-france-1380451329222148096": {}
 "/rides/zwift-60-free-in-makuri-islands-1382609902056259600": {}
 "/rides/zwift-mountain-route-in-watopia-1383361505143062576": {}
 "/rides/zwift-30-zone-3-int-in-scotland-1384080254968004656": {}
 "/rides/zwift-25-hiit-int-in-watopia-1384815018293329920": {}
-"/rides/zwift-anaerobic-depletion-on-climbers-gambit-in-makuri-islands-1386262957775683600":
-  {}
-"/rides/zwift-pacer-group-ride-petit-boucle-in-france-with-bernie-1386424908065554464":
-  {}
-"/rides/zwift-race-the-power-lunch-by-saris-nopinz-bridges-and-boardwalks-in-makuri-islands-1386433090154397696":
-  {}
+"/rides/zwift-anaerobic-depletion-on-climbers-gambit-in-makuri-islands-1386262957775683600": {}
+"/rides/zwift-pacer-group-ride-petit-boucle-in-france-with-bernie-1386424908065554464": {}
+"/rides/zwift-race-the-power-lunch-by-saris-nopinz-bridges-and-boardwalks-in-makuri-islands-1386433090154397696": {}
 "/rides/zwift-country-to-coastal-in-makuri-islands-1388404904455864368": {}
 "/rides/30-upfront-int-in-makuri-islands-1389144367616262192": {}
-"/rides/zwift-zwift-academy-road-workout-3-the-volcano-in-watopia-1389878425560301600":
-  {}
+"/rides/zwift-zwift-academy-road-workout-3-the-volcano-in-watopia-1389878425560301600": {}
 "/rides/zwift-30-zone-3-int-in-richmond-1391311383265558528": {}
-"/rides/zwift-group-ride-stage-3-zrs-watch-the-femmes-ma-poule-in-france-1392295877380423680":
-  {}
+"/rides/zwift-group-ride-stage-3-zrs-watch-the-femmes-ma-poule-in-france-1392295877380423680": {}
 "/rides/zwift-90-endurance-in-makuri-islands-1393397783318265856": {}
 "/rides/neokyo-crit-course-in-makuri-islands-1394190081824161824": {}
 "/rides/the-bell-lap-in-crit-city-1394198923299553312": {}
@@ -4407,54 +4255,38 @@
 "/rides/zwift-eastern-eight-in-watopia-1403122109302997008": {}
 "/rides/zwift-35-active-recovery-in-watopia-1403777744566747168": {}
 "/rides/zwift-loch-loop-in-scotland-1403889104982130720": {}
-"/rides/zwift-group-ride-stage-1-zrs-podium-rides-loch-loop-e-on-loch-loop-in-scotland-1403893602517532672":
-  {}
+"/rides/zwift-group-ride-stage-1-zrs-podium-rides-loch-loop-e-on-loch-loop-in-scotland-1403893602517532672": {}
 "/rides/zwift-glasgow-crit-circuit-in-scotland-1404541857324597264": {}
 "/rides/zwift-loch-loop-in-scotland-1404548205772816400": {}
 "/rides/zwift-rolling-highlands-in-scotland-1404560534006677504": {}
-"/rides/zwift-group-ride-stage-2-zrs-podium-rides-rolling-highlands-in-scotland-1405342463287115824":
-  {}
+"/rides/zwift-group-ride-stage-2-zrs-podium-rides-rolling-highlands-in-scotland-1405342463287115824": {}
 "/rides/180-endurance-tempo-in-innsbruck-1407176742031867904": {}
-"/rides/zwift-race-sledgehammer-inbetweeners-races-on-handful-of-gravel-in-watopia-1408178151405682688":
-  {}
+"/rides/zwift-race-sledgehammer-inbetweeners-races-on-handful-of-gravel-in-watopia-1408178151405682688": {}
 "/rides/zwift-99-endurance-tempo-in-watopia-1410272761170886688": {}
-"/rides/zwift-group-ride-stage-3-open-bike-selection-on-glasgow-crit-circuit-in-scotland-1411076974855618576":
-  {}
+"/rides/zwift-group-ride-stage-3-open-bike-selection-on-glasgow-crit-circuit-in-scotland-1411076974855618576": {}
 "/rides/zwift-50-sweet-spot-in-watopia-1413274483581534224": {}
 "/rides/volcano-laps-on-volcano-circuit-in-watopia-1414013258859315200": {}
 "/rides/zwift-climb-portal-crow-road-in-watopia-1414748024759926784": {}
-"/rides/zwift-group-ride-stage-4-zrs-podium-rides-city-and-the-sgurr-in-scotland-1415457787290353664":
-  {}
-"/rides/zwift-99-endurance-tempo-on-petit-boucle-in-france-1417611247049785392":
-  {}
+"/rides/zwift-group-ride-stage-4-zrs-podium-rides-city-and-the-sgurr-in-scotland-1415457787290353664": {}
+"/rides/zwift-99-endurance-tempo-on-petit-boucle-in-france-1417611247049785392": {}
 "/rides/zwift-ventoux-hell-and-back-1418969900755468320": {}
 "/rides/zwift-london-1424567206255034384": {}
-"/rides/zwift-pacer-group-ride-big-foot-hills-in-watopia-with-taylor-1424594439032045600":
-  {}
-"/rides/zwift-pacer-group-ride-volcano-circuit-in-watopia-with-taylor-1428937052304457728":
-  {}
-"/rides/zwift-30-zone-3-int-on-climb-portal-volcano-in-scotland-1432628804529946640":
-  {}
-"/rides/zwift-group-ride-stage-3-zrs-pretzelfest-on-the-uber-pretzel-in-watopia-1435693005032931328":
-  {}
-"/rides/zwift-race-stage-3-get-rolling-london-classique-d-on-classique-in-london-1437110444568379408":
-  {}
-"/rides/zwift-pacer-group-ride-tick-tock-in-watopia-with-miguel-1439265309050552320":
-  {}
+"/rides/zwift-pacer-group-ride-big-foot-hills-in-watopia-with-taylor-1424594439032045600": {}
+"/rides/zwift-pacer-group-ride-volcano-circuit-in-watopia-with-taylor-1428937052304457728": {}
+"/rides/zwift-30-zone-3-int-on-climb-portal-volcano-in-scotland-1432628804529946640": {}
+"/rides/zwift-group-ride-stage-3-zrs-pretzelfest-on-the-uber-pretzel-in-watopia-1435693005032931328": {}
+"/rides/zwift-race-stage-3-get-rolling-london-classique-d-on-classique-in-london-1437110444568379408": {}
+"/rides/zwift-pacer-group-ride-tick-tock-in-watopia-with-miguel-1439265309050552320": {}
 "/rides/zwift-30-zone-2-in-yorkshire-1440735727250866224": {}
-"/rides/zwift-pacer-group-ride-tick-tock-in-watopia-with-bernie-1444316966041960480":
-  {}
-"/rides/zwift-race-stage-1-race-watopia-beach-island-loop-in-watopia-1445745196733055024":
-  {}
+"/rides/zwift-pacer-group-ride-tick-tock-in-watopia-with-bernie-1444316966041960480": {}
+"/rides/zwift-race-stage-1-race-watopia-beach-island-loop-in-watopia-1445745196733055024": {}
 "/rides/zwift-flat-route-in-watopia-1447273686313730096": {}
 "/rides/zwift-two-bridges-loop-in-watopia-1450088171151851552": {}
 "/rides/zwift-volcano-circuit-ccw-in-watopia-1450096689942642720": {}
 "/rides/zwift-45-zone-2-in-watopia-1450105795894067216": {}
-"/rides/zwift-pacer-group-ride-tempus-fugit-in-watopia-with-taylor-1450807112346140672":
-  {}
+"/rides/zwift-pacer-group-ride-tempus-fugit-in-watopia-with-taylor-1450807112346140672": {}
 "/rides/zwift-tick-tock-in-watopia-1451487652053254160": {}
-"/rides/zwift-45-zone-2-on-ocean-lava-cliffside-loop-in-watopia-1452335382984146944":
-  {}
+"/rides/zwift-45-zone-2-on-ocean-lava-cliffside-loop-in-watopia-1452335382984146944": {}
 "/rides/zwift-ocean-lava-cliffside-loop-in-watopia-1453617191529234480": {}
 "/rides/zwift-volcano-circuit-in-watopia-1454387409457250336": {}
 "/rides/zwift-ocean-lava-cliffside-loop-in-watopia-1455962618350010384": {}
@@ -4464,42 +4296,36 @@
 "/rides/zwift-temple-trek-in-watopia-1463285302700277776": {}
 "/rides/zwift-going-coastal-in-watopia-1463870455503929376": {}
 "/rides/zwift-canopies-and-coastlines-in-watopia-1464467358155309072": {}
-"/rides/zwift-group-ride-pack-sub2-weekend-adventure-d-on-the-big-ring-in-watopia-1465354370546696240":
-  {}
+"/rides/zwift-group-ride-pack-sub2-weekend-adventure-d-on-the-big-ring-in-watopia-1465354370546696240": {}
 "/rides/zwift-going-coastal-in-watopia-1466115223642472448": {}
 "/rides/zwift-sugar-cookie-in-watopia-1474088031798460416": {}
 "/rides/zwift-30-zone-3-int-in-watopia-1486277480779104304": {}
 "/rides/zwift-strength-builder-in-scotland-1489332044860227600": {}
 "/rides/big-8-in-watopia-1489988872271036416": {}
 "/rides/zwift-repack-rush-in-watopia-1496574177535066144": {}
-"/rides/zwift-pacer-group-ride-volcano-circuit-in-watopia-with-taylor-1496577286311264304":
-  {}
-"/rides/zwift-pacer-group-ride-volcano-circuit-in-watopia-with-taylor-1499308092251209760":
-  {}
+"/rides/zwift-pacer-group-ride-volcano-circuit-in-watopia-with-taylor-1496577286311264304": {}
+"/rides/zwift-pacer-group-ride-volcano-circuit-in-watopia-with-taylor-1499308092251209760": {}
 "/rides/zwift-greater-london-flat-in-london-1502979048941305872": {}
 "/rides/zwift-flat-route-in-watopia-1505957456507830304": {}
 "/rides/zwift-99-endurance-tempo-in-watopia-1509526579414302768": {}
 "/rides/zwift-tempus-fugit-in-watopia-1555051849361408032": {}
-"/rides/zwift-pacer-group-ride-the-big-ring-in-watopia-with-taylor-1587650744553603104":
-  {}
+"/rides/zwift-pacer-group-ride-the-big-ring-in-watopia-with-taylor-1587650744553603104": {}
 "/rides/zwift-loop-de-loop-in-watopia-1594166899376128048": {}
 "/rides/zwift-big-flat-8-in-watopia-1597772438563749936": {}
-"/rides/zwift-pacer-group-ride-tempus-fugit-in-watopia-with-taylor-1718302270770118704":
-  {}
-"/rides/zwift-pacer-group-ride-astoria-line-8-in-new-york-with-bernie-1774085923529556016":
-  {}
+"/rides/zwift-pacer-group-ride-tempus-fugit-in-watopia-with-taylor-1718302270770118704": {}
+"/rides/zwift-pacer-group-ride-astoria-line-8-in-new-york-with-bernie-1774085923529556016": {}
 "/2026-07-25-daily-rundown": {}
 "/rss": {}
 "/weaknotes-2026-07-25":
-  "2013956":
-    id: "2013956"
+  '2013956':
+    id: '2013956'
     uri: https://nuchronic.uk/item/weaknotes-2026-07-25-f775345175/
     source: false
     pubdate: 2026-07-25 18:40:00.000000000 +01:00
     raw:
       source: https://nuchronic.uk/item/weaknotes-2026-07-25-f775345175/
       verified: true
-      verified_date: "2026-07-25T18:27:47+00:00"
+      verified_date: '2026-07-25T18:27:47+00:00'
       id: 2013956
       private: false
       data:
@@ -4509,11 +4335,10 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/weaknotes-2026-07-25-f775345175/
         name: WeakNotes 2026-07-25
-        content:
-          "<p>It’s been a strange time since my last update, I had been suffering
+        content: "<p>It’s been a strange time since my last update, I had been suffering
           from a stomach bug and lost all appetite, consuming nothing but sips of
           water over 4 days…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-07-25\">thechels.uk</a>.</p>"
-        published: "2026-07-25T17:40:00+00:00"
+        published: '2026-07-25T17:40:00+00:00'
         published_ts: 1785001200
       activity:
         type: link
@@ -4523,8 +4348,7 @@
     author: *74
     type: link
     title: WeakNotes 2026-07-25
-    content:
-      "<p>It’s been a strange time since my last update, I had been suffering
+    content: "<p>It’s been a strange time since my last update, I had been suffering
       from a stomach bug and lost all appetite, consuming nothing but sips of water
       over 4 days…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/weaknotes-2026-07-25\">thechels.uk</a>.</p>"
 "/gift-monzo": {}
@@ -4534,15 +4358,11 @@
 "/rides/zwift-watopia-fire-ice-734757212290524496": {}
 "/rides/zwift-watopia-serpentine-8-736373614947751248": {}
 "/rides/zwift-watopia-volcano-climb-hac16-746366235166262992": {}
-"/rides/zwift-ppr-turf-n-surf-in-makuri-islands-with-bernie-1231916236229591056":
-  {}
-"/rides/zwift-ppr-island-hopper-in-makuri-islands-with-taylor-1247919698419384352":
-  {}
-"/rides/zwift-ppr-country-to-coastal-in-makuri-islands-with-taylor-1256577200094724128":
-  {}
+"/rides/zwift-ppr-turf-n-surf-in-makuri-islands-with-bernie-1231916236229591056": {}
+"/rides/zwift-ppr-island-hopper-in-makuri-islands-with-taylor-1247919698419384352": {}
+"/rides/zwift-ppr-country-to-coastal-in-makuri-islands-with-taylor-1256577200094724128": {}
 "/rides/zwift-ppr-tick-tock-in-watopia-with-taylor-1263319542113763360": {}
-"/rides/zwift-2-by-2-on-sleepless-city-in-makuri-islands-1310320399967354928":
-  {}
+"/rides/zwift-2-by-2-on-sleepless-city-in-makuri-islands-1310320399967354928": {}
 "/rides/zwift-cup-finals-watch-along-1358046662991314960": {}
 "/rides/zwift-60-endurance-in-makuri-islands-1368886572446924800": {}
 "/rides/zwift-60-zone-2-on-the-highline-in-new-york-1373989272322834448": {}
@@ -4550,18 +4370,15 @@
 "/rides/zwift-30-upfront-int-in-makuri-islands-1389144367616262192": {}
 "/rides/zwift-neokyo-crit-course-in-makuri-islands-1394190081824161824": {}
 "/rides/zwift-the-bell-lap-in-crit-city-1394198923299553312": {}
-"/rides/zwift-90-endurance-on-everything-bagel-in-new-york-1399369356864929840":
-  {}
+"/rides/zwift-90-endurance-on-everything-bagel-in-new-york-1399369356864929840": {}
 "/rides/zwift-180-endurance-tempo-in-innsbruck-1407176742031867904": {}
-"/rides/zwift-volcano-laps-on-volcano-circuit-in-watopia-1414013258859315200":
-  {}
+"/rides/zwift-volcano-laps-on-volcano-circuit-in-watopia-1414013258859315200": {}
 "/rides/zwift-30-zone-3-int-on-la-reine-in-france-1458835603217989680": {}
 "/rides/zwift-big-8-in-watopia-1489988872271036416": {}
 "/rss-chat": {}
 "/2026-07-27-daily-rundown": {}
 "/how-to-add-a-jekyll-collection": {}
-"/rides/zwift-pacer-group-ride-astoria-line-8-in-new-york-with-bernie-1774085923529556016-copy":
-  {}
+"/rides/zwift-pacer-group-ride-astoria-line-8-in-new-york-with-bernie-1774085923529556016-copy": {}
 "/rides/whoosh-al-qudra": {}
 "/rides/whoosh-austrailia-parramatta": {}
 "/2026-07-28-daily-rundown": {}
@@ -4572,21 +4389,20 @@
 "/uefa-statement-on-the-times-article": {}
 "/how-to-generatre-a-menu-list-from-a-collection": {}
 "/2026-07-30-daily-rundown": {}
-"/uefa-statement-on-behalf-of-uefa-and-its-55-national-associations-uefa-com":
-  {}
+"/uefa-statement-on-behalf-of-uefa-and-its-55-national-associations-uefa-com": {}
 "/i-rss-andrew-shell-s-weblog": {}
 "/2026-07-31-daily-rundown": {}
 "/weaknotes-2026-06-31": {}
 "/spontaneous-remission-of-me-cfs":
-  "2015303":
-    id: "2015303"
+  '2015303':
+    id: '2015303'
     uri: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
     source: false
     pubdate: 2026-07-31 22:00:00.000000000 +00:00
     raw:
       source: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
       verified: true
-      verified_date: "2026-08-01T09:35:50+00:00"
+      verified_date: '2026-08-01T09:35:50+00:00'
       id: 2015303
       private: false
       data:
@@ -4596,12 +4412,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
         name: Spontaneous Remission of ME/CFS in 2026
-        content:
-          "<p>I believe I have been fortunate to have had a spontaneous remission
+        content: "<p>I believe I have been fortunate to have had a spontaneous remission
           of my ME/CFS symptoms. It has been a few weeks since I’ve felt a change.
           I take the position…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/remission-of-me-cfs\">thechels.uk</a>.</p>"
-        published: "2026-07-31T22:00:00+00:00"
+        published: '2026-07-31T22:00:00+00:00'
       activity:
         type: link
       rels:
@@ -4613,20 +4428,53 @@
       photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
     type: link
     title: Spontaneous Remission of ME/CFS in 2026
-    content:
-      "<p>I believe I have been fortunate to have had a spontaneous remission
+    content: "<p>I believe I have been fortunate to have had a spontaneous remission
       of my ME/CFS symptoms. It has been a few weeks since I’ve felt a change. I take
       the position…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/remission-of-me-cfs\">thechels.uk</a>.</p>"
+  '2015316':
+    id: '2015316'
+    uri: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
+    source: false
+    pubdate: 2026-07-31 23:00:00.000000000 +01:00
+    raw:
+      source: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
+      verified: true
+      verified_date: '2026-08-01T12:22:11+00:00'
+      id: 2015316
+      private: false
+      data:
+        author: &75
+          name: Nuchronic
+          url: https://nuchronic.uk/
+          photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
+        url: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
+        name: Spontaneous Remission of ME/CFS in 2026
+        content: "<p>I believe I have been fortunate to have had a spontaneous remission
+          of my ME/CFS symptoms. It has been a few weeks since I’ve felt a change.
+          I take the posit…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/spontaneous-remission-of-me-cfs\">thechels.uk</a>.</p>"
+        published: '2026-07-31T22:00:00+00:00'
+        published_ts: 1785535200
+      activity:
+        type: link
+      rels:
+        canonical: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
+      target: https://thechels.uk/spontaneous-remission-of-me-cfs
+    author: *75
+    type: link
+    title: Spontaneous Remission of ME/CFS in 2026
+    content: "<p>I believe I have been fortunate to have had a spontaneous remission
+      of my ME/CFS symptoms. It has been a few weeks since I’ve felt a change. I take
+      the posit…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/spontaneous-remission-of-me-cfs\">thechels.uk</a>.</p>"
 "/remission-of-me-cfs":
-  "2015303":
-    id: "2015303"
+  '2015303':
+    id: '2015303'
     uri: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
     source: false
     pubdate: 2026-07-31 22:00:00.000000000 +00:00
     raw:
       source: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
       verified: true
-      verified_date: "2026-08-01T09:35:50+00:00"
+      verified_date: '2026-08-01T09:35:50+00:00'
       id: 2015303
       private: false
       data:
@@ -4636,12 +4484,11 @@
           photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
         url: https://nuchronic.uk/item/spontaneous-remission-of-me-cfs-in-2026-5ced1a8c7d/
         name: Spontaneous Remission of ME/CFS in 2026
-        content:
-          "<p>I believe I have been fortunate to have had a spontaneous remission
+        content: "<p>I believe I have been fortunate to have had a spontaneous remission
           of my ME/CFS symptoms. It has been a few weeks since I’ve felt a change.
           I take the position…</p>\n\n        \n        <p>Continue reading at <a
           href=\"https://thechels.uk/remission-of-me-cfs\">thechels.uk</a>.</p>"
-        published: "2026-07-31T22:00:00+00:00"
+        published: '2026-07-31T22:00:00+00:00'
       activity:
         type: link
       rels:
@@ -4653,13 +4500,11 @@
       photo: https://avatars.webmention.io/nuchronic.uk/fd00fb6e54db15212e7bdc30dc4e43c55832024c72eb59d45b5df578df38ddba.png
     type: link
     title: Spontaneous Remission of ME/CFS in 2026
-    content:
-      "<p>I believe I have been fortunate to have had a spontaneous remission
+    content: "<p>I believe I have been fortunate to have had a spontaneous remission
       of my ME/CFS symptoms. It has been a few weeks since I’ve felt a change. I take
       the position…</p>\n\n        \n        <p>Continue reading at <a href=\"https://thechels.uk/remission-of-me-cfs\">thechels.uk</a>.</p>"
 "/2026-08-01-daily-rundown": {}
-"/uefa-welcomes-fifa-s-withdrawal-of-plans-to-sell-a-stake-in-the-world-cup-uefa-com":
-  {}
+"/uefa-welcomes-fifa-s-withdrawal-of-plans-to-sell-a-stake-in-the-world-cup-uefa-com": {}
 "/hiyd-chrome-extension-for-linked-quote-capture-release-dc23d828a0c0": {}
 "/projects/ext-hiyd": {}
 "/hiyd-chrome-extension-for-linked-quote-capture-release-dd01da7277fe": {}
