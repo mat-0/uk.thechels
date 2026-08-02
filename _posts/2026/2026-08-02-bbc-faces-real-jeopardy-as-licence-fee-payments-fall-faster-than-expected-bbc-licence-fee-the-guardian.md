@@ -7,8 +7,8 @@ seo: "Director general Matt Brittin says funding model ties BBC to the past as n
 layout: post
 type: linked
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 Have shared a QR code for paying a licence fee on every World Cup broadcast in the summer, you can sense their desperation.
