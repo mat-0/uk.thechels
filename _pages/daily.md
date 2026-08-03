@@ -11,6 +11,7 @@ date: 2026-08-03
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Monday, 03 August 2026
 
 - The average temperature today is 26.47˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 95 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Garden Waste Day
 
 <!-- task_marker ends -->
@@ -40,36 +43,43 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Set exceptional standards.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - York City v Crawley Town
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 136.3300018310547 
-- ^FTSE : 10862.3203125 
-- ^FTMC : 24211.859375 
+- VWRL.L : 136.3300018310547
+- ^FTSE : 10862.3203125
+- ^FTMC : 24211.859375
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > I am going to start looking for jobs with yoghurt companies as I hear they have a great culture.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - ‘You literally can’t’: AI startup Orchid sparks backlash over its ‘second brain’ assistant (Euronews, [2 minutes ago](http://www.euronews.com/culture/2026/08/03/you-literally-cant-ai-startup-orchid-sparks-backlash-over-its-second-brain-assistant))
-- Latest news bulletin  August 3rd, 2026 – Midday (Euronews, [21 minutes ago](http://www.euronews.com/video/2026/08/03/latest-news-bulletin-august-3rd-2026-midday))
+- Latest news bulletin August 3rd, 2026 – Midday (Euronews, [21 minutes ago](http://www.euronews.com/video/2026/08/03/latest-news-bulletin-august-3rd-2026-midday))
 - Major oil companies reap profits as US-Iran fighting drives energy prices higher (Euronews, [21 minutes ago](http://www.euronews.com/business/2026/08/03/major-oil-companies-reap-profits-as-us-iran-fighting-drives-energy-prices-higher))
 - Video shows damage after Naples earthquake injures 26 (Euronews, [57 minutes ago](http://www.euronews.com/video/2026/08/03/video-shows-damage-after-naples-earthquake-injures-26))
 - Donald Trump angers music fans after sharing AI-generated image of himself as Elvis Presley (Euronews, [1 hours ago](http://www.euronews.com/culture/2026/08/03/donald-trump-angers-music-fans-after-sharing-ai-generated-image-of-himself-as-elvis-presle))
@@ -103,7 +113,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > crotchet - noun: 1. An eccentric opinion, preference, or habit. 2. In music, a quarter note. 3. A small hook or hooklike device or structure.
+> crotchet - noun: 1. An eccentric opinion, preference, or habit. 2. In music, a quarter note. 3. A small hook or hooklike device or structure.
 
 <!-- word_marker ends -->
 
@@ -118,6 +128,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > thing on the list
 
 <!-- eno_marker ends -->
@@ -125,9 +136,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Vendetta (Rated: 3)
 - Released in 2013
 - Summary: Special ops interrogation officer Jimmy Vickers tracks down a gang who slaughtered his parents. With police closing in &amp; his old unit on his trail, he has to to evade capture long enough to complete his gruesome crusade.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -148,9 +161,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Derek Sivers [URL](https://sive.rs/) [Feed](https://sive.rs/en.atom)
 - Cory Dransfeldt [URL](https://www.coryd.dev/) [Feed](https://www.coryd.dev/feeds/all.xml)
 - Smart [URL](https://www.smartlab.at/) [Feed](https://www.smartlab.at/feed/)
 - ThoughtAsylum [URL](https://www.thoughtasylum.com/) [Feed](https://www.thoughtasylum.com/atom.xml)
 - Lynn Fisher [URL](https://lynnandtonic.com/) [Feed](https://lynnandtonic.com/feed.xml)
+
 <!-- blogroll_marker ends -->
