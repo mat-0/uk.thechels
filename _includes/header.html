@@ -3,10 +3,9 @@
 
   <head>
     <meta charset="utf-8">
+    <title>{{ page.title | default: post.title }}</title>
     <meta name="referrer" content="origin">
     {% assign profile_description = page.seo | default: post.seo | default: page.title | default: post.title %}
-    <title>{{ page.title | default: post.title }}</title>
-    <meta name="title" content="{{ page.title | default: post.title }} | {{ site.title }} by thechelsuk">
     <meta name="description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
     <meta name="robots" content="{% if page.robots %}{{ page.robots }}{% else %}index,follow{% endif %}">
     <meta name="google-adsense-account" content="ca-pub-7806573467007778">
@@ -34,23 +33,31 @@
 
     <!-- Open Graph and the rest of the meta tags  -->
 
-    <meta property="og:locale" content="en_US">
+    <meta property="og:locale" content="en_GB">
     <meta property="og:type" content="article">
     <meta property="og:title"
       content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} by thechelsuk">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
-    <meta property="og:image" content="{{ site.url }}{{ site.owner.avatar }}">
+    <meta property="og:image" content="{{ site.owner.avatar }}">
     <meta property="og:site_name" content="{{ site.title }} {{ site.description }} by thechelsuk">
     <meta property="og:description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
     <meta property="article:publisher" content="{{ site.url }}">
-    <meta property="article:author" content="{{ site.owner.name }} at {{site.owner.uri }}">
+    <meta property="article:author" content="{{ site.owner.name }} at {{site.organization.url }}">
     <meta property="article:published_time" content="{{ page.date }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title"
+      content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} by thechelsuk">
+    <meta name="twitter:description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
+    <meta name="twitter:image" content="{{ site.owner.avatar }}">
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta name="format-detection" content="address=no">
     <meta name="HandheldFriendly" content="True">
-    <meta name="theme-color" content="#005CA3">
+    <meta name="theme-color" content="#005ca3" media="(prefers-color-scheme: light)">
+    <meta name="theme-color" content="#eebbc3" media="(prefers-color-scheme: dark)">
+
 
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-touch-fullscreen" content="yes">
@@ -69,7 +76,6 @@
     <link rel="icon" href="/favicon.ico" sizes="32x32">
     <link rel="icon" href="/favicon.svg" type="image/svg+xml">
     <link rel="apple-touch-icon" href="/favicon.png">
-    <link rel="manifest" href="/manifest.json">
 
     <!-- Linking socials and RSS feeds -->
 
