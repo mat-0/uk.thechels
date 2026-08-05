@@ -5,6 +5,7 @@ date: 2023-07-03 18:28
 zwift_id: 1379928336364503088
 zwift_url: https://zwift.com/uk/activity/1379928336364503088
 type: ride
+robots: noindex
 tags: [rides]
 ---
 

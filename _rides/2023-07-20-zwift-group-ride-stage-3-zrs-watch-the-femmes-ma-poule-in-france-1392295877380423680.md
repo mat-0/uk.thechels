@@ -5,6 +5,7 @@ date: 2023-07-20 20:00
 zwift_id: 1392295877380423680
 zwift_url: https://zwift.com/uk/activity/1392295877380423680
 type: ride
+robots: noindex
 tags: [rides]
 ---
 

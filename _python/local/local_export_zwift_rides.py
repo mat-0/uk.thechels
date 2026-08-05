@@ -178,6 +178,7 @@ def build_markdown(activity):
         f"zwift_id: {activity_id}",
         f"zwift_url: https://zwift.com/uk/activity/{activity_id}",
         f"type: ride",
+        f"index: noindex",
         f"tags: [rides]",
         "---",
         "",

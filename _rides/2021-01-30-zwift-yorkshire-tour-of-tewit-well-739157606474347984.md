@@ -5,6 +5,7 @@ date: 2021-01-30 16:11
 zwift_id: 739157606474347984
 zwift_url: https://zwift.com/uk/activity/739157606474347984
 type: ride
+robots: noindex
 tags: [rides]
 ---
 

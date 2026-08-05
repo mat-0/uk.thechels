@@ -5,6 +5,7 @@ date: 2026-07-27 15:00
 zwift_id: 0
 zwift_url:
 type: ride
+robots: noindex
 tags: [rides]
 ---
 

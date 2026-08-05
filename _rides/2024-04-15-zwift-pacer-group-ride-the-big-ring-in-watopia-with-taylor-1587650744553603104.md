@@ -5,6 +5,7 @@ date: 2024-04-15 08:55
 zwift_id: 1587650744553603104
 zwift_url: https://zwift.com/uk/activity/1587650744553603104
 type: ride
+robots: noindex
 tags: [rides]
 ---
 
