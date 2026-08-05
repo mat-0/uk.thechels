@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Bread and Butter Pudding
+date: 2017-10-17 15:00:00
 tags: [recipe]
 seo: "Bread and Butter Pudding makes a lovely dessert, and is so easy to make."
 type: blog
