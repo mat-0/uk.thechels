@@ -1,6 +1,6 @@
 ---
 layout: index
-title: // Site // Firehose //
+title: Home of thechelsuk // Firehose
 seo: A working out loud public second brain blog from thechelsuk, your favourite engineering leader. ★ / ✚ / ✪ / ♫ / → / » / ⇉.
 ---
 
