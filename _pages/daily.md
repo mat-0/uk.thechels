@@ -11,6 +11,7 @@ date: 2026-08-05
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 05 August 2026
 
 - The average temperature today is 17.28˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 96 days since the last change (2026-04-30)
 
@@ -33,47 +35,56 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Use a common language.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - K-League All Stars v Manchester City
 - Chelsea v Juventus
 - Arsenal v Real Betis
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.0 
-- ^FTSE : 10879.400390625 
-- ^FTMC : 24459.30078125 
+- VWRL.L : 139.0
+- ^FTSE : 10879.400390625
+- ^FTMC : 24459.30078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > What do you call a pirate with a wooden leg? Peggy.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Flamenco legend Pepe Habichuela dies (Euronews, [8 minutes ago](http://www.euronews.com/culture/2026/08/05/flamenco-legend-pepe-habichuela-dies))
 - Your viruses fly with you, and scientists could use them to spot the next pandemic (Euronews, [49 minutes ago](http://www.euronews.com/health/2026/08/05/your-viruses-fly-with-you-and-scientists-could-use-them-to-spot-the-next-pandemic))
 - Russian overnight barrage on Ukraine kills at least 15 in Kyiv and surrounding region (Euronews, [52 minutes ago](http://www.euronews.com/my-europe/2026/08/05/russian-overnight-barrage-on-ukraine-kills-at-least-15-in-kyiv-and-surrounding-region))
 - ‘An underused tool’: How regenerative farmers are shielding Spanish land from wildfires (Euronews, [1 hours ago](http://www.euronews.com/2026/08/05/an-underused-tool-how-regenerative-farmers-are-shielding-spanish-land-from-wildfires))
-- Latest news bulletin  August 5th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/08/05/latest-news-bulletin-august-5th-2026-morning))
+- Latest news bulletin August 5th, 2026 – Morning (Euronews, [1 hours ago](http://www.euronews.com/video/2026/08/05/latest-news-bulletin-august-5th-2026-morning))
 - Brussels vs Beijing: The new trade battle begins in Morocco and Turkey (Euronews, [1 hours ago](http://www.euronews.com/my-europe/2026/08/05/brussels-vs-beijing-the-new-trade-battle-begins-in-morocco-and-turkey))
 - How astronaut Luca Parmitano gears up for the Artemis III Moon mission (Euronews, [1 hours ago](http://www.euronews.com/next/2026/08/05/how-astronaut-luca-parmitano-gears-up-for-the-artemis-iii-moon-mission))
 - Which cities in Japan are candidates to become the 'second capital'? (Euronews, [1 hours ago](http://www.euronews.com/travel/2026/08/05/which-cities-in-japan-are-candidates-to-become-the-second-capital))
@@ -111,7 +122,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > cumbrous - adjective: Difficult to carry, use, or manage, especially because of size, weight, or complexity.
+> cumbrous - adjective: Difficult to carry, use, or manage, especially because of size, weight, or complexity.
 
 <!-- word_marker ends -->
 
@@ -126,6 +137,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > No entries found
 
 <!-- eno_marker ends -->
@@ -133,9 +145,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - England Is Mine (Rated: 5)
 - Released in 2017
 - Summary: A portrait of Morrissey and his early life in 1970s Manchester before he went on to become the lead singer of seminal alternative rock band The Smiths.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -149,9 +163,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - MacStories [URL](https://www.macstories.net/) [Feed](https://www.macstories.net/feed/)
 - Matthew Cassinelli [URL](https://matthewcassinelli.com/) [Feed](https://matthewcassinelli.com/feed/)
 - Robin Rendle [URL](https://robinrendle.com/) [Feed](https://robinrendle.com/feed.xml)
 - Shekhar Gulati [URL](https://shekhargulati.com/) [Feed](https://shekhargulati.com/feed/)
 - Bubbles [URL](https://dshbx.de/blog/bubbles/) [Feed](https://dshbx.de/blog/bubbles/feed)
+
 <!-- blogroll_marker ends -->
