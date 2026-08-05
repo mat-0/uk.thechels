@@ -21,7 +21,6 @@ permalink: /sitemap.xml
   </url>
   {% endif %}
   {% endfor %}
-
   <!-- projects -->
   {% assign links = site.projects %}
   {% for link in links %}
@@ -36,6 +35,7 @@ permalink: /sitemap.xml
   {% endfor %}
   <!-- posts-->
 {% assign posts = site.posts | where_exp: "post", "post.type != 'daily'" %}
+  {% for post in posts %}
   <url>
     <loc>{{ site.url }}{{ post.url }}</loc>
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
