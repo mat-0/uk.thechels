@@ -14,6 +14,7 @@ class:
 
 - Preparation time: N Minutes
 - Cooking time: N Minutes
+- Total time: N Minutes
 - Serves: N
 
 ## Ingredients
