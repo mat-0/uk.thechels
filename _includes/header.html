@@ -7,7 +7,18 @@
     <meta name="referrer" content="origin">
     {% assign profile_description = page.seo | default: post.seo | default: page.title | default: post.title %}
     <meta name="description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
-    <meta name="robots" content="{% if page.robots %}{{ page.robots }}{% else %}index,follow{% endif %}">
+
+    {% if page.robots %}
+    <!-- page -->
+    <meta name="robots" content="{{ page.robots }}">
+    {% elsif post.robots %}
+    <!-- post -->
+    <meta name="robots" content="{{ post.robots }}">
+    {% else %}
+    <!-- default -->
+    <meta name="robots" content="index,follow">
+    {% endif %}
+
     <meta name="google-adsense-account" content="ca-pub-7806573467007778">
     {%- if page.canonical -%}
     <link rel="canonical" href="{{ page.canonical }}" />
