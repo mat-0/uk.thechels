@@ -36,8 +36,8 @@ tags: [recipe]
 
 ### Toppings Ideas
 
-- Spring onion , chopped
-- Fresh ground pepper
+- Spring onion, chopped.
+- Fresh ground pepper.
 
 ## Instructions
 
@@ -49,5 +49,5 @@ tags: [recipe]
 1. Remove from heat and remove bay leaves. Stir in the coconut milk and optional lemon juice.
 1. Taste for seasoning and add more to taste.
 1. Using an immersion blender, blend until smooth and creamy. You can also use a regular blender and carefully blend in batches.
-1. Chop spring onion for garnish
+1. Chop spring onion for garnish.
 1. Serve in soup bowls and top with chopped green onion, fresh ground pepper and a few pieces of cooked potato.
