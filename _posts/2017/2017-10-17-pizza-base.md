@@ -8,7 +8,7 @@ type: blog
 seo: "Easy homemade simple and effective pizza base mix recipe with 00 flour"
 ---
 
-This is my simple and effective pizza base recipe. It uses '00' flour which is a finely ground Italian flour that is perfect for pizza bases. The dough is easy to make and can be used immediately or stored in the fridge or freezer for later use. It's fun to knead and shape the dough with children.
+> This is my simple and effective pizza base recipe. It uses '00' flour which is a finely ground Italian flour that is perfect for pizza bases. The dough is easy to make and can be used immediately or stored in the fridge or freezer for later use. It's fun to knead and shape the dough with children.
 
 - Prep time: 20 minutes
 - Proving time: 1 hour

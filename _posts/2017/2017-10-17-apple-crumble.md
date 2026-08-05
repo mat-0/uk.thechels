@@ -1,9 +1,13 @@
 ---
 layout: post
 title: Apple Crumble - Classic Recipe and Cooking Guide
-tags:
+date: 2017-10-17 14:00:00
+tags: [recipe]
 type: blog
+seo: "A classic apple crumble recipe with a simple cooking guide"
 ---
+
+> A classic apple crumble recipe that is easy to make and perfect for any occasion. Serve it warm with custard or ice cream for a delightful dessert.
 
 - Serves 4
 - Preparation time less than 30 mins
@@ -27,9 +31,9 @@ type: blog
 
 ## Method
 
-- Preheat the oven to 180C/350F/Gas 4.
-- Place the flour and sugar in a large bowl and mix well. Taking a few cubes of butter at a time rub into the flour mixture. Keep rubbing until the mixture resembles breadcrumbs.
-- Place the fruit in a large bowl and sprinkle over the sugar, flour and cinnamon. Stir well being careful not to break up the fruit.
-- Butter a 24cm/9in ovenproof dish. Spoon the fruit mixture into the bottom, then sprinkle the crumble mixture on top.
-- Bake in the oven for 40-45 minutes until the crumble is browned and the fruit mixture bubbling.
-- Serve with thick cream or custard.
+1. Preheat the oven to 180C/350F/Gas 4.
+1. Place the flour and sugar in a large bowl and mix well. Taking a few cubes of butter at a time rub into the flour mixture. Keep rubbing until the mixture resembles breadcrumbs.
+1. Place the fruit in a large bowl and sprinkle over the sugar, flour and cinnamon. Stir well being careful not to break up the fruit.
+1. Butter a 24cm/9in ovenproof dish. Spoon the fruit mixture into the bottom, then sprinkle the crumble mixture on top.
+1. Bake in the oven for 40-45 minutes until the crumble is browned and the fruit mixture bubbling.
+1. Serve with thick cream or custard.
