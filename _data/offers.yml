@@ -1,51 +1,75 @@
 - id: a-oct
   link: "https://share.octopus.energy/ideal-ant-315"
   title: "Octopus Energy - £50 credit when you switch."
+  type: "cashback"
 - id: b-oct
   link: "https://electroverse.octopus.energy/sign-up/magic?referralCode=aglow-louse-16571"
   title: "Electroverse - £5 free credit when you join."
+  type: "cashback"
 - id: c-oct
   link: "https://tech.referrals.octopus.energy/ulLGI6SC"
   title: "Octopus EV - £25 Visa card when you install a charger."
+  type: "cashback"
 - id: d-smart
   link: "https://i.smarty.co.uk/CSj6iK"
   title: "Smarty - Choose a gift card up to £20 when you join."
+  type: "cashback"
 - id: e-you
   link: "https://youfibre.com"
   title: "YouFibre - Up to £100 when taking a broadband plan with code 5QGYSF"
+  type: "cashback"
 - id: f-monzo
   link: "https://join.monzo.com/c/k7stxxwv"
   title: "Monzo Bank - Join and get a reward of either £25, £50, or £100"
+  type: "cashback"
 - id: g-custard
   link: "https://joincustard.co.uk/ur/cHiJF-8aRjSpG02Q5Eu3EA=="
   title: "Get £1 free with Custard - and easy to achieve get-paid-to tasks."
+  type: "cashback"
 - id: h-zopa
   link: "https://www.zopa.com/mgma?referralCode=0720b70ec6c99fa1cd00"
   title: "Get £10 free when you open a Biscuit bank account with Zopa."
-- id: q-cybaa
-  link: "https://cybaa.io/?ref=thechelsuk"
-  title: "Cybaa - Monitor your domains for security issues and get real time alerts."
-- id: z-engman
+  type: "cashback"
+- id: x-engman
   link: "https://apps.apple.com/uk/app/engman/id6747295473"
   title: "EngMan - Get the Engineering Manager Coach Cards App on iOS."
-- id: z-tomoz
+- id: x-tomoz
   link: "https://apps.apple.com/gb/app/tomoz/id6748755747"
   title: "Tomoz - Plan for tomorrow, today on iOS."
-- id: z-mltply
+  type: "app"
+- id: x-mltply
   link: "https://apps.apple.com/gb/app/mltply/id6747147316"
   title: "Mltply - Chat-style maths practice for kids on iOS."
-- id: z-hiyd
+  type: "app"
+- id: x-hiyd
   link: "https://apps.apple.com/gb/app/hiyd/id6746853559"
   title: "Hiyd - The Jekyll companion app for iOS."
-- id: z-shortkeys
+  type: "app"
+- id: x-shortkeys
   link: "https://apps.apple.com/gb/app/shortkeys/id6755919256"
   title: "ShortKeys - Multi-line text replacement on iOS."
+  type: "app"
 - id: z-GitHub
   link: "https://github.com/sponsors/thechelsuk"
-  title: "Sponsor thechelsuk on GitHub"
+  title: "Sponsor thechelsuk on GitHub."
+  type: "support"
 - id: z-kofi
   link: "https://ko-fi.com/thechelsuk"
-  title: "Support thechelsuk on Ko-fi"
+  title: "Support thechelsuk on Ko-fi."
+  type: "support"
 - id: z-bubble
   link: "https://thechelsuk.redbubble.com"
-  title: "Support thechelsuk with Merch from Redbubble"
+  title: "Support thechelsuk with merch from Redbubble."
+  type: "support"
+- id: 0-cybaa
+  link: "https://cybaa.io/?ref=thechelsuk"
+  title: "Cybaa - Monitor your domains for security issues and get real time alerts."
+  type: "friends"
+- id: 0-acorns
+  link: "https://donate.acorns.org.uk/?campaign=thechelsuk"
+  title: "Donate to Acorns Children's Hospice."
+  type: "friends"
+- id: 0-me-cfs
+  link: "https://meassocation.org.uk/donate?ref=thechelsuk"
+  title: "Donate to the M.E. Association."
+  type: "friends"

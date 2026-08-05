@@ -4,9 +4,36 @@
 
 {{content}}
 
+
+{% assign cashback = site.data.offers | where: "type", "cashback" %}
+{% assign apps = site.data.offers | where: "type", "app" %}
+{% assign support = site.data.offers | where: "type", "support" %}
+{% assign friends = site.data.offers | where: "type", "friends" %}
+
+
+<h2>Cashback and Money off</h2>
 <ul id="offers">
-    {% for item in site.data.offers %}
-    <li><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
+    {% for item in cashback %}
+    <li id="{{item.id}}"><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
+    {% endfor %}
+</ul>
+<h2>My Apps</h2>
+<ul id="offers">
+    {% for item in apps %}
+    <li id="{{item.id}}"><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
+    {% endfor %}
+</ul>
+<h2>Support Me</h2>
+<ul id="offers">
+    {% for item in support %}
+    <li id="{{item.id}}"><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
+    {% endfor %}
+</ul>
+
+<h2>Support Others</h2>
+<ul id="offers">
+    {% for item in friends %}
+    <li id="{{item.id}}"><a rel="sponsored" href="{{item.link}}">{{item.title}}</a></li>
     {% endfor %}
 </ul>
 {% include footer.html %}
