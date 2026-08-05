@@ -21,18 +21,7 @@ permalink: /sitemap.xml
   </url>
   {% endif %}
   {% endfor %}
-  <!-- rides -->
-  {% assign links = site.rides %}
-  {% for link in links %}
-    <url>
-      <loc>{{ link.url | replace:'/index.html','/' | absolute_url | xml_escape }}</loc>
-      {% if link.last_modified_at or link.date %}
-        <lastmod>{{ link.last_modified_at | default: link.date | date_to_xmlschema }}</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-      {% endif %}
-    </url>
-  {% endfor %}
+
   <!-- projects -->
   {% assign links = site.projects %}
   {% for link in links %}
@@ -45,20 +34,8 @@ permalink: /sitemap.xml
       {% endif %}
     </url>
   {% endfor %}
-  <!-- bookmarks -->
-  {% assign links = site.bookmarks %}
-  {% for link in links %}
-    <url>
-      <loc>{{ link.url | replace:'/index.html','/' | absolute_url | xml_escape }}</loc>
-      {% if link.last_modified_at or link.date %}
-        <lastmod>{{ link.last_modified_at | default: link.date | date_to_xmlschema }}</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-      {% endif %}
-    </url>
-  {% endfor %}
   <!-- posts-->
-  {% for post in site.posts %}
+{% assign posts = site.posts | where_exp: "post", "post.type != 'daily'" %}
   <url>
     <loc>{{ site.url }}{{ post.url }}</loc>
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
