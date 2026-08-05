@@ -3,7 +3,7 @@ layout: post
 title: Easy Homemade Pizza Base Recipe with 00 Flour
 date: 2017-10-17 12:00:00
 permalink: /pizza-base/
-tags:
+tags: [recipe]
 type: blog
 seo: "Easy homemade simple and effective pizza base mix recipe with 00 flour"
 ---
@@ -36,10 +36,10 @@ This is my simple and effective pizza base recipe. It uses '00' flour which is a
 1. Cover with a damp cloth in a warm area
 1. Leave for an hour and dough should have doubled in size
 1. Remove dough onto flour-dusted worktop and knock back dough
-1. Split into small balls
-1. Shape into balls or discs as required Either wrap balls in cling film and put in fridge / freezer until needed or use immediately.
+1. Split into small balls or discs as required
+1. Either wrap balls in cling film and put in fridge / freezer until needed or use immediately.
 
-## Cooking
+## Cooking and Immediate Use
 
 1. Roll pizza out on to a base about 15-20 minutes before use
 1. Put pizza slate in oven and heat to recipe temperature
