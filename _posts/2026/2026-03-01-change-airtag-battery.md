@@ -13,6 +13,7 @@ type: ways
 
 - Uses a CR2032 round coin battery (lithium 3V)
 
+## Steps
 
 1. Press down on the polished stainless steel battery cover of your AirTag and rotate anticlockwise until the cover stops rotating.
 1. Remove the cover and battery.
