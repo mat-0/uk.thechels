@@ -1,0 +1,44 @@
+{% include header.html %}
+<h1 class="post-title">{{ page.title }}</h1>
+{{ content }}
+
+{% assign this_year = "now" | date: "%Y" %}
+
+{% assign total_generated = 0 %}
+{% assign total_used = 0 %}
+{% assign total_exported = 0 %}
+{% assign total_imported = 0 %}
+{% assign total_charged = 0 %}
+{% assign total_discharged = 0 %}
+
+{% for entry in site.data.energy %}
+{% assign entry_year = entry.date | date: "%Y" %}
+{% if entry_year == this_year %}
+{% assign total_generated = total_generated | plus: entry.generated_kwh %}
+{% assign total_used = total_used | plus: entry.used_kwh %}
+{% assign total_exported = total_exported | plus: entry.exported_kwh %}
+{% assign total_imported = total_imported | plus: entry.imported_kwh %}
+{% assign total_charged = total_charged | plus: entry.battery_charged_kwh %}
+{% assign total_discharged = total_discharged | plus: entry.battery_discharged_kwh %}
+{% endif %}
+{% endfor %}
+
+{% assign self_sufficiency_ytd = 0 %}
+{% if total_used > 0 %}
+{% assign diff = total_used | minus: total_imported %}
+{% assign self_sufficiency_ytd = diff | times: 100.0 | divided_by: total_used %}
+{% endif %}
+
+
+<h3>Energy metrics for {{ this_year }} to date</h3>
+<ul>
+    <li>Generated: {{ total_generated | round: 2 }} kWh</li>
+    <li>Used year: {{ total_used | round: 2 }} kWh</li>
+    <li>Exported year: {{ total_exported | round: 2 }} kWh</li>
+    <li>Imported year: {{ total_imported | round: 2 }} kWh</li>
+    <li>Battery charged: {{ total_charged | round: 2 }} kWh</li>
+    <li>Battery discharged: {{ total_discharged | round: 2 }} kWh</li>
+    <li>Self-sufficiency: {{ self_sufficiency_ytd | round: 2 }}%</li>
+</ul>
+
+{% include footer.html %}
