@@ -4,6 +4,7 @@ syndicate: true
 date: 2026-05-13 20:14
 title: What can you buy with a £5m donation
 type: social
+robots: noindex
 show: false
 i_type: in-reply-to
 i_url: "https://bsky.app/profile/politicsuk.com/post/3mlqui4nl4t2y"

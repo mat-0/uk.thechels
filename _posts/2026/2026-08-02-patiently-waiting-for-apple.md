@@ -6,6 +6,7 @@ syndicate:
   - bluesky
 date: 2026-08-02 21:42
 type: social
+robots: noindex
 show: false
 i_type: note
 i_url: ""
