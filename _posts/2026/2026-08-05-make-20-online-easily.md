@@ -11,7 +11,7 @@ syndicate:
 
 Things are tight at the moment, so I needed to make some additional money online. I made over £20 in under 20 minutes of effort, entirely legally, using free sign-up offers — no gambling, no catch. Here’s exactly how, step by step with a potential to make 100s if you refer friends to the services I used.
 
-**_I avoided all the gambling sign-up offers as I think they are predatory horrible businesses, but you could make over £100 using these if you choose to._**
+__*I avoided all the gambling sign-up offers as I think they are predatory horrible businesses, but you could make over £100 more if you choose these offers too, the rest of the post assumes you did not.*__
 
 ## Zopa Bank (instant)
 
