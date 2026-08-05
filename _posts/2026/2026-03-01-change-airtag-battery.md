@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to replace the battery in your Apple AirTag
-seo: Ways - How to replace the battery in your Apple AirTag
+seo: Ways - How to replace the CR2032 battery in your Apple AirTag
 link: https://support.apple.com/en-gb/102600
 type: linked
 cited: Apple Support
@@ -9,7 +9,7 @@ date: 2026-03-01
 type: ways
 ---
 
-> A simple guide on how to replace the battery in your Apple AirTag.
+> Replacing your AirTag battery takes about a minute. AirTags use a standard CR2032 3V coin battery, and Apple designed them to be user-replaceable — no tools needed. Here’s how to change the AirTag battery step by step, plus how to check the battery level in Find My.
 
 - Uses a CR2032 round coin battery (lithium 3V)
 
@@ -30,3 +30,7 @@ _When your AirTag battery is very low, a notification will appear on your iPhone
 1. Tap the Items tab.
 1. Tap the AirTag whose battery charge you want to check.
 1. If the battery level is very low, Low Battery will appear under the name of your AirTag.
+
+### Notes
+
+The CR2032 battery lasts about a year in an Apple AirTag with everyday use. The batteries are widely available and inexpensive, and you can find them at most electronic stores, supermarkets and pharmacies.
