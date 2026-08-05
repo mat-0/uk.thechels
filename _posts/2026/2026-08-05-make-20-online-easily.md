@@ -3,7 +3,7 @@ title: How I made £20 quickly and legally online in the UK and you could make 1
 seo: make quick money easily online with no outlay expenditure or risk and how you could make over £100 with referrals
 date: 2026-08-05 16:00
 layout: post
-type: post
+type: blog
 syndicate:
   - mastodon
   - bluesky
