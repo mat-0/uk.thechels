@@ -5,13 +5,13 @@ date: 2026-08-05 16:00
 layout: post
 type: post
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 Things are tight at the moment, so I needed to make some additional money online. I made over £20 in under 20 minutes of effort, entirely legally, using free sign-up offers — no gambling, no catch. Here’s exactly how, step by step with a potential to make 100s if you refer friends to the services I used.
 
-__*I avoided all the gambling sign-up offers as I think they are predatory horrible businesses, but you could make over £100 using these if you choose to.*__
+**_I avoided all the gambling sign-up offers as I think they are predatory horrible businesses, but you could make over £100 using these if you choose to._**
 
 ## Zopa Bank (instant)
 
@@ -27,12 +27,12 @@ __*I avoided all the gambling sign-up offers as I think they are predatory horri
 1. I signed up to [Custard](https://joincustard.co.uk/ur/cHiJF-8aRjSpG02Q5Eu3EA==) and this gave me £1.
 1. I then followed them on instagram and set-up my email preferences for 10p and 50p respectively.
 1. I then signed up to a number of free trials - these are all free, but commit to a payment after 7 days so I set a reminder to cancel them before the 7 days were up. These are all via Amazon Prime Video, so you can cancel them easily in your Amazon account. I signed up for the following:
-     - MGM+  via Amazon Prime Video for £1.
-     - Hayu via Amazon Prime Video for £2.
-     - Crime and Investigations via Amazon Prime Video  for £2.
-     - Shudder via Amazon Prime Video for £2.
-     - Apple TV via Amazon Prime Video for £2.
-     - History Play via Amazon Prime Video for £2.
+   - MGM+ via Amazon Prime Video for £1.
+   - Hayu via Amazon Prime Video for £2.
+   - Crime and Investigations via Amazon Prime Video for £2.
+   - Shudder via Amazon Prime Video for £2.
+   - Apple TV via Amazon Prime Video for £2.
+   - History Play via Amazon Prime Video for £2.
 1. Waited for a few days for it to track (typically 1-3 days)
 1. Checked the daily winner (£10 spin), didn't win.
 
@@ -58,4 +58,4 @@ Finally if you refer people to Custard you can make £8 once they hit their £10
 | Custard | £11.60 | 1–3 days |
 | Monzo | up to £100 | After first purchase |
 
-__*These are all referral links, so if you sign up through them I will get the bonus as I've outlined for you. I have no affiliation with any of these companies, not paid to make this post and I am a genuine Zopa and Monzo bank customer. T&Cs apply so do check before signing up.*__
+**_These are all referral links, so if you sign up through them I will get the bonus as I've outlined for you. I have no affiliation with any of these companies, not paid to make this post and I am a genuine Zopa and Monzo bank customer. T&Cs apply so do check before signing up._**
