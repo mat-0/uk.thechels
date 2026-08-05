@@ -35,4 +35,4 @@ type: blog
 1. Sprinkle a little ground nutmeg and a dusting of sugar to make the top nice and crispy.
 1. Cook for 50 minutes on gas mark 3 100c/200f.
 
-__*People sometimes confuse Bread and Butter Pudding with Bread Pudding which is something different, but just as tasty in its own way. Both puddings were traditionally seen as opportunities to use up stale bread.*__
+**_People sometimes confuse Bread and Butter Pudding with Bread Pudding which is something different, but just as tasty in its own way. Both puddings were traditionally seen as opportunities to use up stale bread._**
