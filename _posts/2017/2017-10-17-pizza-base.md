@@ -2,6 +2,7 @@
 layout: post
 title: Easy Homemade Pizza Base Recipe with 00 Flour
 date: 2017-10-17 12:00:00
+permalink: /pizza-base/
 tags:
 type: blog
 seo: "Easy homemade simple and effective pizza base mix recipe with 00 flour"
