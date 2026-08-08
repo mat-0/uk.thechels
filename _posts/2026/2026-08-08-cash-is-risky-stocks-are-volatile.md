@@ -5,15 +5,15 @@ type: blog
 title: Cash is risky, the stock market is volatile, and why that distinction matters in 2026
 tags: [finance]
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 > Volatility is short-term price movement; risk is the chance of not meeting your goal. They are not the same thing and why it matters in 2026
 
 ## Definitions
 
-Risk is what you see when there is any investment advert in the uk. "Capital is at risk", "Stocks may go up as well as down". "You may get back less than you invest", and broadly it's true but it is not likely when investing in a broad index fund. Losing all your money  would require the entire stock market and thus all business to collapse, losing your investments is the least of your problems, it would be a global existential crisis. You may get hit by a bus when crossing a busy road tomorrow. It could happen but it's unlikely as there are traffic lights, speed limits, horns, lights, zebra crossings - lots of signals.
+Risk is what you see when there is any investment advert in the uk. "Capital is at risk", "Stocks may go up as well as down". "You may get back less than you invest", and broadly it's true but it is not likely when investing in a broad index fund. Losing all your money would require the entire stock market and thus all business to collapse, losing your investments is the least of your problems, it would be a global existential crisis. You may get hit by a bus when crossing a busy road tomorrow. It could happen but it's unlikely as there are traffic lights, speed limits, horns, lights, zebra crossings - lots of signals.
 
 Volatility is short-term price movement; risk is the chance of not meeting your goal. Volatility is what they mean when they say risk. The day-to-day value of individual stocks will move up and down as the folks on Wall Street and the stock exchanges around the world will look for an edge to make money on gaps high-tech computers will highlight. [Apple recently dropped 10%](https://finance.yahoo.com/markets/stocks/articles/why-apple-10-drop-fails-203810284.html?guccounter=1) when they announced on an earnings call they were using up some of their back-storage of chips during the AI ram shortage. [It's up 15% year to date and up 114% over 5 years](https://uk.finance.yahoo.com/quote/AAPL/) as of 8th of August 2026.
 
@@ -53,16 +53,16 @@ Compared to cash the difference is stark.
 
 Remember cash interest is assumed 2.5% before inflation and if we use the same 2.8% we use for stocks (so -0.3% in real terms) this is the difference on £1000 over these time periods (assuming monthly compounding at our fixed percentages (-0.3%, 5%) for simplicity, values would differ in real life, as life is not average)
 
-| Asset | 3 years | 5 years | 10 years | 15 years | 20 years |
-| --- | --- | --- | --- | --- | --- |
-| Cash | £991.03 | £985.09 | £970.40 | £955.93 | £941.68 |
+| Asset  | 3 years   | 5 years   | 10 years  | 15 years  | 20 years  |
+| ------ | --------- | --------- | --------- | --------- | --------- |
+| Cash   | £991.03   | £985.09   | £970.40   | £955.93   | £941.68   |
 | Stocks | £1,157.63 | £1,276.28 | £1,628.89 | £2,078.93 | £2,653.30 |
 
 That's approximately £1700 difference over twenty years in real terms, on just £1000, imagine the difference if you lump sum was £10k or £100k, but most people it's mostly likely to be regular contributions such as £250 a month.
 
-| Asset | 3 years | 5 years | 10 years | 15 years | 20 years |
-| --- | --- | --- | --- | --- | --- |
-| Cash | £9,951.71 | £15,874.85 | £30,527.91 | £44,962.48 | £59,181.84 |
+| Asset  | 3 years    | 5 years    | 10 years   | 15 years   | 20 years    |
+| ------ | ---------- | ---------- | ---------- | ---------- | ----------- |
+| Cash   | £9,951.71  | £15,874.85 | £30,527.91 | £44,962.48 | £59,181.84  |
 | Stocks | £10,829.95 | £18,229.72 | £40,219.68 | £68,285.08 | £104,104.42 |
 
 That's about £45k difference, again in real terms, for investing regularly for the long term in a global index fund.
@@ -73,7 +73,10 @@ Missing out on the time horizon matched with growth that beats inflation consist
 
 If you are approaching retirement having gained all this growth, it's important to plan how to withdraw and seeking financial advice from a regulated professional can become useful to avoid sequencing risk or withdrawing on a down market can cost more than you think.
 
-[^1]:[Bank of England Base rate - July 2026](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026)
-[^2]:[CPIH Figures from ONS - June 2026](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23)
+[^1]: [Bank of England Base rate - July 2026](https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/july-2026)
+
+[^2]: [CPIH Figures from ONS - June 2026](https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23)
+
 [^3]: Several global funds exist, but for this example I've picked [Vanguard's VWRL](https://www.vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing%3Fintcmpgn%3Dequityglobal_ftseallworlducitsetfusd_fund_link/overview) as it hold 3782 individual companies and has over $26 billion of assets held. The chart on this page shows it's performance since 2012 for a lump sum. Other funds are available.
+
 [^4]: This is a referral link to Zopa bank, new users (max of 10) who use this link get £10 free and access to the 7.1% saver, for providing this referral I also would benefit from a £10 credit to my account at no cost to you.
