@@ -29,10 +29,10 @@ But a new global pandemic has emerged and the world is reacting by selling off s
 
 Following your existing plan your withdrawals would mean you run out of money in year 6 just in time for your pension to kick in, in this pandemic scenario you run out of money in year 4 and have a shortfall of £15k.
 
-| Scenario  | Start  | Y1     | Y2     | Y3     | Y4     | Y5    | Y6   |
-|---------- |------- |------- |------- |------- |------- |------ |----- |
-| Original  | £300k  | £250k  | £200k  | £150k  | £100k  | £50k  | £0k  |
-| Pandemic  | £225k  | £185k  | £135k  | £85k   | -£15k  | 0     | 0    |
+| Scenario | Start | Y1    | Y2    | Y3    | Y4    | Y5   | Y6  |
+| -------- | ----- | ----- | ----- | ----- | ----- | ---- | --- |
+| Original | £300k | £250k | £200k | £150k | £100k | £50k | £0k |
+| Pandemic | £225k | £185k | £135k | £85k  | -£15k | 0    | 0   |
 
 Note: this example uses illustrative figures and doesn't take account of any growth that might occur during this period for simplicity. Reducing capital by £50k per year until no funds remain.
 
@@ -50,17 +50,16 @@ Like in March 2020 the pandemic saw a huge drop in the stock market losing 20% o
 
 In our above example, had you retired in the December and withdrew a £12.5k from your investments at the beginning of January to cover the next three months, Come April another £12.5k would be needed for the next three months, but as markets were down, to avoid being impacted by this, one could rely on the cash buffer to not sell out of the market, Using up £12.5 of cash reserves. Allowing the stock market to recover. From September one could begin to sell out their stocks quarterly basis as planned
 
-| Quarter | Withdrawal source | Amount | Cumulative cash used |
-| --- | --- | --- | --- |
-| Jan–Mar | Cash buffer | £12,500 | £12,500 |
-| Apr–Jun | Cash buffer | £12,500 | £25,000 |
-| Jul–Sep | Investments (recovered) | £12,500 | £25,000 |
-| Oct–Dec | Investments (recovered) | £12,500 | £25,000 |
+| Quarter | Withdrawal source       | Amount  | Cumulative cash used |
+| ------- | ----------------------- | ------- | -------------------- |
+| Jan–Mar | Cash buffer             | £12,500 | £12,500              |
+| Apr–Jun | Cash buffer             | £12,500 | £25,000              |
+| Jul–Sep | Investments (recovered) | £12,500 | £25,000              |
+| Oct–Dec | Investments (recovered) | £12,500 | £25,000              |
 
 Note
 
 - Assumes a cash buffer of £25,000 covers the first two quarters while markets are down, allowing the remaining £12,500-per-quarter withdrawals in H2 to come from investments once the market has recovered — avoiding selling at the bottom in Q1/Q2.
-
 
 ### Bond ladder
 
@@ -72,13 +71,13 @@ In our example, in the year prior to the planned retirement one could begin to p
 
 This would allow some flexibility around the timing, to avoid a market drop at that point but would effectively guarantee a return in those first four years and allow flexible selling of remaining investments at a suitable time for year 5 and 6.
 
-| Gilt maturity | Illustrative yield | Capital required | Maturity payout |
-| --- | --- | --- | --- |
-| 1-year | 4.3% | £47,938.64 | £50,000 |
-| 2-year | 4.4% | £45,874.25 | £50,000 |
-| 3-year | 4.4% | £43,940.86 | £50,000 |
-| 4-year | 4.5% | £41,928.07 | £50,000 |
-| Total  |  -   | £179,681.81 | 200,000 over 4 years |
+| Gilt maturity | Illustrative yield | Capital required | Maturity payout      |
+| ------------- | ------------------ | ---------------- | -------------------- |
+| 1-year        | 4.3%               | £47,938.64       | £50,000              |
+| 2-year        | 4.4%               | £45,874.25       | £50,000              |
+| 3-year        | 4.4%               | £43,940.86       | £50,000              |
+| 4-year        | 4.5%               | £41,928.07       | £50,000              |
+| Total         | -                  | £179,681.81      | 200,000 over 4 years |
 
 Note: Illustrative yields only[^2]
 
@@ -91,13 +90,13 @@ An annuity is an insurance product that in exchange for upfront capital, there i
 Income is paid regardless of market performance — once purchased, the insurer bears all investment risk, not you. This is the trade-off against the gilt ladder: similar upfront cost, but the annuity is a one-way transaction with no access to the lump sum once bought, whereas gilt rungs remain yours to sell early if needed.
 
 | Year | Guaranteed income | Cumulative income received |
-| --- | --- | --- |
-| 1 | £50,000 | £50,000 |
-| 2 | £50,000 | £100,000 |
-| 3 | £50,000 | £150,000 |
-| 4 | £50,000 | £200,000 |
-| 5 | £50,000 | £250,000 |
-| 6 | £50,000 | £300,000 |
+| ---- | ----------------- | -------------------------- |
+| 1    | £50,000           | £50,000                    |
+| 2    | £50,000           | £100,000                   |
+| 3    | £50,000           | £150,000                   |
+| 4    | £50,000           | £200,000                   |
+| 5    | £50,000           | £250,000                   |
+| 6    | £50,000           | £300,000                   |
 
 Notes:
 
@@ -117,5 +116,7 @@ None of these mitigations are mutually exclusive, and in reality you could blend
 The right mix depends on how much certainty you want to pay for, and how much flexibility you're willing to give up to get it. My retirement plan has an annual amount with a surplus above basic bills so I would adopt an adjustment to expenditure whilst also using cash reserves. My plan would also include pulling extra during bull markets to replenish cash reserves.
 
 [^1]: Note that gilt coupons income is taxable, but the gilts are exempt from capital gains tax. In our example we've assumed all funds are held within an ISA.
+
 [^2]: Zero-coupon assumption. This treats each gilt as if it pays a single lump sum at maturity (buy at discount, redeem at £50k). Most UK gilts pay semi-annual coupons instead — the actual cost to guarantee £50k at maturity depends on the specific gilt's coupon structure, not just its headline yield. Seek financial advice from a regulated professional.
+
 [^3]: Using data and approximations from the [Vanguard VWRL ETF](https://vanguardinvestor.co.uk/investments/vanguard-ftse-all-world-ucits-etf-usd-distributing/overview)
