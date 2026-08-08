@@ -5,6 +5,7 @@ type: blog
 title: Coasting to FIRE in the UK
 syndicate: true
 show: true
+tags: [finance]
 ---
 
 The concept of coast FIRE is having the ability to cruise along until retirement date. Like riding a bike down a hill, there is no need to pedal. FIRE stands for financial independence retire early. Such that there is enough growth and income from one's financial situation that there is no obligation to continue to work and retiring early is generally considered before access to pensions, so anytime before 55 would be considered early.
