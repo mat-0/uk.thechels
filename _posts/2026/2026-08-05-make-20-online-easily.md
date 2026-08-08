@@ -4,6 +4,7 @@ seo: make quick money easily online with no outlay expenditure or risk and how y
 date: 2026-08-05 16:00
 layout: post
 type: blog
+tags: [finance]
 syndicate:
   - mastodon
   - bluesky
