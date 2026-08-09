@@ -11,6 +11,7 @@ date: 2026-08-09
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Sunday, 09 August 2026
 
 - The average temperature today is 15.52˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 100 days since the last change (2026-04-30)
 
@@ -33,46 +35,55 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Be the owner.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Manchester City v AtlÃ©tico Madrid
 - Johor Darul Ta'zim v Chelsea
 - Arsenal v Borussia Dortmund
 - Liverpool v Monaco
 - Mansfield Town v Sheffield United
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.74000549316406 
-- ^FTSE : 10901.099609375 
-- ^FTMC : 24854.900390625 
+- VWRL.L : 139.74000549316406
+- ^FTSE : 10901.099609375
+- ^FTMC : 24854.900390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Jobs market is hitting hard, the balloon industry has flattened due to the cost of inflation.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Travelling to Qatar? Here’s what you need to know when visiting the Gulf state (Euronews, [55 minutes ago](http://www.euronews.com/travel/2026/08/09/travelling-to-qatar-heres-what-you-need-to-know-when-visiting-the-gulf-state))
-- Latest news bulletin  August 9th, 2026 – Morning (Euronews, [55 minutes ago](http://www.euronews.com/video/2026/08/09/latest-news-bulletin-august-9th-2026-morning))
+- Latest news bulletin August 9th, 2026 – Morning (Euronews, [55 minutes ago](http://www.euronews.com/video/2026/08/09/latest-news-bulletin-august-9th-2026-morning))
 - Harvesting rainwater from rooftops could cut the number of heatwave days and reduce air con reliance (Euronews, [55 minutes ago](http://www.euronews.com/2026/08/09/harvesting-rainwater-from-rooftops-could-cut-the-number-of-heatwave-days-and-reduce-air-co))
 - Johor Darul Ta&#8217;zim FC vs. Chelsea, Friendly: Preview, team news, how to watch (WAGNH, [1 hours ago](https://weaintgotnohistory.sbnation.com/friendlies/170868/johor-darul-tazim-fc-vs-chelsea-friendly-preview-team-news-how-to-watch))
 - Turkey’s cyber law shifts sweeping powers to presidency (FT, [1 hours ago](https://www.ft.com/content/0a6249a2-e28b-4e58-ab2d-2b8615b832dc?syn-25a6b1a6=1))
@@ -87,7 +98,7 @@ _Good Morning, Here is your daily briefing..._
 - Major wildfire in hills above Lake Garda: at least 200 residents and tourists evacuated (Euronews, [13 hours ago](http://www.euronews.com/my-europe/2026/08/08/major-wildfire-in-hills-above-lake-garda-at-least-200-residents-and-tourists-evacuated))
 - Match gallery: Blues win Indonesia Super Cup with victory over AC Milan (CFC, [13 hours ago](https://www.chelseafc.com/en/news/article/match-gallery-blues-win-indonesia-super-cup-with-victory-over-ac-milan))
 - Xabi Alonso on Palestra: 'He's getting better and better in every game' (CFC, [13 hours ago](https://www.chelseafc.com/en/news/article/xabi-alonso-on-palestra-hes-getting-better-and-better-in-every-game))
-- Latest news bulletin  August 8th, 2026 – Evening (Euronews, [13 hours ago](http://www.euronews.com/video/2026/08/08/latest-news-bulletin-august-8th-2026-evening))
+- Latest news bulletin August 8th, 2026 – Evening (Euronews, [13 hours ago](http://www.euronews.com/video/2026/08/08/latest-news-bulletin-august-8th-2026-evening))
 - Greg Abel finally puts Buffett’s cash pile to work (FT, [14 hours ago](https://www.ft.com/content/e164e244-f6de-4e3b-8a67-6bebee1b7bf4?syn-25a6b1a6=1))
 - Blues lift the Indonesia Super Cup! 🏆 (CFC, [14 hours ago](https://www.chelseafc.com/en/video/4x5-blues-lift-the-indonesia-super-cup-08-08-2026))
 - Xabi Alonso explains how his 'picture becomes a movie' at Chelsea (CFC, [15 hours ago](https://www.chelseafc.com/en/news/article/xabi-alonso-explains-how-his-picture-becomes-a-movie-at-chelsea))
@@ -106,7 +117,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > dowfart - noun: 1. A dimwit. 2. A coward. adjective: 1. Dim or dull. 2. Cowardly.
+> dowfart - noun: 1. A dimwit. 2. A coward. adjective: 1. Dim or dull. 2. Cowardly.
 
 <!-- word_marker ends -->
 
@@ -121,6 +132,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Allow an easement (an easement is the abandonment of a stricture)
 
 <!-- eno_marker ends -->
@@ -128,9 +140,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Oblivion (Rated: 6)
 - Released in 2013
 - Summary: A stranger's arrival triggers one man's battle to save mankind.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -151,9 +165,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Anna Shipman [URL](https://www.annashipman.co.uk/) [Feed](https://www.annashipman.co.uk/atom.xml)
 - John Peart [URL](https://www.johnpe.art/) [Feed](https://www.johnpe.art/feed.xml)
 - Bogdan on Digital Accessibility [URL](https://cerovac.com/a11y) [Feed](https://cerovac.com/a11y/feed/)
 - Callum A-R [URL](https://cakehurstryan.com/) [Feed](https://callumakehurstryansblog.wordpress.com/feed/)
 - Temper Temper [URL](https://www.tempertemper.net/) [Feed](https://www.tempertemper.net/feeds/main.json)
+
 <!-- blogroll_marker ends -->
