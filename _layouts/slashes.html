@@ -3,7 +3,8 @@
 {% include img.html %}
 {{ content }}
 
-// <a href="#Slashes">Slashes</a> / <a href="#Data">Data</a> / <a href="#Archives">Archives</a> / <a href="#Tags">Tags</a>
+// <a href="#Slashes">Slashes</a> / <a href="#Data">Data</a> / <a href="#Archives">Archives</a> / <a
+    href="#Tags">Tags</a>
 
 
 <h2 id="Slashes">Slash Pages</h2>
@@ -32,7 +33,7 @@
     </ul>
 </nav>
 
-<h2 id="Archives">Archives </h2>
+<h2 id="Archives">Archives</h2>
 
 <p>Post archives by type.</p>
 
@@ -45,7 +46,7 @@
     </ul>
 </nav>
 
-<h2>Tags</h2>
+<h2 id="Tags">Tags</h2>
 <p>Tags are used sparingly throughout the site to categorize content, mostly to separate
     different periods of time when a certain topic was more prevalent.</p>
 {% assign sorted_tags = site.tags | sort %}
