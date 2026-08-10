@@ -17,7 +17,7 @@ syndicate:
 
 I am coining the phrase the ISA apex. The point when accumulation stops and drawdown begins, having built enough capital to then withdraw sustainably from the commencement to a future target date.
 
-### Real returns
+### Real Returns
 
 Assuming the market returns an 8% annual return on average over the long term, we use real returns to note that we have adjusted this down for inflation and fees, by doing this we can continue to use the values in today's terms - as such our buying power remains and our brains can cope with an array of numbers we can understand today.
 
@@ -166,7 +166,7 @@ For illustration, the ISA required to fund £36k/year to 58 is:
 | FIRE age | 3% real | 4% real | 5% real |
 | --- -| --- -| --- -| --- -|
 | 48 | £307k | £292k | £278k |
-| 49 | £280 | £268k | £256k |
+| 49 | £280k | £268k | £256k |
 | 50 | £253k | £242k | £233k |
 
 This makes 49 to 50 look considerably more comfortable than 48. However, this strategy leaves the mortgage outstanding when the pension phase begins, unless it is cleared at 58.
