@@ -29,19 +29,19 @@ Financial Independence Retire Early, is the term, but in this context the FIRE d
 
 As of August 2026 this is my current position (minor rounding for simplicity).
 
-| Item | **Amount** |
-| ---- | ---- |
-| ISA | £147,000 |
-| Pension | £200,000 |
-| Annual ISA contribution | £20,000 |
-| Remaining Mortgage | £150,000 |
-| Mortgage rate | 4.4% |
-| Mortgage payment | £1,000/month |
+| Item                               | **Amount**         |
+| ---------------------------------- | ------------------ |
+| ISA                                | £147,000           |
+| Pension                            | £200,000           |
+| Annual ISA contribution            | £20,000            |
+| Remaining Mortgage                 | £150,000           |
+| Mortgage rate                      | 4.4%               |
+| Mortgage payment                   | £1,000/month       |
 | Target spending once mortgage-free | £36,000 gross/year |
-| Pension access | 58 |
-| DB pension from 68 | £9,500/year real |
-| DB tax-free lump sum | £28,000 |
-| State Pension from 68 | £12,500/year real |
+| Pension access                     | 58                 |
+| DB pension from 68                 | £9,500/year real   |
+| DB tax-free lump sum               | £28,000            |
+| State Pension from 68              | £12,500/year real  |
 
 The pension is already in a reasonably strong position as we'll cover below, the interesting problem is the ISA as a bridge.
 
@@ -92,10 +92,10 @@ The £200k pension at 43 is important because it gives the FIRE plan a second st
 At different real returns:
 
 | Real return | £200k at 58 |
-| --- -|  ---  -|
-|  3%  |  £312k |
-|  4%  |  £360k |
-|  5%  |  £416k |
+| --- -| --- -|
+| 3% | £312k |
+| 4% | £360k |
+| 5% | £416k |
 
 At 5% real growth, the pension reaches approximately £416k. If that £416k is then used over ten years from 58 to 68 at £36k/year, it leaves roughly £150k at 68 assuming the balance continues to grow at the same rate on average. At 3% real growth, the £312k is much closer to being fully consumed over the decade, this isn't a concern it's baked into the design. That makes 3% a useful conservative planning case and 5% a more optimistic-but-reasonable long-term equity assumption rather than something to rely upon every year.
 
@@ -105,16 +105,16 @@ At 5% real growth, the pension reaches approximately £416k. If that £416k is t
 
 Starting with £147k and contributing £20k/year, the ISA could develop approximately as follows. These figures assume contributions at the end of each year for easier maths, but my contributions typically follow a £2k per month for 10 months and £2k for 2 months going to discretionary spending - it's likely this £4k would go into premium bonds as a [hedge against sequencing risk](/what-is-sequencing-risk).
 
-|  Age |  3% real  | 4% real | 5% real |
-| --- -| --- -| ---- -| ----  -|
-|  43 | £147k |  £147k |  £147k |
-|  44 | £171k |  £173k |  £174k |
-|  45 | £196k |  £200k |  £203k |
-|  46 | £222k |  £228k |  £233k |
-|  47 | £249k |  £257k |  £265k |
-|  48 | £277k |  £287k |  £298k |
-|  49 | £305k |  £319k |  £333k |
-|  50 | £334k |  £351k |  £370k |
+| Age | 3% real | 4% real | 5% real |
+| --- -| --- -| ---- -| ---- -|
+| 43 | £147k | £147k | £147k |
+| 44 | £171k | £173k | £174k |
+| 45 | £196k | £200k | £203k |
+| 46 | £222k | £228k | £233k |
+| 47 | £249k | £257k | £265k |
+| 48 | £277k | £287k | £298k |
+| 49 | £305k | £319k | £333k |
+| 50 | £334k | £351k | £370k |
 
 My plan for some 10 years or so now has been to retire at 50, but this is increasingly looking like a comfortable rather than marginal target. But it also suggests that either 48 or 49 could be viable.
 
@@ -123,13 +123,13 @@ My plan for some 10 years or so now has been to retire at 50, but this is increa
 If the mortgage is already cleared, the bridge from each potential FIRE age to 58 requires roughly the following capital at the point of retirement.
 This assumes £36k/year of real spending and that withdrawals happen annually for simplicity, my plan would be withdrawing quarterly and monitoring market movements and using cash buffers if needed.
 
-| FIRE age | Years to 58 | 3% real  | 4% real |  5% real |
-| ---- -| ---- -| ---- -| ---- -| ----  -|
-|  46   |  12  |  £358k | £338k |  £319k |
-|  47   |  11  |  £333k | £315k |  £299k |
-|  48   |  10  |  £307k | £292k |  £278k |
-|  49   |  9   |  £280k | £268k |  £256k |
-|  50   |  8   |  £253k | £242k |  £233k |
+| FIRE age | Years to 58 | 3% real | 4% real | 5% real |
+| ---- -| ---- -| ---- -| ---- -| ---- -|
+| 46 | 12 | £358k | £338k | £319k |
+| 47 | 11 | £333k | £315k | £299k |
+| 48 | 10 | £307k | £292k | £278k |
+| 49 | 9 | £280k | £268k | £256k |
+| 50 | 8 | £253k | £242k | £233k |
 
 This is the ISA apex concept. For example, if aiming for FIRE at 49, the ISA needs to be somewhere around £256 to £280k. If aiming for 50, the required apex falls to roughly £233 to 253k.
 
@@ -139,16 +139,16 @@ The trade-off is straightforward, The earlier I stop work and thus stop contribu
 
 The mortgage changes the calculation substantially however, as it is currently costing around £12k per year. No mortgage and the required income reduces and prolongs the pot or reduces the required pot size. At £150k, 4.4% and £1,000/month, assuming the rate remains constant, the approximate balance would be:
 
-|  Age  |  Approx. balance |
-| ---- -| ----  -|
-|  43   |  £150k   |
-|  44   |  £144k   |
-|  45   |  £138k   |
-|  46   |  £132k   |
-|  47   |  £126k   |
-|  48   |  £119k   |
-|  49   |  £112k   |
-|  50   |  £105k   |
+| Age | Approx. balance |
+| ---- -| ---- -|
+| 43 | £150k |
+| 44 | £144k |
+| 45 | £138k |
+| 46 | £132k |
+| 47 | £126k |
+| 48 | £119k |
+| 49 | £112k |
+| 50 | £105k |
 
 At the current payment level, the mortgage doesn't naturally disappear until well after the desired FIRE date. That means the mortgage needs to be explicitly incorporated into the FIRE decision.
 
@@ -164,10 +164,10 @@ The ISA then needs to fund my £36k annual spending requirement, with £12k of t
 For illustration, the ISA required to fund £36k/year to 58 is:
 
 | FIRE age | 3% real | 4% real | 5% real |
-| --- -|  --- -|  --- -| ---  -|
-|  48  | £307k | £292k | £278k |
-|  49  | £280  | £268k | £256k |
-|  50  | £253k | £242k | £233k |
+| --- -| --- -| --- -| --- -|
+| 48 | £307k | £292k | £278k |
+| 49 | £280 | £268k | £256k |
+| 50 | £253k | £242k | £233k |
 
 This makes 49 to 50 look considerably more comfortable than 48. However, this strategy leaves the mortgage outstanding when the pension phase begins, unless it is cleared at 58.
 
@@ -191,12 +191,12 @@ That is still a substantial bridge fund. The required capital under this strateg
 Using consistent return assumptions again
 
 | FIRE age | Mortgage | 3% real required | 4% real required | 5% real required |
-| --- -|  ---  -| --- -| --- -| ---  -|
-|  46 |  £132k |  £490k |  £470k |  £451k |
-|  47 |  £126k |  £459k |  £441k |  £424k |
-|  48 |  £119k |  £426k |  £411k |  £397k |
-|  49 |  £112k |  £393k |  £380k |  £368k |
-|  50 |  £105k |  £357k |  £347k |  £338k |
+| --- -| --- -| --- -| --- -| --- -|
+| 46 | £132k | £490k | £470k | £451k |
+| 47 | £126k | £459k | £441k | £424k |
+| 48 | £119k | £426k | £411k | £397k |
+| 49 | £112k | £393k | £380k | £368k |
+| 50 | £105k | £357k | £347k | £338k |
 
 These numbers illustrate an important point: Clearing the mortgage from the ISA is not automatically the optimal FIRE strategy. I am exchanging an asset producing uncertain investment returns for the guaranteed saving of a 4.4% mortgage cost. The right answer depends on the balance between investment returns, mortgage risk, and how much liquidity I would want during the bridge.
 
@@ -214,13 +214,13 @@ Using the same return assumption for accumulation the bridge gives a useful firs
 
 If the mortgage is cleared at FIRE using the ISA:
 
-| FIRE age |  ISA at 3% |  Required at 3%  |  ISA at 4%  |  Required at 4% |  ISA at 5% | Required at 5% |
-| --- -| --- -| --- -| --- -| --- -| --- -| ---  -|
-|  46 |  £222k |  £409k |  £228k |  £470k |  £233k |  £451k |
-|  47 |  £249k |  £459k |  £257k |  £441k |  £265k |  £424k |
-|  48 |  £277k |  £426k |  £287k |  £411k |  £298k |  £397k |
-|  49 |  £305k |  £393k |  £319k |  £380k |  £333k |  £368k |
-|  50 |  £334k |  £357k |  £351k |  £347k |  £370k |  £338k |
+| FIRE age | ISA at 3% | Required at 3% | ISA at 4% | Required at 4% | ISA at 5% | Required at 5% |
+| --- -| --- -| --- -| --- -| --- -| --- -| --- -|
+| 46 | £222k | £409k | £228k | £470k | £233k | £451k |
+| 47 | £249k | £459k | £257k | £441k | £265k | £424k |
+| 48 | £277k | £426k | £287k | £411k | £298k | £397k |
+| 49 | £305k | £393k | £319k | £380k | £333k | £368k |
+| 50 | £334k | £357k | £351k | £347k | £370k | £338k |
 
 Under this particular conservative framework, 50 is the first clearly comfortable point, if the mortgage is definitely cleared from the ISA. Age 49 is much more interesting as it is close enough that modest changes to contributions, investment returns, mortgage overpayments or spending could make it work. Age 48 is considerably more aggressive.
 
@@ -230,12 +230,12 @@ This is perhaps the most useful way to think about the plan. There isn't one mag
 
 For example:
 
-|  Target FIRE age |  Approx. bridge requirement at 4% real, mortgage-free  |
-| --- -|  ---  -|
-|  47  |  £315k |
-|  48  |  £292k |
-|  49  |  £268k |
-|  50  |  £242k |
+| Target FIRE age | Approx. bridge requirement at 4% real, mortgage-free |
+| --- -| --- -|
+| 47 | £315k |
+| 48 | £292k |
+| 49 | £268k |
+| 50 | £242k |
 
 I am currently at £147k. So rather than thinking: "I need £X before I can retire." I am thinking "Every additional year of work buys me another year of ISA contributions and removes a year of required bridge funding." That makes the marginal value of each year extremely high in the late 40s. But also this is on the scales of another year of work - which for some can be difficult, stressful, and a struggle.
 

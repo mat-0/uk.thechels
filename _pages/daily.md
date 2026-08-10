@@ -11,6 +11,7 @@ date: 2026-08-10
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Monday, 10 August 2026
 
 - The average temperature today is 15.81˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 101 days since the last change (2026-04-30)
 
@@ -33,45 +35,54 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Provide purpose, mastery and autonomy.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.74000549316406 
-- ^FTSE : 10901.099609375 
-- ^FTMC : 24854.900390625 
+- VWRL.L : 139.74000549316406
+- ^FTSE : 10901.099609375
+- ^FTMC : 24854.900390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What are two landmasses favourite game? -  Bridge.
+
+> What are two landmasses favourite game? - Bridge.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Human hair used as protective barrier in oceans (Euronews, [20 minutes ago](http://www.euronews.com/2026/08/10/human-hair-used-as-protective-barrier-in-oceans))
 - Three midlife health factors could delay dementia by 13 years, study finds (Euronews, [28 minutes ago](http://www.euronews.com/health/2026/08/10/three-midlife-health-factors-could-delay-dementia-by-13-years-study-finds))
 - Most of the Maldives may be unliveable in 50 years – but these kayaking islanders aren't giving up (Euronews, [40 minutes ago](http://www.euronews.com/2026/08/10/most-of-the-maldives-may-be-unliveable-in-50-years-but-these-kayaking-islanders-arent-givi))
 - From Scotland to Austria: Europe's best destinations for a 'stillcation' (Euronews, [42 minutes ago](http://www.euronews.com/travel/2026/08/10/from-scotland-to-austria-europes-best-destinations-for-a-stillcation))
-- Latest news bulletin  August 10th, 2026 – Morning (Euronews, [42 minutes ago](http://www.euronews.com/video/2026/08/10/latest-news-bulletin-august-10th-2026-morning))
+- Latest news bulletin August 10th, 2026 – Morning (Euronews, [42 minutes ago](http://www.euronews.com/video/2026/08/10/latest-news-bulletin-august-10th-2026-morning))
 - Western Europe sets new temperature record as heat waves continue to pummel region (Euronews, [1 hours ago](http://www.euronews.com/my-europe/2026/08/10/western-europe-sets-new-temperature-record-as-heat-waves-continue-to-pummel-region))
 - Holiday affordability in Europe: Where can people afford a break? (Euronews, [1 hours ago](http://www.euronews.com/business/2026/08/10/holiday-affordability-in-europe-where-can-people-afford-a-break))
 - German economy minister warns AfD’s rise could deter investors (FT, [1 hours ago](https://www.ft.com/content/581a7c18-5deb-4cd4-b014-f4d275ba73d2?syn-25a6b1a6=1))
@@ -99,7 +110,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > assart - noun: 1. A tract of woodland cleared for cultivation. 2. The act of clearing such land. verb tr., intr.: To clear woodland for cultivation.
+> assart - noun: 1. A tract of woodland cleared for cultivation. 2. The act of clearing such land. verb tr., intr.: To clear woodland for cultivation.
 
 <!-- word_marker ends -->
 
@@ -114,6 +125,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Twist the spine
 
 <!-- eno_marker ends -->
@@ -121,9 +133,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Stratton (Rated: 3)
 - Released in 2017
 - Summary: John Stratton, a British SBS operative, goes on a mission to hunt down a former Soviet associate who has gone rogue and is planning to deploy dangerous biochemical weapons.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -144,9 +158,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Michael Tsai [URL](https://mjtsai.com/blog) [Feed](https://mjtsai.com/blog/feed/)
 - Ploeh.DJ [URL](https://blog.ploeh.dk/) [Feed](https://blog.ploeh.dk/rss.xml)
 - WebKit [URL](https://webkit.org/) [Feed](https://www.webkit.org/feed/)
 - Marc Thiele [URL](https://marcthiele.com/) [Feed](https://marcthiele.com/feed-all)
 - Ellane N [URL](https://ellanew.com/) [Feed](https://ellanew.com/feed.rss)
+
 <!-- blogroll_marker ends -->
