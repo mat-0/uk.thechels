@@ -2,9 +2,9 @@
 layout: post
 date: 2026-08-10 13:00
 type: blog
-title: "The Road to FIRE - Building the ISA Bridge to 58 and finding the Apex"
+title: "The Road to FIRE - Building the ISA Bridge to 58 and Finding the Apex"
 tags: [finance]
-seo: "how much do I need in my ISA to retire early with worked examples using real numbers - the ISA bridge to 58"
+seo: "How much do I need in my ISA to retire early with worked examples using real numbers - the ISA bridge to 58"
 
 syndicate:
   - mastodon
