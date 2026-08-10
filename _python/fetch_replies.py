@@ -23,7 +23,7 @@ import bleach
 import yaml
 
 MAIN_FEED_URL = "https://demo.rss.chat/users/thechelsuk/rss.xml"
-DATA_DIR = Path("_data/replies")
+DATA_DIR = Path("../_data/replies")
 
 NS = {"source": "https://source.scripting.com/"}
 

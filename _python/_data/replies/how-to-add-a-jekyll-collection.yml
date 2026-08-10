@@ -1,7 +1,0 @@
-- guid: https://demo.rss.chat/?id=331
-  author: Dave Winer
-  author_url: https://demo.rss.chat/users/dave/rss.xml
-  pub_date: Mon, 27 Jul 2026 14:38:13 GMT
-  html: <p>it would be interesting to hook up the output of <a href="http://rss.chat" rel="nofollow ugc noopener">rss.chat</a> to the input of Jekyll using templates or themes or whatever they call them in the Jekyll.</p>
-  markdown: it would be interesting to hook up the output of rss.chat to the input of Jekyll using templates or themes or whatever they call them in the Jekyll.
-  in_reply_to: https://demo.rss.chat/?id=330
