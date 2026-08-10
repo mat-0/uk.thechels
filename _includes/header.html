@@ -46,8 +46,12 @@
       }
     </style>
 
-    <!-- Open Graph and the rest of the meta tags  -->
+    <!-- Google / Search Engine Tags -->
+    <meta itemprop="name" content="{{page.title}} | {{ site.title }} by thechelsuk" />
+    <meta itemprop="description" content="{{page.description}} | {{ site.title }} by thechelsuk" />
+    <meta itemprop="image" content="{{ site.owner.avatar }}" />
 
+    <!-- Open Graph -->
     <meta property="og:locale" content="en_GB">
     <meta property="og:type" content="article">
     <meta property="og:title"
@@ -60,12 +64,14 @@
     <meta property="article:author" content="{{ site.owner.name }} at {{site.organization.url }}">
     <meta property="article:published_time" content="{{ page.date }}">
 
+    <!-- twitter -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title"
       content="{%if page.title %}{{ page.title }}{% else %}{{ post.title }}{% endif %} | {{ site.title }} by thechelsuk">
     <meta name="twitter:description" content="{{ profile_description }} | {{ site.title }} by thechelsuk">
     <meta name="twitter:image" content="{{ site.owner.avatar }}">
 
+    <!--the rest of the meta tags  -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="format-detection" content="telephone=no">
     <meta name="format-detection" content="address=no">
