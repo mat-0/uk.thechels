@@ -13,7 +13,7 @@ release_version: 2.0.0
 
 ## About
 
-Cheltenham Open data is collecting and disseminating localised open data for Cheltenham and Gloucestershire including local fuel prices, fix-my-street issues, and local news aggregation.
+[Cheltenham Open data](https://cheltenham-od.uk/) is collecting and disseminating localised open data for [Cheltenham and Gloucestershire including local fuel prices](https://cheltenham-od.uk/cheltenham-fuel-prices), fix-my-street issues, and local news aggregation.
 
 ## Recent Changes
 
