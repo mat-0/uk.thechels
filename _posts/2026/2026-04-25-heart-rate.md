@@ -5,8 +5,8 @@ title: Heart Rate
 robots: noindex
 type: micro
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 i_type: note
 i_url:
 ---

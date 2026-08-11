@@ -5,8 +5,8 @@ date: 2026-05-19 21:11
 robots: noindex
 type: micro
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 i_type: note
 i_url:
 ---
