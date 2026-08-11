@@ -6,7 +6,6 @@ zwift_id: 1237629366108684336
 zwift_url: https://zwift.com/uk/activity/1237629366108684336
 type: ride
 robots: noindex
-
 ---
 
 - Distance: 30.35 km
