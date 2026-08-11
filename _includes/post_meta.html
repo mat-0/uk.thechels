@@ -14,9 +14,9 @@
     &nbsp;{{ total_count }} replies.
     {%- endif -%}
     <br />
-    {% if page.tags %}
+    {% if page.tags.size > 0 %}
     <span class="tags">
-        Tagged in: <a href="/tag/{{ page.tags.first | slugify }}/">{{ page.tags.first }}</a>
+        Tagged in: <a href="/tag/{{ page.tags.first | slugify }}/">{{ page.tags.first | capitalize }}</a>
     </span><br />
     {% endif %}
 </p>
