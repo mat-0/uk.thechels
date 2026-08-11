@@ -16,13 +16,13 @@ By type:
 - [Daily only](/daily.xml) - A daily briefing of news, notices, quotes, and more.
 - [Bookmarks only](/bookmarks.xml) - Bookmark posts only.
 - [Mailbox only](/mailbox.xml) - Mailbox posts only.
+- [Micro only](/micro.xml) - Micro social posts only.
 - [Mixtapes only](/mixtapes.xml) - Mixtape posts only.
 - [Links only](/links.xml) - Linked/quote posts only.
 - [Posts only](/posts.xml) - Posts only.
 - [Releases only](/releases.xml) - Release posts only.
 - [Rides only](/rides.xml) - Rides posts only.
 - [RSS only](/rss.xml) - Secret RSS posts only.
-- [Socials only](/socials.xml) - Social posts only.
 - [TIL only](/til.xml) - TIL posts only.
 - [Ways only](/ways.xml) - Ways posts only.
 - [Videos only](/videos.xml) - Video posts only.
@@ -39,7 +39,7 @@ By type:
 - [Dotnet News Summary](https://feeds.thechels.uk/dotnet.rss)
 - [SecOps News Summary](https://feeds.thechels.uk/secops.rss)
 - [Insurance News Summary](https://feeds.thechels.uk/insurance.rss)
-- [Local News Summary](https://cod.thechels.uk/daily.rss)
-- [Local Flood Alerts](https://cod.thechels.uk/flood.xml)
+- [Local News Summary](https://cheltenham-od/daily.rss)
+- [Local Flood Alerts](https://cheltenham-od.uk/flood.xml)
 
 If you don’t have a feed reader then I highly recommend using [NetNewsWire](https://netnewswire.com/). It’s really good, offers icloud sync across devices, loads of third-party integrations and is completely free. If you go ahead and use it, you can also try my completely free [themes](/projects/nnw-themes.

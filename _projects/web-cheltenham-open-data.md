@@ -5,7 +5,7 @@ permalink: /projects/cheltenham-open-data
 class: websites
 seo: "Cheltenham Spa Local Data collection and dissemination"
 i_name: Visit
-i_url: "https://cod.thechels.uk"
+i_url: "https://cheltenham-od.uk"
 summary: "A website and GitHub project to collect and disseminate public open data from a variety of sources for local community."
 type: website
 ---

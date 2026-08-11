@@ -2,10 +2,11 @@
 layout: post
 date: 2026-04-25 16:07
 title: Heart Rate
-type: social
 robots: noindex
-syndicate: true
-show: false
+type: micro
+syndicate:
+  - mastodon
+  - bluesky
 i_type: note
 i_url:
 ---

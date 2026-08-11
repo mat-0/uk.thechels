@@ -3,7 +3,7 @@
 - id: Tools
   url: https://github.com/thechelsuk/uk.thechels.tools/releases.atom
 - id: Cheltenham Open Data
-  url: https://github.com/thechelsuk/uk.thechels.cod/releases.atom
+  url: https://github.com/thechelsuk/uk.cheltenham-od/releases.atom
 - id: DotNet Dev Feeds
   url: https://github.com/thechelsuk/uk.thechels.feeds/releases.atom
 - id: Mltply
