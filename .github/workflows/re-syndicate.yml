@@ -27,6 +27,7 @@ jobs:
                   RSS_CHAT_USERNAME: ${{ secrets.DEMO_RSS_CHAT_USERNAME }}
                   RSS_CHAT_EMAIL: ${{ secrets.DEMO_RSS_CHAT_EMAIL }}
                   RSS_CHAT_CODE: ${{ secrets.DEMO_RSS_CHAT_CODE }}
+                  TEXTLOG_TOKEN: ${{ secrets.TEXTLOG_TOKEN }}
               run: |
                   bash .github/scripts/syndicate-new-posts.sh \
                     "${{ inputs.before_sha }}" \
