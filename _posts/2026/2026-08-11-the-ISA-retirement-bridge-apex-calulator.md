@@ -1,11 +1,11 @@
 ---
 layout: post
-date: 2026-08-11 21:00
+date: 2026-08-11 22:00
 type: blog
 title: "The Road to FIRE - Building the ISA Bridge Apex Calculator"
 tags: [finance]
-seo: "A free tool to find your own ISA bridge apex - the point your ISA can bridge you from early retirement to pension access."
-permalink: "/fire-isa-bridge-apex-calculator"
+seo: "A free tool to find your own ISA bridge apex value - the point your ISA can bridge you from early retirement to pension access."
+permalink: "/fire-isa-bridge-calculator-apex"
 syndicate:
   - mastodon
   - bluesky

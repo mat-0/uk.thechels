@@ -104,8 +104,18 @@ post_title() {
 
 post_source_url() {
   local file="$1"
+  local permalink
   local filename
   local slug
+
+  permalink="$(front_matter_value permalink "$file")"
+  if [[ -n "$permalink" ]]; then
+    permalink="${permalink#/}"
+    permalink="${permalink%/}"
+    printf '%s/%s\n' "${base_url%/}" "$permalink"
+    return
+  fi
+
   filename="$(basename "$file")"
   slug="${filename%.md}"
   slug="$(printf '%s' "$slug" | sed 's/^[0-9]\{4\}-[0-9]\{2\}-[0-9]\{2\}-//')"
