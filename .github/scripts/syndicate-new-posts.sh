@@ -188,8 +188,7 @@ syndicate_to_textlog() {
     return 0
   fi
 
-  body="${title}
-${source_url}"
+  body="[${title}](${source_url})"
   jsontext="{\"body\":\"$(json_escape "$body")\"}"
 
   status_code=$(curl -sS -X POST -o /tmp/textlog_response -w "%{http_code}" \
