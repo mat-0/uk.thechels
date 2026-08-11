@@ -12,9 +12,8 @@
   </div>
 
   {% if page.id %}
-  <p class="meta">
-    {% include post_meta.html %}
-  </p>
+
+  {% include post_meta.html %}
 
   {%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}
   {%- assign wm_count = wm_count | strip_html | strip | plus: 0 -%}
@@ -24,16 +23,7 @@
 
   {% include post_replies.html %}
 
-
-  {% if page.syndicate contains 'mastodon' or page.syndicate contains 'bluesky' %}
-  <p class="meta">
-    <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
-  </p>
   {% endif %}
-
-  <p class="visually-hidden p-category" hidden="from-humans">{{ page.type }}</p>
-  {% endif %}
-
 
   <script type="application/ld+json">
 {

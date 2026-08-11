@@ -16,37 +16,34 @@
     <p>&raquo; <a href="{{ page.url }}" class="u-{{page.i_type}}">permalink</a></p>
     {% endif %}
 
+    {% if page.syndicate %}
     {% if page.syndicate contains 'indie' %}
     <p class="meta">
       <a class="u-syndication" href="https://news.indieweb.org/en" hidden="from-humans">Also posted on IndieNews</a>
     </p>
     {% endif %}
-  </div>
+    {% if page.syndicate contains 'mastodon' or page.syndicate contains 'bluesky' %}
+    <p class="meta">
+      <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
+    </p>
+    {% endif %}
+    {% endif %}
 
-  {% if page.id %}
-  <p class="meta">
+    {% if page.id %}
     {% include post_meta.html %}
-  </p>
-
-  {%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}
-  {%- assign wm_count = wm_count | strip_html | strip | plus: 0 -%}
-  {%- if wm_count > 0 -%}
-  {% webmentions page.url %}
-  {%- endif -%}
-
-  {% include post_replies.html %}
 
 
-  {% if page.syndicate contains 'mastodon' or page.syndicate contains 'bluesky' %}
-  <p class="meta">
-    <a class="u-bridgy-fed" href="https://fed.brid.gy/" hidden="from-humans"></a>
-  </p>
-  {% endif %}
+    {%- capture wm_count %}{% webmention_count page.url %}{% endcapture -%}
+    {%- assign wm_count = wm_count | strip_html | strip | plus: 0 -%}
+    {%- if wm_count > 0 -%}
+    {% webmentions page.url %}
+    {%- endif -%}
 
-  <p class="visually-hidden p-category" hidden="from-humans">{{ page.type }}</p>
-  {% endif %}
+    {% include post_replies.html %}
 
-  <script type="application/ld+json">
+    {% endif %}
+
+    <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Article",
