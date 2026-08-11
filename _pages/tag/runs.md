@@ -11,10 +11,10 @@ A list of posts that are related to running. These were from 2019 in which I set
 
 I have run over 100 parkruns, volunteered over 25 times, and have competed in several races up to half marathon distance.
 
-| Distance | PB |
-| ---  |     ---|
-| 5km  | 21:55  |
-| 10km | 47:22  |
-| HM   | 147:00 |
+| Distance | PB     |
+| -------- | ------ |
+| 5km      | 21:55  |
+| 10km     | 47:22  |
+| HM       | 147:00 |
 
 But alas, my running days are over.
