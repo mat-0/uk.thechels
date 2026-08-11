@@ -18,7 +18,7 @@ jobs:
               with:
                   fetch-depth: 0
 
-            - name: Syndicate new posts to Bridgy and rss.chat
+            - name: Syndicate new posts to targets
               continue-on-error: true
               env:
                   BASE_URL: ${{ vars.BASE_URL }}
