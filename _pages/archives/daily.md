@@ -2,7 +2,7 @@
 layout: archives
 title: Daily Briefings
 seo: Daily Rundown Briefings
-permalink: /archives/rundowns
+permalink: /archives/daily
 type: daily
 ---
 

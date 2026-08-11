@@ -2,7 +2,7 @@
 layout: archives
 title: Video Archive
 seo: Video Archive
-permalink: /archives/videos
+permalink: /archives/video
 type: video
 ---
 

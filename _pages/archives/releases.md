@@ -2,7 +2,7 @@
 layout: archives
 title: Software Releases Archive
 seo: Software Releases archive
-permalink: /archives/releases
+permalink: /archives/release
 date: 2026-01-01
 type: release
 ---

@@ -2,7 +2,7 @@
 layout: archives
 title: Monthly Mixtape Playlist Archive
 seo: Mixtapes - Monthly Playlists Archive
-permalink: /archives/mixtapes
+permalink: /archives/mixtape
 date: 2026-01-01
 type: mixtape
 ---

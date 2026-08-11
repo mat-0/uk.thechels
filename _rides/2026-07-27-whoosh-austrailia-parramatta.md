@@ -6,7 +6,7 @@ zwift_id: 0
 zwift_url:
 type: ride
 robots: noindex
-tags: [rides]
+
 ---
 
 - Distance: 3.44 km

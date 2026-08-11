@@ -156,27 +156,27 @@ navigation_data:
 
 ## SubMenu
 navigation_archives:
-  - link: "/archives/gifts"
+  - link: "/archives/gift"
     title: "Gifts"
   - link: "/archives/mailbox"
     title: "Mailbox"
-  - link: "/archives/mixtapes"
+  - link: "/archives/mixtape"
     title: "Mixtapes"
   - link: "/archives/til"
     title: "TILs"
   - link: "/archives/ways"
     title: "Ways"
-  - link: "/archives/releases"
+  - link: "/archives/release"
     title: "Software Releases"
-  - link: "/archives/videos"
+  - link: "/archives/video"
     title: "Videos"
-  - link: "/archives/rundowns"
+  - link: "/archives/daily"
     title: "Daily Rundowns"
   - link: "/archives/micro"
     title: "Micro blogs"
   - link: "/archives/linked"
     title: "Linked Quotes"
-  - link: "/archives/blogs"
+  - link: "/archives/blog"
     title: "Blog Posts"
 
 ## SubMenu

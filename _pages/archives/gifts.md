@@ -2,7 +2,7 @@
 layout: archives
 title: Gift and Offers Post Archive
 seo: Special offers and gifts archive
-permalink: /archives/gifts
+permalink: /archives/gift
 date: 2026-01-01
 type: gift
 ---
