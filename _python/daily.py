@@ -37,7 +37,7 @@ def strip_front_matter_md(text: str) -> str:
 def build_front_matter(date: str, title: str, permalink: str) -> str:
     """Build the Jekyll front matter block."""
     return (
-        f"---\nlayout: post\ndate: {date}\ntype: daily\ntitle: {title}\npermalink: {permalink}\n---\n\n"
+        f"---\nlayout: post\ndate: {date}\ntype: daily\ntitle: {title}\npermalink: {permalink}\robots: noindex\n---\n\n"
     )
 
 
