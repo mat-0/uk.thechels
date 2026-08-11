@@ -7,4 +7,4 @@ permalink: /tag/stats
 date: 2026-01-01
 ---
 
-A list of posts that are related to football statistics.
+An historic archive list of posts that are related to football statistics.
