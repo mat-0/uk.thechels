@@ -15,6 +15,10 @@ rss_chat_email="${RSS_CHAT_EMAIL:-}"
 rss_chat_code="${RSS_CHAT_CODE:-}"
 rss_chat_url="${rss_chat_url%/}"
 
+textlog_api_url="${TEXTLOG_API_URL:-https://textlog.cc/api/v1}"
+textlog_api_url="${textlog_api_url%/}"
+textlog_token="${TEXTLOG_TOKEN:-}"
+
 # Bridgy-publish targets: front-matter token -> brid.gy publish path
 bridgy_targets=(mastodon bluesky)
 
@@ -162,6 +166,36 @@ syndicate_to_rss_chat() {
   fi
 }
 
+syndicate_to_textlog() {
+  local source_url="$1"
+  local title="$2"
+  local body
+  local jsontext
+  local status_code
+
+  if [[ -z "$textlog_token" ]]; then
+    echo "  textlog: skipped (secret not set)"
+    return 0
+  fi
+
+  body="${title}
+${source_url}"
+  jsontext="{\"body\":\"$(json_escape "$body")\"}"
+
+  status_code=$(curl -sS -X POST -o /tmp/textlog_response -w "%{http_code}" \
+    -H "authorization: Bearer ${textlog_token}" \
+    -H 'content-type: application/json' \
+    -d "${jsontext}" \
+    "${textlog_api_url}/posts")
+
+  if [[ "$status_code" == "200" || "$status_code" == "201" ]]; then
+    echo "  textlog: $status_code"
+  else
+    echo "  textlog: FAILED $status_code - $(cat /tmp/textlog_response)"
+    return 1
+  fi
+}
+
 if [[ "$before_sha" == "0000000000000000000000000000000000000000" ]]; then
   echo "No previous commit range available, skipping syndication."
   exit 0
@@ -195,6 +229,12 @@ for file in "${new_posts[@]}"; do
     syndicate_to_rss_chat "$source_url" "$title" || exit_code=1
   else
     echo "  rss.chat: skipped"
+  fi
+
+  if front_matter_list_contains syndicate textlog "$file"; then
+    syndicate_to_textlog "$source_url" "$title" || exit_code=1
+  else
+    echo "  textlog: skipped"
   fi
 done
 
