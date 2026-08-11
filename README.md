@@ -102,7 +102,7 @@ The following `post_type` variants are supported:
 - linked
 - quote
 - film
-- social
+- micro
 - blog
 - test
 - gift

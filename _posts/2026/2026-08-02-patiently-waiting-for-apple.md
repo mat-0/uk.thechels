@@ -1,13 +1,12 @@
 ---
 layout: post
 title: "Patiently waiting for Apple"
-syndicate:
-  - mastodon
-  - bluesky
 date: 2026-08-02 21:42
-type: social
 robots: noindex
-show: false
+type: micro
+syndicate:
+    - mastodon
+    - bluesky
 i_type: note
 i_url: ""
 ---

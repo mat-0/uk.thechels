@@ -93,8 +93,8 @@
             "media_type": "application/atom+xml"
         },
         {
-            "title": "thechelsuk - Socials only",
-            "url": "https://thechels.uk/socials.xml",
+            "title": "thechelsuk - Micro only",
+            "url": "https://thechels.uk/micro.xml",
             "format": "atom",
             "rel": "alternate",
             "media_type": "application/atom+xml"

@@ -1,11 +1,12 @@
 ---
 layout: post
 title: "It's happened again"
-syndicate: true
 date: 2026-05-19 21:11
-type: social
 robots: noindex
-show: false
+type: micro
+syndicate:
+    - mastodon
+    - bluesky
 i_type: note
 i_url:
 ---
