@@ -7,4 +7,6 @@ date: 2026-01-01
 type: linked
 ---
 
-Some Quote posts are linked to a source, but some are not. This archive is for the linked ones.
+Some quote link-blogging style posts where I share an interesting link and provide some commentary. Here is a list of all of those.
+
+I often do this to key a searchable and easy to find list of things I will likely reference in the future.
