@@ -16,13 +16,13 @@
     <br />
     {% if page.type %}
     <span class="archives">
-        Read more in <a href="/archives/{{ page.type | slugify }}/">{{ page.type | capitalize }}</a>
+        Read more in <a href="/archives/{{ page.type | slugify }}">{{ page.type | capitalize }}</a>
     </span>
     {% endif %}
     <br />
     {% if page.tags.size > 0 %}
     <span class="tags">
-        Tagged in: <a href="/tag/{{ page.tags.first | slugify }}/">#{{ page.tags.first | capitalize }}</a>
+        Tagged in: <a href="/tag/{{ page.tags.first | slugify }}">#{{ page.tags.first | capitalize }}</a>
     </span>
     <br />
     {% endif %}
