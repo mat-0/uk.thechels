@@ -1,11 +1,12 @@
 ---
+layout: post
 title: "Amazon is ending support for older Kindles and Kindle Fires"
 type: linked
 cited: The Verge
 date: 2026-04-08 02:00
 link: https://www.theverge.com/tech/908302/amazon-ending-support-kindle-fire-tablet-e-reader-pre-2012-older
 seo: "Amazon is ending support for several Kindle and Kindle Fire devices in May 2026."
-tags:
+
 ---
 
 Jailbreaking may violate the terms of service of your device but may keep it out of landfill.
