@@ -11,6 +11,7 @@ date: 2026-08-12
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 12 August 2026
 
 - The average temperature today is 16.33˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 103 days since the last change (2026-04-30)
 
@@ -33,40 +35,49 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Optimise flow.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.44000244140625 
-- ^FTSE : 10844.2001953125 
-- ^FTMC : 24799.80078125 
+- VWRL.L : 139.44000244140625
+- ^FTSE : 10844.2001953125
+- ^FTMC : 24799.80078125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > The police came round the other day saying they had reports our pet dog had been chasing the local kids on roller skates, funny I said, our dog does not own any roller skates.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Taiwan hits out at China over naval drill with Indonesia (FT, [29 minutes ago](https://www.ft.com/content/e0ca4cab-c8ba-47d6-9465-13e2d73285fc?syn-25a6b1a6=1))
 - China-linked hackers hit Taiwan in unprecedented ‘autonomous’ AI cyber attack (FT, [1 hours ago](https://www.ft.com/content/7d2ab3e0-9085-48f6-b38a-d90260d58795?syn-25a6b1a6=1))
 - How to stop global warming (FT, [1 hours ago](https://www.ft.com/content/e16ec916-08ad-4f87-9b62-e42e9f28a59c?syn-25a6b1a6=1))
@@ -99,7 +110,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > skirr - verb tr.: To range rapidly over an area, especially in search of something. noun: A whirring or grating sound.
+> skirr - verb tr.: To range rapidly over an area, especially in search of something. noun: A whirring or grating sound.
 
 <!-- word_marker ends -->
 
@@ -114,6 +125,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Breathe more deeply
 
 <!-- eno_marker ends -->
@@ -121,9 +133,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The Hitman's Bodyguard (Rated: 3)
 - Released in 2017
 - Summary: Michael Bryce, a protection agent, is tasked with protecting Darius Kincaid, one of the world's most famous assassins.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -144,9 +158,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Monevator [URL](https://monevator.com/) [Feed](https://feeds.feedburner.com/monevatorcom)
 - Rosemary Orchard [URL](https://rosemaryorchard.com/) [Feed](https://rosemaryorchard.com/category/blog/feed)
 - A11y Weekly [URL](https://a11yweekly.com/) [Feed](https://a11yweekly.com/feed/)
 - The Morning Brew [URL](https://blog.cwa.me.uk/) [Feed](http://feeds.feedburner.com/ReflectivePerspective)
 - Ploeh.DJ [URL](https://blog.ploeh.dk/) [Feed](https://blog.ploeh.dk/rss.xml)
+
 <!-- blogroll_marker ends -->
