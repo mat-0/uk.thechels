@@ -5,8 +5,8 @@ type: blog
 title: What to do when you fill your S&S ISA in the UK in 2026?
 tags: [finance]
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 > According to [FT Adviser](https://www.ftadviser.com/content/add9b16e-1b00-465f-a56b-50e6ffae585d) 2.5 million were able to fill their ISAs (both cash and stocks and shares) in the tax year to April 2023. So What do you do when you have filled your ISA?
