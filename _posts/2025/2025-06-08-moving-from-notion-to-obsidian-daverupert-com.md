@@ -1,11 +1,11 @@
 ---
+layout: post
 date: 2025-06-08
 title: "Moving from Notion to Obsidian"
 type: linked
 cited: Dave Rupert
 link: https://daverupert.com/2025/05/notion-to-obsidian/
 seo: "markdown, text is the new gold."
-tags:
 ---
 
 As it turns out. Markdown _is_ the new gold.

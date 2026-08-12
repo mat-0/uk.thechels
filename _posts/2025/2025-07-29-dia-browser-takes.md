@@ -1,9 +1,7 @@
 ---
+layout: post
 title: Dia Browser Takes
-author: Mat
-tags:
 date: 2025-07-29
-
 type: blog
 ---
 

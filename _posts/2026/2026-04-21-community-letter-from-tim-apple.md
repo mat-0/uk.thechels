@@ -1,4 +1,5 @@
 ---
+layout: post
 date: 2026-04-21 01:05
 title: "Community Letter from Tim Apple"
 type: linked

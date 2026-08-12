@@ -1,11 +1,11 @@
 ---
+layout: post
 date: 2025-06-08
 title: "It is not your codebase"
 type: linked
 cited: Sean Goedecke
 link: https://www.seangoedecke.com/not-your-codebase/
 seo: "Engineers often feel a lot of ownership over the code they write"
-tags:
 ---
 
 I'm pretty confident that not a single piece of code I've written in a commerical/employed setting is still in use today. I don't think that's a bad thing.

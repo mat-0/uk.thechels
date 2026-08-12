@@ -1,9 +1,7 @@
 ---
+layout: post
 title: Hiyd Release version 1.1.0
-author: Mat
-tags:
 date: 2025-06-16
-
 type: blog
 ---
 

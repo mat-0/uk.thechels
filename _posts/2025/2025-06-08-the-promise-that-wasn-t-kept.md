@@ -1,11 +1,11 @@
 ---
+layout: post
 date: 2025-06-08
 title: "The promise that wasn’t kept"
 type: linked
 cited: Salma Alam-Naylor
 link: https://whitep4nth3r.com/blog/the-promise-that-wasnt-kept/
 seo: "AI is distracting us from creating real value. While we chase speed and automation"
-tags:
 ---
 
 Literally yes, but figuratively no, well maybe not, it depends. If you are shipping insecure software that you don't know how to debug, scale, then you are not a software engineer, at least not yet. CI/CD principles, lean, xp, agile delivery, test-driven development and teaming (mob/group/social programming) are all tools that solve this. If you don't have the discipline and the processes in place it makes little difference if you have used AI or not.

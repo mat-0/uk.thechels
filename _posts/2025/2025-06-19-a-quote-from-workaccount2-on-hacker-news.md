@@ -1,11 +1,11 @@
 ---
+layout: post
 date: 2025-06-19
 title: "Context Rot from AI"
 type: linked
 cited: Simon Willison
 link: https://simonwillison.net/2025/Jun/18/context-rot/#atom-everything
 seo: ""
-tags:
 ---
 
 Via Simon Willison, a quote from a comment on Hacker News by Workaccount2. Sharing here as I've found that I have inadvertently been doing this myself when wanting to move on with an agent and not have it carry existing context into a new request.

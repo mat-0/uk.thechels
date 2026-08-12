@@ -1,9 +1,8 @@
 ---
+layout: post
 title: Phone battery issues
-author:
 tags: [ME]
 date: 2025-07-29
-
 type: blog
 ---
 

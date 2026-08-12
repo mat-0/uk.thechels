@@ -1,4 +1,5 @@
 ---
+layout: post
 date: 2026-03-24
 title: "Incidence of ME peaks in adolescence or early middle age"
 type: linked

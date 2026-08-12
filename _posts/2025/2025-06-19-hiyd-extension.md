@@ -2,7 +2,6 @@
 title: Announcing Hiyd Extension
 layout: post
 date: 2025-06-19
-tags:
 type: blog
 ---
 

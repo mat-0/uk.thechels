@@ -1,4 +1,5 @@
 ---
+layout: post
 date: 2004-02-10
 title: "Black Rebel Motorcycle Club & The Cooper Temple Clause at Southampton Guildhall"
 cited: "Concert Archives"

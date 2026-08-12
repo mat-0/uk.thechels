@@ -1,8 +1,6 @@
 ---
-Layout: default
+layout: post
 Title: TypeScript for Pythonistas
-Tags:
-
 type: blog
 ---
 

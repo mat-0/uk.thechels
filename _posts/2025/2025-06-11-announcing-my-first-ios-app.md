@@ -1,9 +1,8 @@
 ---
+layout: post
 title: Announcing my first iOS app
-author: Mat
 tags:
 date: 2025-06-11
-
 type: blog
 ---
 

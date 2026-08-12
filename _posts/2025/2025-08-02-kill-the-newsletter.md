@@ -1,11 +1,11 @@
 ---
+layout: post
 date: 2025-08-02
 title: "Kill the Newsletter!"
 type: linked
 cited: Kill the Newsletter
 link: https://kill-the-newsletter.com/
 seo: "Convert email newsletters into Atom feeds"
-tags:
 ---
 
 > How does Kill the Newsletter! work?

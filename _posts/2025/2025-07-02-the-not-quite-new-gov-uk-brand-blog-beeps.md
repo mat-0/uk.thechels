@@ -1,11 +1,11 @@
 ---
+layout: post
 date: 2025-07-02
 title: "Rebranding and design costs"
 type: linked
 cited: Beeps
 link: https://beeps.website/blog/2025-06-25-the-not-quite-new-govuk-brand/
 seo: "behind the scenes of GDS."
-tags:
 ---
 
 Making intuitive interfaces and design systems that work for everyone is hard and takes time, but often the expectation is to deliver quickly.

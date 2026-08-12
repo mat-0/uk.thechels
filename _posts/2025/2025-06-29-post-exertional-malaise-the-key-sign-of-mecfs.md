@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Post-Exertional Malaise - The Key Sign of ME/CFS
 link: https://batemanhornecenter.org/wp-content/uploads/filebase/providers/PEM-Lecture-Slides-ECHO-v4-5_17_2022.pdf
 type: linked
