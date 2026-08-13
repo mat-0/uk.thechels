@@ -11,7 +11,7 @@ release_project: template-mta-sts-txt-and-subdomain-setup
 release_version: 1.0.0
 ---
 
-## About
+## About
 
 - This is a template repo for setting up MTA-STS subdomain and `.well-known/mta-sts.txt` file
 
