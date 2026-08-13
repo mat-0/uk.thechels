@@ -56,7 +56,7 @@ My plan made it to the end in 98.2% of scenarios, based on 649 scenarios across 
 
 ![networth-fire-2026](/images/finance/networth-fire-2026.png)
 
-The charts in the tool show that in some scenarios my net worth could reach a nominal £150m by age 93 (2076) albeit an outlier. This is if markets are good and money stays invested and compounding for another 50 years. The median outcome (dark blue line) based on the historical data is a nominal £30m net worth. I am certain in any cases like this any surplus available during my retirement will be an increase my discretionary spend.
+The charts in the tool show that in some scenarios my net worth could reach a nominal £150m by age 93 (2076) albeit an outlier. This is if markets are good and money stays invested and compounding for another 50 years. The median outcome (dark blue line) based on the historical data is a nominal £30m net worth at age 93. I am certain in any cases like this any surplus available during my retirement will be an increase my discretionary spend.
 
 ![cashflow-fire-2026](/images/finance/cashflow-fire-2026.png)
 
