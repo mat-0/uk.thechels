@@ -7,7 +7,7 @@ class: templates
 i_name: View
 i_url: "https://github.com/thechelsuk/template-feed-archiver"
 summary: "A Repo template for monitoring and archiving a feed."
-type: wrench
+type: template
 ---
 
 A GitHub template repository setup to copy an rss or atom feed into a `_data` folder in a repo for monitoring and archiving purposes.
