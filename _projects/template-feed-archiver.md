@@ -10,7 +10,7 @@ summary: "A Repo template for monitoring and archiving a feed."
 type: wrench
 ---
 
-A GitHub template repository setup to copy an rss or atom feed into a `_data` folder in  a repo for monitoring and archiving purposes.
+A GitHub template repository setup to copy an rss or atom feed into a `_data` folder in a repo for monitoring and archiving purposes.
 
 - Simply copy the repo.
 - Change the `daily.yml` action to include the feed url and the output file name
