@@ -2,7 +2,7 @@
 layout: post
 date: 2026-08-13 08:00
 type: blog
-title: What to do when you fill your S&S ISA in the UK in 2026?
+title: What to do when you fill your Stock and Shares ISA in the UK in 2026?
 tags: [finance]
 syndicate:
   - mastodon
