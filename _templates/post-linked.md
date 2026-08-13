@@ -6,8 +6,8 @@ title: post title
 type: linked
 cited: source name
 syndicate:
-    - bluesky
-    - mastodon
+  - bluesky
+  - mastodon
 ---
 
 my comment
