@@ -6,9 +6,9 @@ date: 2026-08-12 16:00
 type: ways
 ---
 
-Twitch have recently opted-in ever streamer into Amazon's generative AI training. You have to explicitly opt-out manually.
+> Twitch have recently opted-in every streamer into Amazon's generative AI training. You have to explicitly opt-out manually.
 
-Opting out will stop any future use of your stream for AI use, but it is not possible to tell if previous content was used. Viewing someone else's stream and therefore that streamer's chat is governed/covered by their settings.
+Twitch now uses streamer content — VODs, clips, stream chats, and channel text/images — to train Amazon's generative AI models. Opting out will stop any future use of your stream for AI use, but it is not possible to tell if previous content was used. Viewing someone else's stream and therefore that streamer's chat is governed/covered by their settings.
 
 ## How to opt out of AI training on Twitch
 
