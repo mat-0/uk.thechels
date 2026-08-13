@@ -2,10 +2,13 @@
 layout: post
 date: YYYY-MM-DD HH:MM
 title: Video title
+seo:
 type: video
-class:
+syndicate:
   - mastodon
   - bluesky
+  - textlog
+  - rss
 ---
 
 [watch on YouTube](url)

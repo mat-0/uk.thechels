@@ -4,9 +4,12 @@ title: How to x
 seo: Ways - x
 date: YYYY-MM-DD HH:MM
 type: ways
-class:
+syndicate:
   - mastodon
   - bluesky
+  - textlog
+  - rss
+  - indie
 ---
 
 my comment

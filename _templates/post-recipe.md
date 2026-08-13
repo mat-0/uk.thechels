@@ -5,7 +5,7 @@ date: YYYY-MM-DD HH:MM
 type: blog
 seo: "SEO description"
 tags: [recipe]
-class:
+syndicate:
   - mastodon
   - bluesky
 ---

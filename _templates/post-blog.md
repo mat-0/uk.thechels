@@ -3,7 +3,7 @@ layout: post
 title: post title
 date: YYYY-MM-DD HH:MM
 type: blog
-class:
+syndicate:
   - mastodon
   - bluesky
   - indie (syndicates to indiewebnews)

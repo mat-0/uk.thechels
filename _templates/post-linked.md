@@ -5,7 +5,9 @@ link: url
 title: post title
 type: linked
 cited: source name
-syndicate: false
+syndicate:
+    - bluesky
+    - mastodon
 ---
 
 my comment
