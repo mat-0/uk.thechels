@@ -28,7 +28,7 @@ Here is a high level summary of the data used. It assumes from 2026 until retire
 It assumes inflation is applied uniformly across fund growth, expenses and salary.
 
 It also allows me to plan where my withdrawals come from and in which order ISA -> WPP -> SIPP -> onwards.
-The ISA acting as my [retirement bridge until pensions are available at 58](https://thechels.uk/the-ISA-retirement-bridge) and then my pensions sustaining the next decade until I can add by DB and State pension to the mix.
+The ISA acting as my [retirement bridge until pensions are available at 58](https://thechels.uk/the-ISA-retirement-bridge) and then my pensions sustaining the next decade until I can add my DB and State pension to the mix.
 
 | Type | Value |
 |- --- | --- -|
@@ -52,15 +52,15 @@ Note: These real historical scenarios cover both incomes and withdrawals, so in 
 
 ##  My outcomes
 
-My plan made it to the end in 98.2% of scenarios, based on 649 scenarios across the last 111 years of history. In Just 12 of 649 scenarios did my plan need some sort of adjustment - this might be cutting back on spending for a few years, perhaps seeking a part time job to tick over until the markets recovered. But from my risk tolerance, and yours may vary, this is fine for me.
+My plan made it to the end in 98.2% of scenarios, based on 649 scenarios across the last 111 years of history. In just 12 of 649 scenarios did my plan need some sort of adjustment - this might be cutting back on spending for a few years, perhaps seeking a part time job to tick over until the markets recovered. But from my risk tolerance, and yours may vary, this is fine for me.
 
 ![networth-fire-2026](/images/finance/networth-fire-2026.png)
 
-The charts in the tool show that in some scenarios my net worth could reach a nominal £150m by age 93 (2076) (albeit an outlier). This is if markets are good and money stays invested and compounding for another 50 years. The median outcome (dark blue line) based on the historical data is a nominal £30m net worth. I am certain this would be unlikely in any case. If I have surplus available during my retirement I will be increasing my discretionary spend.
+The charts in the tool show that in some scenarios my net worth could reach a nominal £150m by age 93 (2076) albeit an outlier. This is if markets are good and money stays invested and compounding for another 50 years. The median outcome (dark blue line) based on the historical data is a nominal £30m net worth. I am certain in any cases like this any surplus available during my retirement will be an increase my discretionary spend.
 
 ![cashflow-fire-2026](/images/finance/cashflow-fire-2026.png)
 
-This chart shows my cashflow during my retirement, with high income as I work, no income as I live off the ISA, before my pension withdrawals kick in, my mortgage drops off and the withdrawals from my pensions (these are shown at net, tax adjusted) equal my expenditure and as my DB and State pension kicks there is an increase in cashflow before tailing off to live at my means until the end.
+This chart shows my cashflow during my retirement, with high income as I work, no income as I live off the ISA, before my pension withdrawals kick in, my mortgage drops off and the withdrawals from my pensions (these are shown at net, tax adjusted) equal my expenditure and as my DB and State pension kicks in there is an increase in cashflow before tailing off to live at my means until the end.
 
 notes:
 
