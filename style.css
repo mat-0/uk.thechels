@@ -612,8 +612,8 @@ a {
 /* ---------------------------------- */
 /* ---------- Block Styles  -------- */
 /* ---------------------------------- */
-// Callout block: write ___text___ or ***text*** or _**text**_
-// in Markdown (produces <em><strong>text</strong></em>)
+/* Callout block: write ___text___ or ***text*** or _**text**_**. */
+/* in Markdown produces <em><strong>text</strong></em>*/
 
 div.highlighter-rouge>div.highlight {
     border: 1px solid var(--code);
