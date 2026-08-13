@@ -848,7 +848,7 @@ table {
 /* ---------------------------------- */
 /* ----------  Theming  ------------- */
 /* ---------------------------------- */
-
+/*
 // a[href^="http"]:not([href*="thechels.uk"]):after {
 //     content: "⎋";
 //     margin-left: 0.25rem;
@@ -856,6 +856,7 @@ table {
 //     display: inline-block;
 //     transform: rotate(90deg);
 // }
+*/
 
 .theme-toggle__link {
     margin-left: 0.5em;
