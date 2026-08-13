@@ -40,3 +40,5 @@
   url: https://github.com/thechelsuk/rss-chat-reply-manager-for-jekyll/releases.atom
 - id: Template - mta-sts txt and subdomain setup
   url: https://github.com/thechelsuk/template-mta-sts-sub-domain/releases.atom
+- id: Template - feed archiver for github
+  url: https://github.com/thechelsuk/template-feed-archiver/releases.atom
