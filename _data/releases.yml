@@ -38,3 +38,5 @@
   url: https://github.com/thechelsuk/script_convert_youtube_takeout_to_opml.py/releases.atom
 - id: Scripts - rss.chat reply manager for Jekyll
   url: https://github.com/thechelsuk/rss-chat-reply-manager-for-jekyll/releases.atom
+- id: Template - mta-sts txt and subdomain setup
+  url: https://github.com/thechelsuk/template-mta-sts-sub-domain/releases.atom
