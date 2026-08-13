@@ -15,7 +15,7 @@ syndicate:
 
 I am using a tool that I was able to get free access to during my time working in financial services, it allows me to act as a financial coach and plug in one set of client details. It just so happens that client is me.
 
-So I've plugged in my income, my assets, my planned expenditure from now until retirement and beyond and set an aggressive 48 target compared to my other posts where 50 looks much more comfortable.
+So I've plugged in my income, my assets, my planned expenditure from now until retirement and beyond and set an aggressive 48 target compared to my other post where 50 looks much more comfortable.
 
 ## Historical Risks Captured
 
