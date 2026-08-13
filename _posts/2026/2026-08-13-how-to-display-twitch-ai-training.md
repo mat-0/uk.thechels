@@ -2,7 +2,7 @@
 layout: post
 title: How to switch off generative AI training on Twitch
 seo: Ways - How to opt out of AI training on Twitch
-date: 2026-08-12 16:00
+date: 2026-08-13 16:00
 type: ways
 ---
 
