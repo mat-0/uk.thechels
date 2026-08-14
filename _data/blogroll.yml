@@ -1,4 +1,4 @@
-- title: Andrew Nesbitt
+- title: Blog  - Andrew Nesbitt
   htmlUrl: https://nesbitt.io/
   xmlUrl: https://nesbitt.io/feed.xml
 - title: A11y Weekly
@@ -31,12 +31,18 @@
 - title: Alice Bartlett
   htmlUrl: https://alicebartlett.co.uk/
   xmlUrl: https://alicebartlett.co.uk/feed.xml
+- title: Alvin Ashcroft (Morning Dew)
+  htmlUrl: https://alvinashcraft.com/
+  xmlUrl: https://www.alvinashcraft.com/feed.xml
 - title: Ana Rodrigues
   htmlUrl: https://ohhelloana.blog/
   xmlUrl: https://ohhelloana.blog/feed.xml
 - title: And a Dinosaur (Zhenyi Tan)
   htmlUrl: https://andadinosaur.com/
   xmlUrl: https://andadinosaur.com/home.rss
+- title: Andrew Shell
+  htmlUrl: https://andrewshell.org/
+  xmlUrl: https://andrewshell.org/feed/
 - title: Andy Bell
   htmlUrl: https://bell.bz/
   xmlUrl: https://bell.bz/feed.xml
@@ -74,7 +80,7 @@
   htmlUrl: https://benjamin.parry.is/
   xmlUrl: https://benjamin.parry.is/writing/feed.xml
 - title: Benjamin Willems (Anti-)
-  htmlUrl: https://benjaminwil.info/
+  htmlUrl: https://benjaminwil.info/antisocial/feed.xml/
   xmlUrl: https://benjaminwil.info/antisocial/feed.xml
 - title: Benjamin Willems (Main)
   htmlUrl: https://benjaminwil.info/feed.xml/
@@ -89,7 +95,7 @@
   htmlUrl: https://boz.com/
   xmlUrl: https://boz.com/rss.xml
 - title: Brendan Dawes
-  htmlUrl: https://brendandawes.com/
+  htmlUrl: http://brendandawes.com/blog
   xmlUrl: http://brendandawes.com/blog/feed
 - title: Brennan Brown
   htmlUrl: https://brennan.day/
@@ -103,7 +109,7 @@
 - title: Build5Nines
   htmlUrl: https://build5nines.com/
   xmlUrl: http://buildazure.com/feed/
-- title: "by Stéphanie Walter"
+- title: "by St\xE9phanie Walter"
   htmlUrl: https://stephaniewalter.design/
   xmlUrl: https://stephaniewalter.design/feed/
 - title: Caleb Hearth
@@ -166,6 +172,9 @@
 - title: Cybaa by Joe T
   htmlUrl: https://joetiedeman.uk/
   xmlUrl: https://joetiedeman.uk/feed/
+- title: Dalan Mendonca
+  htmlUrl: https://dalanmendonca.com/
+  xmlUrl: https://dalanmendonca.com/rss-all.xml
 - title: Dan North
   htmlUrl: https://dannorth.net/
   xmlUrl: http://DanNorth.net/index.xml
@@ -313,6 +322,9 @@
 - title: Jim Nielsen (Notes)
   htmlUrl: https://notes.jim-nielsen.com/
   xmlUrl: https://notes.jim-nielsen.com/feed.json
+- title: Joana Stern (The New Things)
+  htmlUrl: https://thenewthings.com/
+  xmlUrl: https://rss.beehiiv.com/feeds/1vJYynypCP.xml
 - title: Joel Hawksley
   htmlUrl: https://hawksley.org/
   xmlUrl: https://hawksley.org/feed.xml
@@ -325,9 +337,6 @@
 - title: Jon Shamir
   htmlUrl: https://jonshamir.com/
   xmlUrl: https://jonshamir.com/rss.xml
-- title: Journalism UK
-  htmlUrl: https://www.journalism.co.uk/
-  xmlUrl: https://www.journalism.co.uk/rss/
 - title: Julia Evans
   htmlUrl: https://jvns.ca/
   xmlUrl: https://jvns.ca/atom.xml
@@ -352,13 +361,13 @@
 - title: Leading Answers
   htmlUrl: https://www.leadinganswers.com/
   xmlUrl: http://leadinganswers.typepad.com/leading_answers/atom.xml
-- title: "Léonie Watson"
+- title: "L\xE9onie Watson"
   htmlUrl: https://tink.uk/
   xmlUrl: https://tink.uk/feed.xml
 - title: Lisa Charlotte Muth
   htmlUrl: https://lisacharlottemuth.com/
   xmlUrl: https://lisacharlottemuth.com/feed.xml
-- title: "Luís Gonçalves"
+- title: "Lu\xEDs Gon\xE7alves"
   htmlUrl: https://luis-goncalves.com/
   xmlUrl: https://luis-goncalves.com/blog/feed/
 - title: Lynn Fisher
@@ -380,7 +389,7 @@
   htmlUrl: https://marcthiele.com/
   xmlUrl: https://marcthiele.com/feed-all
 - title: Marcin Wichary
-  htmlUrl: https://aresluna.org/
+  htmlUrl: https://www.aresluna.org/
   xmlUrl: https://aresluna.org/main.rss
 - title: Marco Arment
   htmlUrl: https://marco.org/
@@ -533,7 +542,7 @@
   htmlUrl: https://www.hanselman.com/blog/
   xmlUrl: http://feeds.hanselman.com/ScottHanselman
 - title: Scott Helme
-  htmlUrl: https://scotthelme.ghost.io/
+  htmlUrl: https://scotthelme.co.uk/
   xmlUrl: https://scotthelme.co.uk/rss/
 - title: Scripting
   htmlUrl: http://scripting.com/
@@ -589,6 +598,9 @@
 - title: Stephen Hackett 512 Pixels
   htmlUrl: https://512pixels.net/
   xmlUrl: http://feeds2.feedburner.com/forkbombr/rss2
+- title: Stephen Robles (all)
+  htmlUrl: https://beard.fm/
+  xmlUrl: https://wrangler.steve-9e8.workers.dev/rss
 - title: Steve (Harsh Browns)
   htmlUrl: https://visitmy.website/
   xmlUrl: https://visitmy.website/feed.xml
@@ -619,6 +631,9 @@
 - title: The Codist
   htmlUrl: https://thecodist.com/
   xmlUrl: http://feeds.feedburner.com/thecodist
+- title: The Ensemblist
+  htmlUrl: https://the-ensemblist.uk/
+  xmlUrl: https://the-ensemblist.uk/feed
 - title: The Lang Cat
   htmlUrl: https://thelangcat.co.uk/
   xmlUrl: https://langcatfinancial.co.uk/feed/
@@ -646,12 +661,18 @@
 - title: Tyler Sticka
   htmlUrl: https://tylersticka.com/
   xmlUrl: https://tylersticka.com/journal/feed.xml
+- title: UK Tech Week
+  htmlUrl: https://uktechweek.org/
+  xmlUrl: https://uktechweek.org/feed/
 - title: Vale.Rocks
   htmlUrl: https://vale.rocks/posts
   xmlUrl: https://vale.rocks/posts/feed.xml
 - title: Victor Wynne
   htmlUrl: https://victorwynne.com/
   xmlUrl: https://victorwynne.com/feed.xml
+- title: Virology
+  htmlUrl: https://virology.ws/
+  xmlUrl: https://virology.ws/feed/
 - title: Vlad's Website
   htmlUrl: https://vlad.website/
   xmlUrl: https://vlad.website/index.xml
