@@ -89,7 +89,7 @@
 - link: https://feeds.megaphone.fm/GLT8847082992
   name: The Rest Is Football
 - link: https://audioboom.com/channels/5112392.rss
-  name: 'Page 94: The Private Eye Podcast'
+  name: "Page 94: The Private Eye Podcast"
 - link: https://sharptech.fm/feed/podcast
   name: Sharp Tech with Ben Thompson
 - link: https://www.spreaker.com/show/5634794/episodes/feed
@@ -107,7 +107,7 @@
 - link: https://www.omnycontent.com/d/playlist/1439345f-6152-486d-a9c2-a6bf0067f2b7/3ba9af7f-3bfb-48fd-aae7-a6bf00689c10/fde26e49-9fb8-457d-8f16-a6bf00696676/podcast.rss
   name: Troy Hunt's Weekly Update Podcast
 - link: https://fnopodcast.libsyn.com/rss
-  name: 'FNO: InsureTech'
+  name: "FNO: InsureTech"
 - link: https://softskills.audio/feed.xml
   name: Soft Skills Engineering
 - link: https://idratherbewriting.com/itunes.rss
@@ -123,7 +123,7 @@
 - link: https://feeds.megaphone.fm/whalehunting
   name: Whale Hunting
 - link: https://anchor.fm/s/41f55cbc/podcast/rss
-  name: 'Adviser 3.0: The Podcast'
+  name: "Adviser 3.0: The Podcast"
 - link: https://feeds.libsyn.com/502283/rss
   name: Hope and Help For Fatigue & Chronic Illness
 - link: https://feeds.simplecast.com/bZ7U2PEk
@@ -155,15 +155,15 @@
 - link: https://feeds.megaphone.fm/kermodeandmayo
   name: "Kermode & Mayo\u2019s Take"
 - link: https://feeds.captivate.fm/lets-talk-transformation/
-  name: 'Let''s talk Transformation : The business leaders podcast'
+  name: "Let's talk Transformation : The business leaders podcast"
 - link: https://anchor.fm/s/f53e51d4/podcast/rss
-  name: 'Blue Royalty: A Chelsea FC Women''s Podcast'
+  name: "Blue Royalty: A Chelsea FC Women's Podcast"
 - link: https://feeds.acast.com/public/shows/6682ce21b4551f12f4ad6b1c
   name: The Spawn Chunks - A Minecraft Podcast
 - link: https://feeds.megaphone.fm/STU4418364045
-  name: 'Waveform: The MKBHD Podcast'
+  name: "Waveform: The MKBHD Podcast"
 - link: https://feeds.megaphone.fm/GLT9029505120
-  name: 'The Rest Is Politics: Leading'
+  name: "The Rest Is Politics: Leading"
 - link: https://feeds.transistor.fm/the-vernon-richard-show
   name: The Vernon Richard Show
 - link: https://thoughtworks.libsyn.com/rss
@@ -173,7 +173,7 @@
 - link: https://anchor.fm/s/f6e76df4/podcast/rss
   name: Quality Talks Podcast
 - link: https://feeds.simplecast.com/JT6pbPkg
-  name: 'Google DeepMind: The Podcast'
+  name: "Google DeepMind: The Podcast"
 - link: https://www.spreaker.com/show/6019906/episodes/feed
   name: Molly White's Citation Needed
 - link: https://feeds.megaphone.fm/vergecast
@@ -243,7 +243,7 @@
 - link: https://feeds.theincomparable.com/robot
   name: Robot or Not?
 - link: https://feeds.megaphone.fm/COMG5530220765/
-  name: '1905: The Chelsea FC Podcast'
+  name: "1905: The Chelsea FC Podcast"
 - link: https://feeds.transistor.fm/launched
   name: Launched by RevenueCat
 - link: https://anchor.fm/s/6ccc9108/podcast/rss
@@ -281,7 +281,7 @@
 - link: https://rss.buzzsprout.com/2328968.rss
   name: Counter Crisis
 - link: https://rss.buzzsprout.com/1781319.rss
-  name: 'Arguing Agile: Product Management, Business Leadership, & Org Design'
+  name: "Arguing Agile: Product Management, Business Leadership, & Org Design"
 - link: https://rss.buzzsprout.com/1411126.rss
   name: Maintenance Phase
 - link: https://rss.art19.com/the-book-club-review
@@ -319,10 +319,11 @@
 - link: https://feeds.transistor.fm/bookworm
   name: Bookworm
 - link: https://feeds.castos.com/j34px
-  name: 'Mast Cell Matters: Deep dives on MCAS with Tania Dempsey, MD - Presented
-    by The POTScast'
+  name:
+    "Mast Cell Matters: Deep dives on MCAS with Tania Dempsey, MD - Presented
+    by The POTScast"
 - link: https://anchor.fm/s/10e337494/podcast/rss/
-  name: 'A Friend for the Long Haul: A Long Covid Podcast'
+  name: "A Friend for the Long Haul: A Long Covid Podcast"
 - link: https://feeds.captivate.fm/the-gary-neville-podcast/
   name: The Gary Neville Podcast
 - link: https://feeds.redcircle.com/6c608b0c-5983-4e63-8ca8-843f5b2d22f9
@@ -342,7 +343,7 @@
 - link: https://realpython.com/podcasts/rpp/feed
   name: The Real Python Podcast
 - link: https://anchor.fm/s/e642e76c/podcast/rss
-  name: 'Liquid Weekly Podcast: Shopify Developers Talking Shopify Development'
+  name: "Liquid Weekly Podcast: Shopify Developers Talking Shopify Development"
 - link: https://feeds.transistor.fm/this-week-in-net
   name: This Week in NET
 - link: https://feeds.megaphone.fm/ARML4010200722
