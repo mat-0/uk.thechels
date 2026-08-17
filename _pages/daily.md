@@ -11,6 +11,7 @@ date: 2026-08-17
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Monday, 17 August 2026
 
 - The average temperature today is 18.2˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 108 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Garden Waste Day
 
 <!-- task_marker ends -->
@@ -40,39 +43,46 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Optimise flow.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Chelmsford City v Ebbsfleet United
 - Cardiff City v Wrexham
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.86000061035156 
-- ^FTSE : 10750.099609375 
-- ^FTMC : 24867.400390625 
+- VWRL.L : 139.86000061035156
+- ^FTSE : 10750.099609375
+- ^FTMC : 24867.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Jobs market is hitting hard, the balloon industry has flattened due to the cost of inflation.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Thousands in Indonesia await aid after quake kills 53, overshadowing Independence Day (Euronews, [just now](http://www.euronews.com/2026/08/17/thousands-in-indonesia-await-aid-after-quake-kills-53-overshadowing-independence-day))
 - ‘A secret had been shared’: The inside story of an emergency climate briefing that made experts cry (Euronews, [20 minutes ago](http://www.euronews.com/2026/08/17/a-secret-had-been-shared-the-inside-story-of-an-emergency-climate-briefing-that-made-exper))
 - What does your ‘biological age’ actually mean? Scientists take a closer look (Euronews, [22 minutes ago](http://www.euronews.com/health/2026/08/17/what-does-your-biological-age-actually-mean-scientists-take-a-closer-look))
-- Latest news bulletin  August 17th, 2026 – Morning (Euronews, [22 minutes ago](http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-morning))
+- Latest news bulletin August 17th, 2026 – Morning (Euronews, [22 minutes ago](http://www.euronews.com/video/2026/08/17/latest-news-bulletin-august-17th-2026-morning))
 - Ben-Gvir calls for killing of '30 to 40' Palestinians in Gaza nightly in taped interview with former hostage (Euronews, [41 minutes ago](http://www.euronews.com/2026/08/17/ben-gvir-calls-for-killing-of-30-to-40-palestinians-in-gaza-nightly-in-taped-interview-wit))
 - Private credit under strain as troubled loans swell (FT, [1 hours ago](https://www.ft.com/content/67acde0d-4154-4332-b33b-2d03d3a86007?syn-25a6b1a6=1))
 - How Maga came for Europe (FT, [1 hours ago](https://www.ft.com/content/c5e27ffb-cfb1-421b-8121-a402cf2d84ac?syn-25a6b1a6=1))
@@ -100,7 +110,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > circumambient - adjective: Surrounding.
+> circumambient - adjective: Surrounding.
 
 <!-- word_marker ends -->
 
@@ -115,6 +125,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Discard an axiom
 
 <!-- eno_marker ends -->
@@ -122,9 +133,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Hard Candy (Rated: 7)
 - Released in 2005
 - Summary: Hayley's a smart, charming teenage girl. Jeff's a handsome, smooth fashion photographer. An Internet chat, a coffee shop meet-up, an impromptu fashion shoot back at Jeff's place. Jeff thinks it's his lucky night. He's in for a sur...
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -145,9 +158,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Troy Hunt [URL](https://www.troyhunt.com/) [Feed](https://www.troyhunt.com/rss/)
 - Chris Ferdinandi [URL](https://gomakethings.com/articles) [Feed](https://gomakethings.com/feed/index.xml)
 - Michael Julius [URL](https://mjulius.com/) [Feed](https://mjulius.com/feed/)
 - Cupertino Lens [URL](https://cupertinolens.com/) [Feed](https://cupertinolens.com/feed/)
 - Salma Alam-Naylor [URL](https://whitep4nth3r.com/) [Feed](https://whitep4nth3r.com/feed.xml)
+
 <!-- blogroll_marker ends -->
