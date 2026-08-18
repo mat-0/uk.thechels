@@ -11,6 +11,7 @@ date: 2026-08-18
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Tuesday, 18 August 2026
 
 - The average temperature today is 19.06˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 109 days since the last change (2026-04-30)
 
@@ -33,6 +35,7 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - Refuse Waste Collection Day
 - Food Waste Collection Day
 
@@ -41,12 +44,15 @@ _Good Morning, Here is your daily briefing..._
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Seek the best.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Leyton Orient v AFC Wimbledon
 - Northampton Town v Brighton & Hove Albion U21
 - Reading v Wycombe Wanderers
@@ -57,30 +63,34 @@ _Good Morning, Here is your daily briefing..._
 - Morecambe v South Shields
 - Torquay United v Weston Super Mare
 - Walton & Hersham v Dagenham & Redbridge
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.9499969482422 
-- ^FTSE : 10720.2998046875 
-- ^FTMC : 24704.400390625 
+- VWRL.L : 139.9499969482422
+- ^FTSE : 10720.2998046875
+- ^FTMC : 24704.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Why are all fast cars Chinese? When they drive past they all say Nǐ hǎo.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Pocket-sized sensors and mobile apps are changing how Londoners track air pollution (Euronews, [18 minutes ago](http://www.euronews.com/2026/08/18/pocket-sized-sensors-and-mobile-apps-are-changing-how-londoners-track-air-pollution))
 - This stunning new retreat focusing on wellness, music and gastronomy just opened in Ibiza (Euronews, [18 minutes ago](http://www.euronews.com/travel/2026/08/18/this-stunning-new-retreat-focusing-on-wellness-music-and-gastronomy-just-opened-in-ibiza))
-- Latest news bulletin  August 18th, 2026 – Morning (Euronews, [20 minutes ago](http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-morning))
+- Latest news bulletin August 18th, 2026 – Morning (Euronews, [20 minutes ago](http://www.euronews.com/video/2026/08/18/latest-news-bulletin-august-18th-2026-morning))
 - Want to retire in your 40s? Young workers are turning to FIRE (Euronews, [20 minutes ago](http://www.euronews.com/business/2026/08/18/want-to-retire-in-your-40s-young-workers-are-turning-to-fire))
 - Zambia's Hakainde Hichilema wins re-election with 60% of vote, officials say (Euronews, [20 minutes ago](http://www.euronews.com/2026/08/18/zambias-hakainde-hichilema-wins-re-election-with-60-of-vote-officials-say))
 - Judge blocks Trump administration's attempt to scrap move to Biden-selected FBI headquarters (Euronews, [34 minutes ago](http://www.euronews.com/2026/08/18/judge-blocks-trump-administrations-attempt-to-scrap-move-to-biden-selected-fbi-headquarter))
@@ -119,7 +129,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > hapchance - noun: 1. Luck or fortune. 2. An occurrence, especially a lucky one. verb intr.: To happen.
+> hapchance - noun: 1. Luck or fortune. 2. An occurrence, especially a lucky one. verb intr.: To happen.
 
 <!-- word_marker ends -->
 
@@ -134,6 +144,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > The inconsistency principle
 
 <!-- eno_marker ends -->
@@ -141,9 +152,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - 2 Fast 2 Furious (Rated: 6)
 - Released in 2003
 - Summary: Former cop Brian O'Conner is called upon to bust a dangerous criminal and he recruits the help of a former childhood friend and street racer who has a chance to redeem himself.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -164,9 +177,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Anna Shipman [URL](https://www.annashipman.co.uk/) [Feed](https://www.annashipman.co.uk/atom.xml)
 - Nate Silver [URL](https://www.natesilver.net/) [Feed](https://www.natesilver.net/feed)
 - Will Larson [URL](https://lethain.com/) [Feed](https://lethain.com/feeds.xml)
 - Jenn Schiffer [URL](https://livelaugh.blog/) [Feed](https://livelaugh.blog/rss.xml)
 - Sean McPherson [URL](https://seanmcp.com/) [Feed](https://seanmcp.com/rss.xml)
+
 <!-- blogroll_marker ends -->
