@@ -11,6 +11,7 @@ date: 2026-08-19
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Wednesday, 19 August 2026
 
 - The average temperature today is 14.93˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 110 days since the last change (2026-04-30)
 
@@ -33,46 +35,55 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Challenge assumptions.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Chelsea U18 v Norwich City U18
 - Mansfield Town v Manchester City U21
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.3300018310547 
-- ^FTSE : 10728.0 
-- ^FTMC : 24561.400390625 
+- VWRL.L : 138.3300018310547
+- ^FTSE : 10728.0
+- ^FTMC : 24561.400390625
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > That last joke was terrible, without the 's' though, it was decent.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Sacked Ukrainian Defence Minister Mykhailo Fedorov calls for presidential elections (Euronews, [9 minutes ago](http://www.euronews.com/my-europe/2026/08/19/sacked-ukrainian-defence-minister-mykhailo-fedorov-calls-for-presidential-elections))
 - Europe’s quietest island revealed – and it’s just an hour from one of the continent’s busiest (Euronews, [16 minutes ago](http://www.euronews.com/travel/2026/08/19/europes-quietest-island-revealed-and-its-just-an-hour-from-one-of-the-continents-busiest))
 - ‘Speckles of hope’: What we learned from cycling the length of the drought-hit Danube (Euronews, [19 minutes ago](http://www.euronews.com/2026/08/19/speckles-of-hope-what-we-learned-from-cycling-the-length-of-the-drought-hit-danube))
 - Hot nights are stealing your sleep and affecting your health. Here’s how (Euronews, [21 minutes ago](http://www.euronews.com/health/2026/08/19/hot-nights-health-effects))
-- Latest news bulletin  August 19th, 2026 – Morning (Euronews, [21 minutes ago](http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-morning))
+- Latest news bulletin August 19th, 2026 – Morning (Euronews, [21 minutes ago](http://www.euronews.com/video/2026/08/19/latest-news-bulletin-august-19th-2026-morning))
 - ‘There is no fish’: The Russian vessels raising spy fears in Europe (Euronews, [21 minutes ago](http://www.euronews.com/my-europe/2026/08/19/there-is-no-fish-the-russian-vessels-raising-spy-fears-in-europe))
 - War and heatwaves threaten to push bread and pasta prices higher (Euronews, [21 minutes ago](http://www.euronews.com/business/2026/08/19/war-and-heatwaves-threaten-to-push-bread-and-pasta-prices-higher))
 - EU-backed electricity link to Cyprus stalls amid regional tensions (Euronews, [27 minutes ago](http://www.euronews.com/my-europe/2026/08/19/eu-backed-electricity-link-to-cyprus-stalls-amid-regional-tensions))
@@ -97,7 +108,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > concomitance - noun: 1. Occurrence or existence together or in connection with another. 2. Something that occurs or exists in connection with another.
+> concomitance - noun: 1. Occurrence or existence together or in connection with another. 2. Something that occurs or exists in connection with another.
 
 <!-- word_marker ends -->
 
@@ -112,6 +123,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Distorting time
 
 <!-- eno_marker ends -->
@@ -119,9 +131,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Playback (Rated: 7)
 - Released in 2012
 - Summary: A teenager investigates the case of a missing local baby, though he discovers a dark secret that has been unleashed in his town, and an evil spirit that will stop at nothing to find its heir.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -142,9 +156,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Julia Evans [URL](https://jvns.ca/) [Feed](https://jvns.ca/atom.xml)
 - Steve (Harsh Browns) [URL](https://visitmy.website/) [Feed](https://visitmy.website/feed.xml)
 - Bubbles [URL](https://dshbx.de/blog/bubbles/) [Feed](https://dshbx.de/blog/bubbles/feed)
 - Waxy (Andy Baio) [URL](https://waxy.org/) [Feed](https://waxy.org/feed/)
 - Dave Rupert [URL](https://daverupert.com/) [Feed](https://daverupert.com/atom.xml)
+
 <!-- blogroll_marker ends -->

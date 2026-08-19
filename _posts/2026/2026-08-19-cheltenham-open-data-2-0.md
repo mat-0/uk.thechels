@@ -5,8 +5,8 @@ date: 2026-08-19 23:00
 type: blog
 seo: "Cheltenham Open Data: local fuel price comparison, open data tools, and classifieds for Cheltenham — built without big tech clutter."
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 [Cheltenham Open Data](https://cheltenham-od.uk/) is now on Version 2.0 -- a design refresh on the front end, and a fair bit of unglamorous work behind the scenes to improve scalability as the site grows.
@@ -33,7 +33,7 @@ Wars and thus spiking fuel prices were dominating the news, so there was real ap
 
 ## Community feedback shaped the roadmap
 
-I shared the [fuel prices page](https://cheltenham-od.uk/cheltenham-fuel-prices) on a local Cheltenham subreddit. The response was immediate  and useful and some quick changes were implemented immediately.
+I shared the [fuel prices page](https://cheltenham-od.uk/cheltenham-fuel-prices) on a local Cheltenham subreddit. The response was immediate and useful and some quick changes were implemented immediately.
 
 ## Where the project has gone since
 
