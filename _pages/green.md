@@ -15,6 +15,8 @@ According to an online calculator, my personal emissions equate to 4.6kg and my 
 
 [Source](https://www.websitecarbon.com/website/thechels-uk/)
 
+[![Green Web Foundation badge](https://app.greenweb.org/api/v3/greencheckimage/thechels.uk?nocache=true)](https://www.thegreenwebfoundation.org/green-web-check/?url=thechels.uk)
+
 ## Sustainability
 
 - Avoid fast fashion
