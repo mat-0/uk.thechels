@@ -11,6 +11,7 @@ date: 2026-08-20
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 20 August 2026
 
 - The average temperature today is 14.23˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 111 days since the last change (2026-04-30)
 
@@ -33,43 +35,52 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > challenge assumptions.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - Tromso v Brighton & Hove Albion
 - Sheffield Wednesday v Bradford City
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 138.24000549316406 
-- ^FTSE : 10743.400390625 
-- ^FTMC : 24643.5 
+- VWRL.L : 138.24000549316406
+- ^FTSE : 10743.400390625
+- ^FTMC : 24643.5
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
-> What are two landmasses favourite game? -  Bridge.
+
+> What are two landmasses favourite game? - Bridge.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - ‘A formidable predator’: Italian scientists relying on octopuses to get blue crab populations in check (Euronews, [9 minutes ago](http://www.euronews.com/2026/08/20/a-formidable-predator-italian-scientists-hoping-octopuses-can-get-blue-crab-populations-in))
-- Latest news bulletin  August 20th, 2026 – Morning (Euronews, [21 minutes ago](http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-morning))
+- Latest news bulletin August 20th, 2026 – Morning (Euronews, [21 minutes ago](http://www.euronews.com/video/2026/08/20/latest-news-bulletin-august-20th-2026-morning))
 - In London, children’s lungs grow faster as traffic pollution falls (Euronews, [21 minutes ago](http://www.euronews.com/health/2026/08/20/london-childrens-lungs-grow-faster-as-traffic-pollution-falls))
 - Lebanon extradites ex-Assad military general to Syria for trial over alleged crimes committed during civil war (Euronews, [29 minutes ago](http://www.euronews.com/2026/08/20/lebanon-extradites-ex-assad-military-general-to-syria-for-trial-over-alleged-crimes-commit))
 - Prince Harry and Meghan Markle to move back to the UK later this month (Euronews, [59 minutes ago](http://www.euronews.com/my-europe/2026/08/20/prince-harry-and-meghan-markle-to-move-back-to-the-uk-later-this-month))
@@ -108,7 +119,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > overplus - noun: Something extra; a surplus.
+> overplus - noun: Something extra; a surplus.
 
 <!-- word_marker ends -->
 
@@ -123,6 +134,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Reverse
 
 <!-- eno_marker ends -->
@@ -130,9 +142,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Hollow (Rated: 4)
 - Released in 2011
 - Summary: On holiday in the English countryside, two young couples uncover an ancient evil.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -153,9 +167,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - Olu Niyi-Awosusi [URL](https://olu.online/) [Feed](https://olu.online/feed/?type=rss)
 - The Changelog [URL](https://changelog.com/) [Feed](http://feeds.feedburner.com/thechangelog)
 - Six Colors [URL](https://sixcolors.com/?feed=json) [Feed](https://sixcolors.com/feed.json)
 - Chris Shaw [URL](https://thoughts.uncountable.uk/) [Feed](https://thoughts.uncountable.uk/feed)
 - Graham Cluley [URL](https://grahamcluley.com/) [Feed](http://feeds.feedburner.com/GrahamCluleysBlog)
+
 <!-- blogroll_marker ends -->
