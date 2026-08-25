@@ -21,4 +21,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 gem "webrick", "~> 1.9"
 gem "nokogiri", ">= 1.18.8"
 gem "faraday-retry"
-gem "psych", "~> 5.4.0"
+gem "psych", "~> 5.5.0"
