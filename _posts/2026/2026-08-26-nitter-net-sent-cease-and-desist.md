@@ -6,8 +6,8 @@ link: https://nitter.net/
 layout: "post"
 type: "linked"
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 X doesn't letter third party readers access it's content, note that's not user's content it belongs to X. You have to use it's website and it's apps yet it is somehow not responsible for said content.
