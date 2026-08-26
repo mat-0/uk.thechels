@@ -107,38 +107,38 @@ I'll update this post after the follow-up session.
 
 ### What is a CPAD assessment
 
-A Chronic Pain Ability Determination assessment. It's used, typically at an insurer's request, to assess whether someone claiming disability benefits is able to work.
+- A Chronic Pain Ability Determination assessment. It's used, typically at an insurer's request, to assess whether someone claiming disability benefits is able to work.
 
 ### Who carries out a CPAD assessment
 
-In my case, an occupational health assessor with experience in chronic pain, brain-related conditions, and MS. The specific background of the assessor can vary. They were self-employed and working on behalf of a separate health company to the insurance provider.
+- In my case, an occupational health assessor with experience in chronic pain, brain-related conditions, and MS. The specific background of the assessor can vary. They were self-employed and working on behalf of a separate health company to the insurance provider.
 
 ### How long does a CPAD assessment take
 
-My session ran just over three hours (9am to 12:15pm), and I was told it could run longer depending on my pace and whether I needed breaks, typically 4 hours.
+- My session ran just over three hours (9am to 12:15pm), and I was told it could run longer depending on my pace and whether I needed breaks, typically 4 hours.
 
 ### What does a CPAD assessment involve
 
-In my case: a history interview, blood pressure and heart rate checks, physical motor skills testing (grip strength and pegboard dexterity tests) and some range of motion and repetition designed to reflect my sedentary role in a work context, and computerised cognitive testing (processing speed, Stroop test, memory recall).
+- In my case: a history interview, blood pressure and heart rate checks, physical motor skills testing (grip strength and pegboard dexterity tests) and some range of motion and repetition designed to reflect my sedentary role in a work context, and computerised cognitive testing (processing speed, Stroop test, memory recall).
 
 ### Does a CPAD assessment test for PEM (post-exertional malaise)
 
-PEM was asked about during the history interview, but not explored in depth in my case due to my focus on recovery. A follow-up session two days later was scheduled specifically to capture how I felt afterward, which does allow for delayed PEM to be reported, even if the main testing day doesn't directly measure it.
+- PEM was asked about during the history interview, but not explored in depth in my case due to my focus on recovery. A follow-up session two days later was scheduled specifically to capture how I felt afterward, which does allow for delayed PEM to be reported, even if the main testing day doesn't directly measure it.
 
 ### Does the assessment test for orthostatic intolerance or autonomic dysfunction
 
-Not directly. Blood pressure was checked three times, but this was a seated check, not a lying-to-standing or lean test protocol that would specifically test for orthostatic changes for common co-morbidities like POTs
+- Not directly. Blood pressure was checked three times, but this was a seated check, not a lying-to-standing or lean test protocol that would specifically test for orthostatic changes for common co-morbidities like POTs
 
 ### What happens if a test makes your symptoms worse
 
-I was told I could decline or flag if a test risked worsening my symptoms or was beyond my ability. I felt comfortable to do so with this accessor, but didn't need to. All tests felt well within my capability today.
+- I was told I could decline or flag if a test risked worsening my symptoms or was beyond my ability. I felt comfortable to do so with this accessor, but didn't need to. All tests felt well within my capability today.
 
-I was also told to try my best, as the assessment includes monitoring for effort and consistency. I'm not sure how it could tell.
+- I was also told to try my best, as the assessment includes monitoring for effort and consistency. I'm not sure how it could tell.
 
 ### Do you get your results on the day
 
-No. Results from the strength and dexterity tests weren't shared with me during the session, and I wasn't given a running interpretation of the findings.
+- No. Results from the strength and dexterity tests weren't shared with me during the session, and I wasn't given a running interpretation of the findings.
 
 ### Is there a follow-up session
 
-Yes. A second session is scheduled two days after the first, to report on how I've felt since. This appears designed to capture delayed-onset PEM, which the single testing day doesn't directly assess. The second session is likely to be two hours and include more physical and cognitive tests.
+- Yes. A second session is scheduled two days after the first, to report on how I've felt since. This appears designed to capture delayed-onset PEM, which the single testing day doesn't directly assess. The second session is likely to be two hours and include more physical and cognitive tests.
