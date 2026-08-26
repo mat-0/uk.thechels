@@ -5,8 +5,8 @@ title: Monthly Mixtape - Aug 2026
 type: mixtape
 robots: noindex
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 What I've been listening to this month.
