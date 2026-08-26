@@ -24,3 +24,5 @@ The project tracks live local data for Cheltenham and Gloucestershire, pulled da
 - Read [today's air quality readings for Cheltenham](https://cheltenham-od.uk/cheltenham-air-quality).
 - See [what Cheltenham food banks currently need donated](https://cheltenham-od.uk/cheltenham-foodbank-needed-items).
 - Follow [aggregated local news for Cheltenham and Gloucestershire](https://cheltenham-od.uk/cheltenham-news), or subscribe to the [daily news summary RSS feed](https://cheltenham-od.uk/feeds/news-summary.xml).
+
+[![Cheltenham Open Data - Local data for local people | Product Hunt](https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=1233477&theme=neutral&t=1787779399464)](https://www.producthunt.com/products/cheltenham-open-data?embed=true&utm_source=badge-featured&utm_medium=badge&utm_campaign=badge-cheltenham-open-data)
