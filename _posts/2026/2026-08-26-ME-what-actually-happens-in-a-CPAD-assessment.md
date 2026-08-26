@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Inside a CPAD Assessment: What Actually Happens When an Insurer Tests Your Ability to Work with ME"
+title: "Inside a CPAD Assessment: When an Insurer Tests Your Ability to Work with ME"
 type: blog
 date: 2026-08-26 21:00
 tags:
