@@ -11,6 +11,7 @@ date: 2026-08-28
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Friday, 28 August 2026
 
 - The average temperature today is 17.1˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 120 days since the last change (2026-04-30)
 
@@ -33,18 +35,23 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Focus on user needs.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - AFC Fylde v Forest Green Rovers
 - Aldershot Town v Harrogate Town
 - Altrincham v FC Halifax Town
@@ -59,27 +66,31 @@ _Good Morning, Here is your daily briefing..._
 - Wealdstone v Carlisle United
 - Wrexham v Birmingham City
 - Crystal Palace v Manchester City
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.25999450683594 
-- ^FTSE : 10817.7998046875 
-- ^FTMC : 24961.029296875 
+- VWRL.L : 139.25999450683594
+- ^FTSE : 10817.7998046875
+- ^FTMC : 24961.029296875
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > At school, during the creative classes, I was only good at drawing night time scenes featuring lots of curtains, blinds, and shadows, my tutor said I had really mastered the dark arts.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - China suspends Nepal rescue efforts as lake overflows (FT, [37 minutes ago](https://www.ft.com/content/65478d4a-7edd-45b6-884e-144b22b50a0f?syn-25a6b1a6=1))
 - The Daily Hilario: Friday (WAGNH, [39 minutes ago](https://weaintgotnohistory.sbnation.com/bobby-ramblings/171538/the-daily-hilario-august-28th))
 - Norway's King Harald V dies at the age of 89 palace confirms (Euronews, [59 minutes ago](http://www.euronews.com/my-europe/2026/08/28/norways-king-harald-v-dies-at-the-age-of-89-palace-confirms))
@@ -128,7 +139,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > chumocracy - noun: A government, organization, or culture in which friends and associates are favored, especially in appointments to positions of authority.
+> chumocracy - noun: A government, organization, or culture in which friends and associates are favored, especially in appointments to positions of authority.
 
 <!-- word_marker ends -->
 
@@ -143,6 +154,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Allow an easement (an easement is the abandonment of a stricture)
 
 <!-- eno_marker ends -->
@@ -150,9 +162,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - The Matrix iii Revolutions (Rated: 5)
 - Released in 2003
 - Summary: No summary available
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -173,9 +187,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - ThoughtAsylum [URL](https://www.thoughtasylum.com/) [Feed](https://www.thoughtasylum.com/atom.xml)
 - pzumk [URL](https://pzumk.com/) [Feed](https://pzumk.com/rss/)
 - Tom Hazeldine [URL](https://tomhazledine.com/) [Feed](https://tomhazledine.com/feed.xml)
 - Rachel Andrew [URL](https://rachelandrew.co.uk/) [Feed](https://rachelandrew.co.uk/feed/)
-- Blog  - Andrew Nesbitt [URL](https://nesbitt.io/) [Feed](https://nesbitt.io/feed.xml)
+- Blog - Andrew Nesbitt [URL](https://nesbitt.io/) [Feed](https://nesbitt.io/feed.xml)
+
 <!-- blogroll_marker ends -->
