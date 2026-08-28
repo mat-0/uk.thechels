@@ -13,3 +13,4 @@ UK personal finance, investing, and FIRE (Financial Independence, Retire Early) 
 
 - [FIRE Calculator for UK Retirement](https://tools.thechels.uk/fire) — see what age you can realistically stop work, using your own numbers.
 - [ISA Retirement Bridge Calculator](https://tools.thechels.uk/the-ISA-retirement-apex-bridge-tool) — work out the ISA "apex" you need to bridge the years to your pension.
+- [UK Redundancy Calculator with holiday and ex-gratia](https://tools.thechels.uk/uk-redundancy-pay-calculator)
