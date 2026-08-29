@@ -4790,5 +4790,36 @@
 "/update-new-domain-for-sign-in-with-apple-latest-news-apple-developer": {}
 "/2026-08-27-daily-rundown": {}
 "/2026-08-28-daily-rundown": {}
-"/ME-what-actually-happens-in-a-CPAD-assessment-part-two": {}
+"/ME-what-actually-happens-in-a-CPAD-assessment-part-two":
+  '2026737':
+    id: '2026737'
+    uri: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mu63mpekz22c
+    source: false
+    pubdate: 2026-08-28 20:24:05.000000000 +01:00
+    raw:
+      source: https://bsky.brid.gy/convert/web/at://did:plc:dz7xwi7wgfyzk4oemurkomax/app.bsky.feed.post/3mu63mpekz22c%23bridgy-fed-create-2026-08-28T19:24:07.622735+00:00
+      verified: true
+      verified_date: '2026-08-28T19:24:14+00:00'
+      id: 2026737
+      private: false
+      data:
+        author: &83
+          name: hiyd.uk
+          url: https://bsky.app/profile/hiyd.uk
+          photo: https://avatars.webmention.io/eurosky.social/e2dfeaef55379c39559c4b5882447e2cc7537c04973fd27d2747d378a01c7440.jpg
+        url: https://bsky.app/profile/did:plc:dz7xwi7wgfyzk4oemurkomax/post/3mu63mpekz22c
+        name:
+        content: <a href="https://bsky.app/search?q=%23me">#me</a> <a href="https://bsky.app/search?q=%23myalgic">#myalgic</a>
+          <a href="https://bsky.app/search?q=%23cpad">#cpad</a> <a href="https://bsky.app/search?q=%23medical">#medical</a>
+          -&gt;
+        published: '2026-08-28T19:24:05+00:00'
+        published_ts: 1787945045
+      activity:
+        type: link
+      target: https://thechels.uk/ME-what-actually-happens-in-a-CPAD-assessment-part-two
+    author: *83
+    type: link
+    content: <a href="https://bsky.app/search?q=%23me">#me</a> <a href="https://bsky.app/search?q=%23myalgic">#myalgic</a>
+      <a href="https://bsky.app/search?q=%23cpad">#cpad</a> <a href="https://bsky.app/search?q=%23medical">#medical</a>
+      -&gt;
 "/video-football-scores-dashboard-2026-08-28-b74cf2ae": {}
