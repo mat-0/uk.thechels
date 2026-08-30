@@ -3,6 +3,7 @@ layout: post
 title: "Inside a CPAD Assessment II: When an Insurer Tests Your Ability to Work with ME"
 type: blog
 date: 2026-08-28 13:00
+seo: "A Chronic Pain Ability Determination (CPAD) assessment is designed to test whether you're fit to work, usually at the request of an insurer that wants to verify, stop, or reduce a payout."
 tags:
   - ME
 syndicate:
@@ -33,7 +34,7 @@ This is, I guess, a basic check to see if it's safe to continue, but at a point 
 
 ## Physical motor skills testing
 
-A repeat of the previous session, I believe I achieved parity or a slight improvement, I would expect to have failed miserably had I been at my worst and severe level. I could feel some pain in my hands and arms - muscular and nerve level but this was minor 3 out of 10 on a pain scale and more likely to be linked to my physical decline known as deconditioning and activation of muscles that haven't been used much in the last year due to having had severe symptoms. I also have ongoing autonomic dysfunction issues which also align well.
+A repeat of the previous session, I believe I achieved parity or a slight improvement, I would expect to have failed miserably had I been at my worst and severe level. I could feel some pain in my hands and arms - muscular and nerve level but this was minor 3 out of 10 on a [pain scale](/pain-rating-scale) and more likely to be linked to my physical decline known as deconditioning and activation of muscles that haven't been used much in the last year due to having had severe symptoms. I also have ongoing autonomic dysfunction issues which also align well.
 
 ## Computerised test
 
