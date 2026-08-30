@@ -9,7 +9,7 @@ seo: "how to manage work load better than agile scrum"
 type: blog
 ---
 
-This is my method of doing work, as an individual and when working in a team. It is what I bring to teams I manage and encourage group or ensemble/mob programming. 
+This is my method of doing work, as an individual and when working in a team. It is what I bring to teams I manage and encourage group or ensemble/mob programming.
 
 When doing this for work It's likely you will inherit a longer list, or personally you may have items that had due dates but are not able to be completed immediately e.g., renewing car insurance. I suggest a "backlog" for these and when looking for new work items one should check or be reminded of the backlog list.
 
