@@ -34,12 +34,11 @@ By type:
 - [Mastodon](https://mastodon.social/@Thechelsuk.rss) - A feed directly from Mastodon.
 - [Youtube](https://www.youtube.com/feeds/videos.xml?channel_id=UCwK4oZ8hw9RS6tZKEjw_qLw) - A feed directly from YouTube.
 
-## Niche Summary Feeds
+## Cheltenham Open Data Feeds
 
-- [Dotnet News Summary](https://feeds.thechels.uk/dotnet.rss)
-- [SecOps News Summary](https://feeds.thechels.uk/secops.rss)
-- [Insurance News Summary](https://feeds.thechels.uk/insurance.rss)
-- [Local News Summary](https://cheltenham-od/daily.rss)
-- [Local Flood Alerts](https://cheltenham-od.uk/flood.xml)
+- [Cheltenham OD announcements](https://cheltenham-od.uk/feeds/main.xml)
+- [Cheltenham Local News Summary](https://cheltenham-od.uk/feeds/news-summary.xml)
+- [Cheltenham Local Flood Alerts](https://cheltenham-od.uk/feeds/flood.xml)
+- [Cheltenham Local Classifieds Feed](https://cheltenham-od.uk/feeds/classifieds.xml)
 
 If you don’t have a feed reader then I highly recommend using [NetNewsWire](https://netnewswire.com/). It’s really good, offers icloud sync across devices, loads of third-party integrations and is completely free. If you go ahead and use it, you can also try my completely free [themes](/projects/nnw-themes.
