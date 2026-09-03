@@ -11,6 +11,7 @@ date: 2026-09-03
 _Good Morning, Here is your daily briefing..._
 
 <!-- weather_marker starts -->
+
 ## On Thursday, 03 September 2026
 
 - The average temperature today is 20.82˚C,
@@ -25,6 +26,7 @@ _Good Morning, Here is your daily briefing..._
 ### MI5 Status
 
 <!-- threat_marker starts -->
+
 - The current threat level is <span class="highlighter">SEVERE</span>
 - It has been 126 days since the last change (2026-04-30)
 
@@ -33,40 +35,49 @@ _Good Morning, Here is your daily briefing..._
 ### Today's tasks
 
 <!-- task_marker starts -->
+
 - No tasks today
+
 <!-- task_marker ends -->
 
 ### Daily Doctrine
 
 <!-- doctrine_marker starts -->
+
 > Know your users.
+
 <!-- doctrine_marker ends -->
 
 ### Fixture List
 
 <!-- fixture_marker starts -->
+
 - No Fixtures
+
 <!-- fixture_marker ends -->
 
 ### Stocks
 
 <!-- stocks_marker starts -->
 
-- VWRL.L : 139.02000427246094 
-- ^FTSE : 10767.08984375 
-- ^FTMC : 24341.439453125 
+- VWRL.L : 139.02000427246094
+- ^FTSE : 10767.08984375
+- ^FTMC : 24341.439453125
 
 <!-- stocks_marker ends -->
 
 ### Just for fun
 
 <!-- jokes_marker starts -->
+
 > Where do they make facts? At the factory.
+
 <!-- jokes_marker ends -->
 
 ### Top News
 
 <!-- news_marker starts -->
+
 - Putin's autocratic regime not enough to freeze assets of Russia-linked companies, EU's court rules (Euronews, [3 minutes ago](http://www.euronews.com/my-europe/2026/09/03/putins-autocratic-regime-not-enough-to-freeze-assets-of-russia-linked-companies-eus-court-))
 - Lithuania will act fast to a war footing if Russia attacks it, Foreign Minister Budrys says (Euronews, [7 minutes ago](http://www.euronews.com/video/2026/09/03/lithuania-will-act-fast-to-a-war-footing-if-russia-attacks-it-foreign-minister-budrys-says))
 - El Niño to be 'very strong' and last until February, UN climate agency warns (Euronews, [25 minutes ago](http://www.euronews.com/2026/09/03/el-nino-to-be-very-strong-and-last-until-february-un-climate-agency-warns))
@@ -110,7 +121,7 @@ _Good Morning, Here is your daily briefing..._
 
 <!-- word_marker starts -->
 
- > griffonage - noun: Careless or illegible handwriting; scrawl.
+> griffonage - noun: Careless or illegible handwriting; scrawl.
 
 <!-- word_marker ends -->
 
@@ -125,6 +136,7 @@ _Good Morning, Here is your daily briefing..._
 ### Oblique Strategies
 
 <!-- eno_marker starts -->
+
 > Do the words need changing?
 
 <!-- eno_marker ends -->
@@ -132,9 +144,11 @@ _Good Morning, Here is your daily briefing..._
 ### Film Archive
 
 <!-- film_marker starts -->
+
 - Pusher (Rated: 7)
 - Released in 2012
 - Summary: A drug pusher grows increasingly desperate after a botched deal leaves him with a large debt to a ruthless drug lord.
+
 <!-- film_marker ends -->
 
 ### Countdown Numbers
@@ -155,9 +169,11 @@ _Good Morning, Here is your daily briefing..._
 ### 5 Random Blogroll Links
 
 <!-- blogroll_marker starts -->
+
 - David Bushell [URL](https://dbushell.com/) [Feed](https://dbushell.com/merge/rss.xml)
 - Marcin Wichary [URL](https://www.aresluna.org/) [Feed](https://aresluna.org/main.rss)
 - Jeremy Keith [URL](https://adactio.com/journal/) [Feed](https://adactio.com/journal/rss)
 - Anna Shipman [URL](https://www.annashipman.co.uk/) [Feed](https://www.annashipman.co.uk/atom.xml)
 - Ploeh.DJ [URL](https://blog.ploeh.dk/) [Feed](https://blog.ploeh.dk/rss.xml)
+
 <!-- blogroll_marker ends -->
