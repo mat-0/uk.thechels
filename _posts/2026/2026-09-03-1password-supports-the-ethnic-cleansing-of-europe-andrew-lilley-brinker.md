@@ -7,8 +7,8 @@ link: https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/
 seo: "1Password has committed $300,000 to Omarchy. This is unacceptable and must be rescinded."
 type: "linked"
 syndicate:
-    - mastodon
-    - bluesky
+  - mastodon
+  - bluesky
 ---
 
 1Password has been on of my favourite businesses and I've been a paying customer for many many years. I have recommended it to friends, family, and employers. I'm gutted that they've done this.
