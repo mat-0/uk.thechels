@@ -127,11 +127,26 @@ def get_unique_filename(year, date_str, title, video_id):
     clean_title_for_filename = clean_title_for_file(title)
 
     # Hash the video ID to ensure uniqueness even if title changes
-    video_id_hash = hashlib.sha256(video_id.encode()).hexdigest()[:8]
+    video_id_hash = get_video_id_hash(video_id)
 
     # Filename: yyyy-mm-dd-title-hash.md
     filename = f"{date_str}-video-{clean_title_for_filename}-{video_id_hash}.md"
     return f"{year}/{filename}"
+
+
+def get_video_id_hash(video_id):
+    """Returns the filename-safe identifier derived from a video ID."""
+    return hashlib.sha256(video_id.encode()).hexdigest()[:8]
+
+
+def post_exists_for_video(video_id):
+    """Checks every generated post, regardless of its date or title."""
+    video_id_hash = get_video_id_hash(video_id)
+    filename_suffix = f"-{video_id_hash}.md"
+
+    return any(
+        path.name.endswith(filename_suffix)
+        for path in OUTPUT_FOLDER.rglob("*.md"))
 
 
 def create_front_matter(entry):
@@ -169,7 +184,7 @@ def generate_body(video_url):
     return f"[Watch on Youtube]({video_url})\n"
 
 
-def save_post_to_jekyll(fm_content, body_content, filename):
+def save_post_to_jekyll(fm_content, body_content, filename, video_id=None):
     """
     Writes the file to the correct directory structure.
     """
@@ -178,8 +193,8 @@ def save_post_to_jekyll(fm_content, body_content, filename):
     # Construct file path inside _posts folder
     file_path = os.path.join(OUTPUT_FOLDER, filename)
 
-    # If file exists, skip writing
-    if os.path.exists(file_path):
+    if os.path.exists(file_path) or (video_id
+                                     and post_exists_for_video(video_id)):
         print(f"✓ Skipping existing file: {file_path}")
         return
 
@@ -232,7 +247,7 @@ def run_main():
             fm, body, filename = process_entry(entry)
 
             # Save file
-            save_post_to_jekyll(fm, body, filename)
+            save_post_to_jekyll(fm, body, filename, get_video_id(entry))
 
         except Exception as e:
             # Only print the error message, not the entire entry
