@@ -3,7 +3,7 @@ layout: tagged
 title: ME/CFS Blog Archive
 seo: "ME - Personal blog posts on ME/CFS: symptoms, pacing, post-exertional malaise, NHS care, benefits, and life with chronic fatigue in the UK."
 tagged: ME
-permalink: /tag/ME
+permalink: /tag/me
 date: 2026-01-01
 ---
 
