@@ -178,6 +178,8 @@ navigation_archives:
     title: "Linked Quotes"
   - link: "/archives/blog"
     title: "Blog Posts"
+  - link: "/archives/film"
+    title: "Film"
 
 ## SubMenu
 navigation_slashes:
